@@ -1,0 +1,29 @@
+# Ignore virtual environments
+venv/
+.env
+.env.local
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Node.js modules
+node_modules/
+dist/
+build/
+
+# Data and models (large files might be tracked by LFS or ignored)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+ml/models/*.pkl
+ml/models/*.onnx
+!ml/models/.gitkeep
+backend/models/*.pkl
+backend/models/*.onnx
+!backend/models/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
