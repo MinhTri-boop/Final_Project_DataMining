@@ -1,0 +1,2007 @@
+﻿attack_id,attacktype1,attacktype1_txt,targtype1,targtype1_txt,weaptype1,weaptype1_txt,weapsubtype1,weapsubtype1_txt
+1,1,Assassination,14,Private Citizens & Property,13,Unknown,,Unknown
+2,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown,,Unknown
+3,1,Assassination,10,Journalists & Media,13,Unknown,,Unknown
+4,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,16.0,Unknown Explosive Type
+5,7,Facility/Infrastructure Attack,7,Government (Diplomatic),8,Incendiary,,Unknown
+6,2,Armed Assault,3,Police,5,Firearms,5.0,Unknown Gun Type
+7,1,Assassination,3,Police,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+8,3,Bombing/Explosion,21,Utilities,6,Explosives,16.0,Unknown Explosive Type
+9,7,Facility/Infrastructure Attack,4,Military,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+10,7,Facility/Infrastructure Attack,2,Government (General),8,Incendiary,20.0,Gasoline or Alcohol
+11,3,Bombing/Explosion,4,Military,6,Explosives,16.0,Unknown Explosive Type
+12,4,Hijacking,6,Airports & Aircraft,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+13,7,Facility/Infrastructure Attack,2,Government (General),8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+14,7,Facility/Infrastructure Attack,1,Business,8,Incendiary,18.0,Arson/Fire
+15,3,Bombing/Explosion,2,Government (General),6,Explosives,16.0,Unknown Explosive Type
+16,9,Unknown,4,Military,13,Unknown,,Unknown
+17,3,Bombing/Explosion,8,Educational Institution,6,Explosives,31.0,Pipe Bomb
+18,3,Bombing/Explosion,1,Business,6,Explosives,16.0,Unknown Explosive Type
+19,7,Facility/Infrastructure Attack,1,Business,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+20,7,Facility/Infrastructure Attack,3,Police,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+21,2,Armed Assault,8,Educational Institution,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+22,3,Bombing/Explosion,8,Educational Institution,6,Explosives,16.0,Unknown Explosive Type
+23,7,Facility/Infrastructure Attack,22,Violent Political Party,8,Incendiary,18.0,Arson/Fire
+24,1,Assassination,7,Government (Diplomatic),13,Unknown,,Unknown
+25,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,15.0,Vehicle
+26,6,Hostage Taking (Kidnapping),1,Business,13,Unknown,,Unknown
+27,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,28.0,Dynamite/TNT
+28,7,Facility/Infrastructure Attack,14,Private Citizens & Property,8,Incendiary,18.0,Arson/Fire
+29,3,Bombing/Explosion,2,Government (General),6,Explosives,28.0,Dynamite/TNT
+30,7,Facility/Infrastructure Attack,2,Government (General),8,Incendiary,18.0,Arson/Fire
+31,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,16.0,Unknown Explosive Type
+32,3,Bombing/Explosion,20,Unknown,6,Explosives,28.0,Dynamite/TNT
+33,3,Bombing/Explosion,1,Business,6,Explosives,28.0,Dynamite/TNT
+34,3,Bombing/Explosion,3,Police,6,Explosives,28.0,Dynamite/TNT
+35,2,Armed Assault,3,Police,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+36,7,Facility/Infrastructure Attack,1,Business,8,Incendiary,20.0,Gasoline or Alcohol
+37,3,Bombing/Explosion,19,Transportation,6,Explosives,28.0,Dynamite/TNT
+38,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,28.0,Dynamite/TNT
+39,7,Facility/Infrastructure Attack,21,Utilities,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+40,7,Facility/Infrastructure Attack,8,Educational Institution,8,Incendiary,18.0,Arson/Fire
+41,3,Bombing/Explosion,1,Business,6,Explosives,31.0,Pipe Bomb
+42,2,Armed Assault,6,Airports & Aircraft,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+43,7,Facility/Infrastructure Attack,8,Educational Institution,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+44,3,Bombing/Explosion,3,Police,6,Explosives,16.0,Unknown Explosive Type
+45,7,Facility/Infrastructure Attack,14,Private Citizens & Property,8,Incendiary,,Unknown
+46,7,Facility/Infrastructure Attack,4,Military,8,Incendiary,18.0,Arson/Fire
+47,3,Bombing/Explosion,21,Utilities,6,Explosives,28.0,Dynamite/TNT
+48,3,Bombing/Explosion,3,Police,6,Explosives,31.0,Pipe Bomb
+49,3,Bombing/Explosion,3,Police,6,Explosives,15.0,Vehicle
+50,3,Bombing/Explosion,8,Educational Institution,6,Explosives,28.0,Dynamite/TNT
+51,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,10.0,Pressure Trigger
+52,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,16.0,Unknown Explosive Type
+53,7,Facility/Infrastructure Attack,3,Police,8,Incendiary,20.0,Gasoline or Alcohol
+54,7,Facility/Infrastructure Attack,4,Military,8,Incendiary,20.0,Gasoline or Alcohol
+55,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,14.0,Time Fuse
+56,7,Facility/Infrastructure Attack,14,Private Citizens & Property,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+57,7,Facility/Infrastructure Attack,8,Educational Institution,8,Incendiary,20.0,Gasoline or Alcohol
+58,3,Bombing/Explosion,4,Military,6,Explosives,28.0,Dynamite/TNT
+59,2,Armed Assault,18,Tourists,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+60,3,Bombing/Explosion,4,Military,6,Explosives,17.0,Other Explosive Type
+61,6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown,,Unknown
+62,3,Bombing/Explosion,4,Military,6,Explosives,14.0,Time Fuse
+63,1,Assassination,4,Military,5,Firearms,5.0,Unknown Gun Type
+64,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+65,7,Facility/Infrastructure Attack,8,Educational Institution,8,Incendiary,,Unknown
+66,7,Facility/Infrastructure Attack,14,Private Citizens & Property,2,Chemical,1.0,Poisoning
+67,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+68,3,Bombing/Explosion,20,Unknown,6,Explosives,16.0,Unknown Explosive Type
+69,3,Bombing/Explosion,2,Government (General),6,Explosives,14.0,Time Fuse
+70,3,Bombing/Explosion,3,Police,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+71,6,Hostage Taking (Kidnapping),10,Journalists & Media,13,Unknown,,Unknown
+72,4,Hijacking,4,Military,5,Firearms,3.0,Handgun
+73,3,Bombing/Explosion,4,Military,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+74,1,Assassination,14,Private Citizens & Property,5,Firearms,5.0,Unknown Gun Type
+75,3,Bombing/Explosion,2,Government (General),6,Explosives,9.0,Letter Bomb
+76,3,Bombing/Explosion,1,Business,6,Explosives,14.0,Time Fuse
+77,6,Hostage Taking (Kidnapping),4,Military,13,Unknown,,Unknown
+78,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,31.0,Pipe Bomb
+79,3,Bombing/Explosion,3,Police,6,Explosives,17.0,Other Explosive Type
+80,4,Hijacking,6,Airports & Aircraft,6,Explosives,16.0,Unknown Explosive Type
+81,3,Bombing/Explosion,8,Educational Institution,6,Explosives,14.0,Time Fuse
+82,2,Armed Assault,1,Business,5,Firearms,5.0,Unknown Gun Type
+83,2,Armed Assault,4,Military,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+84,3,Bombing/Explosion,12,NGO,6,Explosives,17.0,Other Explosive Type
+85,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,17.0,Other Explosive Type
+86,2,Armed Assault,3,Police,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+87,3,Bombing/Explosion,16,Telecommunication,6,Explosives,14.0,Time Fuse
+88,3,Bombing/Explosion,3,Police,6,Explosives,14.0,Time Fuse
+89,2,Armed Assault,3,Police,5,Firearms,3.0,Handgun
+90,3,Bombing/Explosion,4,Military,6,Explosives,31.0,Pipe Bomb
+91,1,Assassination,7,Government (Diplomatic),5,Firearms,3.0,Handgun
+92,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,28.0,Dynamite/TNT
+93,7,Facility/Infrastructure Attack,14,Private Citizens & Property,8,Incendiary,20.0,Gasoline or Alcohol
+94,7,Facility/Infrastructure Attack,2,Government (General),8,Incendiary,,Unknown
+95,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,8,Incendiary,18.0,Arson/Fire
+96,3,Bombing/Explosion,8,Educational Institution,6,Explosives,17.0,Other Explosive Type
+97,3,Bombing/Explosion,1,Business,6,Explosives,17.0,Other Explosive Type
+98,1,Assassination,7,Government (Diplomatic),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+99,7,Facility/Infrastructure Attack,1,Business,8,Incendiary,,Unknown
+100,3,Bombing/Explosion,12,NGO,6,Explosives,16.0,Unknown Explosive Type
+101,3,Bombing/Explosion,16,Telecommunication,6,Explosives,28.0,Dynamite/TNT
+102,1,Assassination,4,Military,5,Firearms,3.0,Handgun
+103,2,Armed Assault,1,Business,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+104,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,16.0,Unknown Explosive Type
+105,8,Unarmed Assault,17,Terrorists/Non-State Militia,9,Melee,21.0,Blunt Object
+106,3,Bombing/Explosion,2,Government (General),6,Explosives,31.0,Pipe Bomb
+107,3,Bombing/Explosion,2,Government (General),6,Explosives,15.0,Vehicle
+108,2,Armed Assault,4,Military,5,Firearms,3.0,Handgun
+109,7,Facility/Infrastructure Attack,4,Military,11,Sabotage Equipment,,Unknown
+110,1,Assassination,2,Government (General),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+111,1,Assassination,14,Private Citizens & Property,6,Explosives,15.0,Vehicle
+112,2,Armed Assault,2,Government (General),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+113,7,Facility/Infrastructure Attack,1,Business,2,Chemical,,Unknown
+114,5,Hostage Taking (Barricade Incident),1,Business,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+115,1,Assassination,14,Private Citizens & Property,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+116,1,Assassination,4,Military,13,Unknown,,Unknown
+117,9,Unknown,7,Government (Diplomatic),13,Unknown,,Unknown
+118,7,Facility/Infrastructure Attack,13,Other,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+119,2,Armed Assault,17,Terrorists/Non-State Militia,8,Incendiary,,Unknown
+120,2,Armed Assault,14,Private Citizens & Property,5,Firearms,5.0,Unknown Gun Type
+121,2,Armed Assault,15,Religious Figures/Institutions,5,Firearms,5.0,Unknown Gun Type
+122,4,Hijacking,6,Airports & Aircraft,13,Unknown,,Unknown
+123,1,Assassination,14,Private Citizens & Property,5,Firearms,3.0,Handgun
+124,7,Facility/Infrastructure Attack,10,Journalists & Media,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+125,2,Armed Assault,14,Private Citizens & Property,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+126,7,Facility/Infrastructure Attack,12,NGO,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+127,3,Bombing/Explosion,1,Business,6,Explosives,15.0,Vehicle
+128,4,Hijacking,6,Airports & Aircraft,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+129,3,Bombing/Explosion,21,Utilities,6,Explosives,31.0,Pipe Bomb
+130,3,Bombing/Explosion,2,Government (General),6,Explosives,17.0,Other Explosive Type
+131,1,Assassination,1,Business,6,Explosives,15.0,Vehicle
+132,3,Bombing/Explosion,16,Telecommunication,6,Explosives,16.0,Unknown Explosive Type
+133,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,16.0,Unknown Explosive Type
+134,2,Armed Assault,14,Private Citizens & Property,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+135,2,Armed Assault,7,Government (Diplomatic),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+136,3,Bombing/Explosion,3,Police,6,Explosives,29.0,Sticky Bomb
+137,6,Hostage Taking (Kidnapping),2,Government (General),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+138,5,Hostage Taking (Barricade Incident),16,Telecommunication,5,Firearms,3.0,Handgun
+139,3,Bombing/Explosion,4,Military,6,Explosives,15.0,Vehicle
+140,2,Armed Assault,1,Business,5,Firearms,3.0,Handgun
+141,1,Assassination,2,Government (General),6,Explosives,16.0,Unknown Explosive Type
+142,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,16.0,Unknown Explosive Type
+143,3,Bombing/Explosion,3,Police,6,Explosives,7.0,Grenade
+144,4,Hijacking,6,Airports & Aircraft,6,Explosives,7.0,Grenade
+145,4,Hijacking,6,Airports & Aircraft,5,Firearms,3.0,Handgun
+146,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,31.0,Pipe Bomb
+147,6,Hostage Taking (Kidnapping),3,Police,13,Unknown,,Unknown
+148,7,Facility/Infrastructure Attack,9,Food or Water Supply,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+149,2,Armed Assault,4,Military,8,Incendiary,,Unknown
+150,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,31.0,Pipe Bomb
+151,6,Hostage Taking (Kidnapping),2,Government (General),5,Firearms,5.0,Unknown Gun Type
+152,7,Facility/Infrastructure Attack,10,Journalists & Media,8,Incendiary,,Unknown
+153,7,Facility/Infrastructure Attack,6,Airports & Aircraft,8,Incendiary,,Unknown
+154,8,Unarmed Assault,8,Educational Institution,2,Chemical,,Unknown
+155,3,Bombing/Explosion,20,Unknown,6,Explosives,17.0,Other Explosive Type
+156,1,Assassination,7,Government (Diplomatic),10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+157,8,Unarmed Assault,3,Police,9,Melee,21.0,Blunt Object
+158,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,28.0,Dynamite/TNT
+159,3,Bombing/Explosion,20,Unknown,6,Explosives,14.0,Time Fuse
+160,3,Bombing/Explosion,18,Tourists,6,Explosives,16.0,Unknown Explosive Type
+161,1,Assassination,10,Journalists & Media,5,Firearms,3.0,Handgun
+162,1,Assassination,3,Police,5,Firearms,3.0,Handgun
+163,7,Facility/Infrastructure Attack,3,Police,8,Incendiary,,Unknown
+164,2,Armed Assault,3,Police,9,Melee,23.0,Knife or Other Sharp Object
+165,2,Armed Assault,10,Journalists & Media,5,Firearms,3.0,Handgun
+166,2,Armed Assault,8,Educational Institution,5,Firearms,3.0,Handgun
+167,2,Armed Assault,10,Journalists & Media,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+168,7,Facility/Infrastructure Attack,4,Military,8,Incendiary,,Unknown
+169,1,Assassination,4,Military,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+170,3,Bombing/Explosion,4,Military,6,Explosives,8.0,Landmine
+171,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,13,Unknown,,Unknown
+172,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,17.0,Other Explosive Type
+173,2,Armed Assault,7,Government (Diplomatic),8,Incendiary,,Unknown
+174,1,Assassination,3,Police,5,Firearms,5.0,Unknown Gun Type
+175,1,Assassination,17,Terrorists/Non-State Militia,5,Firearms,5.0,Unknown Gun Type
+176,2,Armed Assault,14,Private Citizens & Property,8,Incendiary,,Unknown
+177,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+178,1,Assassination,22,Violent Political Party,5,Firearms,3.0,Handgun
+179,3,Bombing/Explosion,19,Transportation,6,Explosives,16.0,Unknown Explosive Type
+180,2,Armed Assault,21,Utilities,5,Firearms,5.0,Unknown Gun Type
+181,3,Bombing/Explosion,1,Business,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+182,1,Assassination,4,Military,9,Melee,23.0,Knife or Other Sharp Object
+183,7,Facility/Infrastructure Attack,4,Military,2,Chemical,,Unknown
+184,9,Unknown,19,Transportation,13,Unknown,,Unknown
+185,3,Bombing/Explosion,11,Maritime,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+186,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,17.0,Other Explosive Type
+187,3,Bombing/Explosion,8,Educational Institution,6,Explosives,15.0,Vehicle
+188,5,Hostage Taking (Barricade Incident),1,Business,5,Firearms,3.0,Handgun
+189,9,Unknown,3,Police,13,Unknown,,Unknown
+190,2,Armed Assault,21,Utilities,5,Firearms,3.0,Handgun
+191,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,16.0,Unknown Explosive Type
+192,1,Assassination,7,Government (Diplomatic),6,Explosives,16.0,Unknown Explosive Type
+193,4,Hijacking,6,Airports & Aircraft,6,Explosives,28.0,Dynamite/TNT
+194,2,Armed Assault,7,Government (Diplomatic),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+195,1,Assassination,11,Maritime,5,Firearms,5.0,Unknown Gun Type
+196,2,Armed Assault,8,Educational Institution,5,Firearms,5.0,Unknown Gun Type
+197,2,Armed Assault,4,Military,5,Firearms,5.0,Unknown Gun Type
+198,1,Assassination,3,Police,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+199,1,Assassination,7,Government (Diplomatic),6,Explosives,9.0,Letter Bomb
+200,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,14.0,Time Fuse
+201,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,7.0,Grenade
+202,7,Facility/Infrastructure Attack,18,Tourists,8,Incendiary,,Unknown
+203,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,15.0,Vehicle
+204,3,Bombing/Explosion,11,Maritime,6,Explosives,16.0,Unknown Explosive Type
+205,2,Armed Assault,14,Private Citizens & Property,8,Incendiary,20.0,Gasoline or Alcohol
+206,6,Hostage Taking (Kidnapping),4,Military,5,Firearms,5.0,Unknown Gun Type
+207,5,Hostage Taking (Barricade Incident),1,Business,5,Firearms,5.0,Unknown Gun Type
+208,2,Armed Assault,4,Military,8,Incendiary,20.0,Gasoline or Alcohol
+209,2,Armed Assault,17,Terrorists/Non-State Militia,5,Firearms,5.0,Unknown Gun Type
+210,1,Assassination,4,Military,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+211,1,Assassination,1,Business,6,Explosives,16.0,Unknown Explosive Type
+212,1,Assassination,14,Private Citizens & Property,9,Melee,23.0,Knife or Other Sharp Object
+213,1,Assassination,2,Government (General),6,Explosives,15.0,Vehicle
+214,7,Facility/Infrastructure Attack,14,Private Citizens & Property,13,Unknown,,Unknown
+215,1,Assassination,22,Violent Political Party,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+216,3,Bombing/Explosion,6,Airports & Aircraft,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+217,1,Assassination,4,Military,6,Explosives,16.0,Unknown Explosive Type
+218,4,Hijacking,6,Airports & Aircraft,7,Fake Weapons,,Unknown
+219,1,Assassination,14,Private Citizens & Property,9,Melee,22.0,"Hands, Feet, Fists"
+220,1,Assassination,1,Business,5,Firearms,5.0,Unknown Gun Type
+221,2,Armed Assault,4,Military,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+222,1,Assassination,7,Government (Diplomatic),6,Explosives,17.0,Other Explosive Type
+223,1,Assassination,14,Private Citizens & Property,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+224,1,Assassination,14,Private Citizens & Property,6,Explosives,16.0,Unknown Explosive Type
+225,1,Assassination,2,Government (General),5,Firearms,5.0,Unknown Gun Type
+226,4,Hijacking,6,Airports & Aircraft,5,Firearms,5.0,Unknown Gun Type
+227,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,9.0,Letter Bomb
+228,1,Assassination,2,Government (General),6,Explosives,9.0,Letter Bomb
+229,1,Assassination,12,NGO,6,Explosives,9.0,Letter Bomb
+230,1,Assassination,14,Private Citizens & Property,6,Explosives,9.0,Letter Bomb
+231,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,13,Unknown,,Unknown
+232,6,Hostage Taking (Kidnapping),10,Journalists & Media,5,Firearms,5.0,Unknown Gun Type
+233,1,Assassination,14,Private Citizens & Property,6,Explosives,7.0,Grenade
+234,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+235,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,9.0,Letter Bomb
+236,1,Assassination,19,Transportation,5,Firearms,5.0,Unknown Gun Type
+237,3,Bombing/Explosion,1,Business,6,Explosives,9.0,Letter Bomb
+238,9,Unknown,10,Journalists & Media,13,Unknown,,Unknown
+239,1,Assassination,3,Police,6,Explosives,15.0,Vehicle
+240,3,Bombing/Explosion,4,Military,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+241,1,Assassination,2,Government (General),13,Unknown,,Unknown
+242,6,Hostage Taking (Kidnapping),8,Educational Institution,13,Unknown,,Unknown
+243,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+244,6,Hostage Taking (Kidnapping),1,Business,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+245,2,Armed Assault,14,Private Citizens & Property,5,Firearms,3.0,Handgun
+246,2,Armed Assault,2,Government (General),8,Incendiary,,Unknown
+247,3,Bombing/Explosion,13,Other,6,Explosives,16.0,Unknown Explosive Type
+248,2,Armed Assault,13,Other,5,Firearms,3.0,Handgun
+249,3,Bombing/Explosion,3,Police,6,Explosives,8.0,Landmine
+250,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,5,Firearms,5.0,Unknown Gun Type
+251,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,7.0,Grenade
+252,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,5,Firearms,5.0,Unknown Gun Type
+253,3,Bombing/Explosion,17,Terrorists/Non-State Militia,5,Firearms,5.0,Unknown Gun Type
+254,3,Bombing/Explosion,1,Business,8,Incendiary,18.0,Arson/Fire
+255,5,Hostage Taking (Barricade Incident),2,Government (General),5,Firearms,3.0,Handgun
+256,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,5,Firearms,5.0,Unknown Gun Type
+257,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),5,Firearms,5.0,Unknown Gun Type
+258,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,15.0,Vehicle
+259,2,Armed Assault,21,Utilities,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+260,8,Unarmed Assault,6,Airports & Aircraft,2,Chemical,,Unknown
+261,8,Unarmed Assault,7,Government (Diplomatic),2,Chemical,,Unknown
+262,1,Assassination,17,Terrorists/Non-State Militia,2,Chemical,1.0,Poisoning
+263,2,Armed Assault,13,Other,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+264,1,Assassination,6,Airports & Aircraft,13,Unknown,,Unknown
+265,1,Assassination,3,Police,9,Melee,23.0,Knife or Other Sharp Object
+266,9,Unknown,6,Airports & Aircraft,13,Unknown,,Unknown
+267,1,Assassination,12,NGO,5,Firearms,3.0,Handgun
+268,3,Bombing/Explosion,4,Military,6,Explosives,12.0,Remote Trigger
+269,3,Bombing/Explosion,14,Private Citizens & Property,5,Firearms,5.0,Unknown Gun Type
+270,2,Armed Assault,14,Private Citizens & Property,9,Melee,22.0,"Hands, Feet, Fists"
+271,4,Hijacking,14,Private Citizens & Property,8,Incendiary,18.0,Arson/Fire
+272,1,Assassination,14,Private Citizens & Property,9,Melee,24.0,Rope or Other Strangling Device
+273,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,16.0,Unknown Explosive Type
+274,1,Assassination,15,Religious Figures/Institutions,5,Firearms,3.0,Handgun
+275,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+276,1,Assassination,1,Business,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+277,3,Bombing/Explosion,3,Police,8,Incendiary,18.0,Arson/Fire
+278,1,Assassination,8,Educational Institution,5,Firearms,3.0,Handgun
+279,4,Hijacking,14,Private Citizens & Property,13,Unknown,,Unknown
+280,1,Assassination,12,NGO,6,Explosives,16.0,Unknown Explosive Type
+281,7,Facility/Infrastructure Attack,21,Utilities,8,Incendiary,,Unknown
+282,1,Assassination,3,Police,6,Explosives,16.0,Unknown Explosive Type
+283,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,6,Explosives,16.0,Unknown Explosive Type
+284,5,Hostage Taking (Barricade Incident),6,Airports & Aircraft,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+285,1,Assassination,4,Military,6,Explosives,9.0,Letter Bomb
+286,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,9,Melee,23.0,Knife or Other Sharp Object
+287,1,Assassination,17,Terrorists/Non-State Militia,9,Melee,22.0,"Hands, Feet, Fists"
+288,1,Assassination,15,Religious Figures/Institutions,6,Explosives,16.0,Unknown Explosive Type
+289,6,Hostage Taking (Kidnapping),1,Business,8,Incendiary,,Unknown
+290,3,Bombing/Explosion,11,Maritime,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+291,1,Assassination,10,Journalists & Media,6,Explosives,16.0,Unknown Explosive Type
+292,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,9.0,Letter Bomb
+293,4,Hijacking,6,Airports & Aircraft,8,Incendiary,20.0,Gasoline or Alcohol
+294,3,Bombing/Explosion,15,Religious Figures/Institutions,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+295,2,Armed Assault,2,Government (General),5,Firearms,3.0,Handgun
+296,3,Bombing/Explosion,1,Business,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+297,3,Bombing/Explosion,1,Business,13,Unknown,,Unknown
+298,2,Armed Assault,12,NGO,5,Firearms,3.0,Handgun
+299,3,Bombing/Explosion,2,Government (General),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+300,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+301,1,Assassination,2,Government (General),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+302,8,Unarmed Assault,19,Transportation,3,Radiological,,Unknown
+303,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,13,Unknown,,Unknown
+304,3,Bombing/Explosion,4,Military,5,Firearms,5.0,Unknown Gun Type
+305,8,Unarmed Assault,14,Private Citizens & Property,9,Melee,21.0,Blunt Object
+306,3,Bombing/Explosion,8,Educational Institution,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+307,7,Facility/Infrastructure Attack,12,NGO,8,Incendiary,18.0,Arson/Fire
+308,1,Assassination,17,Terrorists/Non-State Militia,5,Firearms,3.0,Handgun
+309,8,Unarmed Assault,2,Government (General),7,Fake Weapons,,Unknown
+310,4,Hijacking,6,Airports & Aircraft,9,Melee,23.0,Knife or Other Sharp Object
+311,8,Unarmed Assault,14,Private Citizens & Property,9,Melee,22.0,"Hands, Feet, Fists"
+312,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,15.0,Vehicle
+313,1,Assassination,1,Business,5,Firearms,3.0,Handgun
+314,1,Assassination,2,Government (General),5,Firearms,3.0,Handgun
+315,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),5,Firearms,3.0,Handgun
+316,3,Bombing/Explosion,7,Government (Diplomatic),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+317,3,Bombing/Explosion,1,Business,6,Explosives,7.0,Grenade
+318,2,Armed Assault,14,Private Citizens & Property,9,Melee,23.0,Knife or Other Sharp Object
+319,2,Armed Assault,3,Police,8,Incendiary,,Unknown
+320,9,Unknown,14,Private Citizens & Property,13,Unknown,,Unknown
+321,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+322,6,Hostage Taking (Kidnapping),2,Government (General),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+323,3,Bombing/Explosion,14,Private Citizens & Property,8,Incendiary,,Unknown
+324,1,Assassination,10,Journalists & Media,8,Incendiary,,Unknown
+325,5,Hostage Taking (Barricade Incident),6,Airports & Aircraft,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+326,2,Armed Assault,7,Government (Diplomatic),5,Firearms,5.0,Unknown Gun Type
+327,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,15.0,Vehicle
+328,3,Bombing/Explosion,1,Business,5,Firearms,5.0,Unknown Gun Type
+329,2,Armed Assault,19,Transportation,8,Incendiary,,Unknown
+330,1,Assassination,22,Violent Political Party,6,Explosives,16.0,Unknown Explosive Type
+331,2,Armed Assault,1,Business,8,Incendiary,,Unknown
+332,9,Unknown,9,Food or Water Supply,13,Unknown,,Unknown
+333,9,Unknown,1,Business,13,Unknown,,Unknown
+334,7,Facility/Infrastructure Attack,6,Airports & Aircraft,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+335,2,Armed Assault,17,Terrorists/Non-State Militia,9,Melee,23.0,Knife or Other Sharp Object
+336,1,Assassination,1,Business,8,Incendiary,,Unknown
+337,3,Bombing/Explosion,14,Private Citizens & Property,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+338,2,Armed Assault,7,Government (Diplomatic),5,Firearms,3.0,Handgun
+339,2,Armed Assault,19,Transportation,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+340,1,Assassination,19,Transportation,5,Firearms,3.0,Handgun
+341,5,Hostage Taking (Barricade Incident),10,Journalists & Media,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+342,7,Facility/Infrastructure Attack,19,Transportation,8,Incendiary,,Unknown
+343,6,Hostage Taking (Kidnapping),3,Police,5,Firearms,5.0,Unknown Gun Type
+344,1,Assassination,22,Violent Political Party,13,Unknown,,Unknown
+345,6,Hostage Taking (Kidnapping),6,Airports & Aircraft,13,Unknown,,Unknown
+346,6,Hostage Taking (Kidnapping),4,Military,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+347,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,16.0,Unknown Explosive Type
+348,5,Hostage Taking (Barricade Incident),1,Business,13,Unknown,,Unknown
+349,7,Facility/Infrastructure Attack,19,Transportation,2,Chemical,,Unknown
+350,9,Unknown,15,Religious Figures/Institutions,13,Unknown,,Unknown
+351,5,Hostage Taking (Barricade Incident),16,Telecommunication,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+352,6,Hostage Taking (Kidnapping),11,Maritime,13,Unknown,,Unknown
+353,2,Armed Assault,20,Unknown,5,Firearms,5.0,Unknown Gun Type
+354,1,Assassination,22,Violent Political Party,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+355,2,Armed Assault,20,Unknown,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+356,3,Bombing/Explosion,7,Government (Diplomatic),5,Firearms,3.0,Handgun
+357,8,Unarmed Assault,2,Government (General),2,Chemical,,Unknown
+358,7,Facility/Infrastructure Attack,7,Government (Diplomatic),8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+359,6,Hostage Taking (Kidnapping),20,Unknown,13,Unknown,,Unknown
+360,7,Facility/Infrastructure Attack,12,NGO,8,Incendiary,,Unknown
+361,2,Armed Assault,11,Maritime,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+362,1,Assassination,7,Government (Diplomatic),5,Firearms,5.0,Unknown Gun Type
+363,6,Hostage Taking (Kidnapping),1,Business,5,Firearms,3.0,Handgun
+364,7,Facility/Infrastructure Attack,21,Utilities,9,Melee,23.0,Knife or Other Sharp Object
+365,2,Armed Assault,4,Military,9,Melee,23.0,Knife or Other Sharp Object
+366,2,Armed Assault,19,Transportation,5,Firearms,3.0,Handgun
+367,3,Bombing/Explosion,1,Business,8,Incendiary,,Unknown
+368,8,Unarmed Assault,1,Business,12,Other,,Unknown
+369,7,Facility/Infrastructure Attack,22,Violent Political Party,8,Incendiary,,Unknown
+370,2,Armed Assault,22,Violent Political Party,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+371,5,Hostage Taking (Barricade Incident),1,Business,6,Explosives,16.0,Unknown Explosive Type
+372,3,Bombing/Explosion,8,Educational Institution,13,Unknown,,Unknown
+373,2,Armed Assault,20,Unknown,5,Firearms,3.0,Handgun
+374,3,Bombing/Explosion,8,Educational Institution,6,Explosives,7.0,Grenade
+375,2,Armed Assault,6,Airports & Aircraft,8,Incendiary,,Unknown
+376,3,Bombing/Explosion,4,Military,6,Explosives,7.0,Grenade
+377,9,Unknown,11,Maritime,13,Unknown,,Unknown
+378,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,9.0,Letter Bomb
+379,6,Hostage Taking (Kidnapping),8,Educational Institution,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+380,3,Bombing/Explosion,4,Military,8,Incendiary,,Unknown
+381,2,Armed Assault,17,Terrorists/Non-State Militia,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+382,1,Assassination,14,Private Citizens & Property,8,Incendiary,20.0,Gasoline or Alcohol
+383,8,Unarmed Assault,14,Private Citizens & Property,2,Chemical,1.0,Poisoning
+384,2,Armed Assault,4,Military,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+385,3,Bombing/Explosion,11,Maritime,6,Explosives,29.0,Sticky Bomb
+386,5,Hostage Taking (Barricade Incident),2,Government (General),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+387,1,Assassination,18,Tourists,5,Firearms,5.0,Unknown Gun Type
+388,1,Assassination,17,Terrorists/Non-State Militia,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+389,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,8,Incendiary,,Unknown
+390,1,Assassination,3,Police,13,Unknown,,Unknown
+391,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,28.0,Dynamite/TNT
+392,7,Facility/Infrastructure Attack,16,Telecommunication,8,Incendiary,,Unknown
+393,9,Unknown,2,Government (General),13,Unknown,,Unknown
+394,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,7.0,Grenade
+395,6,Hostage Taking (Kidnapping),19,Transportation,13,Unknown,,Unknown
+396,1,Assassination,2,Government (General),8,Incendiary,20.0,Gasoline or Alcohol
+397,3,Bombing/Explosion,3,Police,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+398,9,Unknown,17,Terrorists/Non-State Militia,13,Unknown,,Unknown
+399,7,Facility/Infrastructure Attack,5,Abortion Related,8,Incendiary,20.0,Gasoline or Alcohol
+400,2,Armed Assault,2,Government (General),5,Firearms,5.0,Unknown Gun Type
+401,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,5,Firearms,3.0,Handgun
+402,1,Assassination,15,Religious Figures/Institutions,5,Firearms,5.0,Unknown Gun Type
+403,7,Facility/Infrastructure Attack,2,Government (General),13,Unknown,,Unknown
+404,2,Armed Assault,10,Journalists & Media,8,Incendiary,,Unknown
+405,6,Hostage Taking (Kidnapping),18,Tourists,13,Unknown,,Unknown
+406,7,Facility/Infrastructure Attack,5,Abortion Related,8,Incendiary,18.0,Arson/Fire
+407,3,Bombing/Explosion,17,Terrorists/Non-State Militia,8,Incendiary,,Unknown
+408,7,Facility/Infrastructure Attack,1,Business,13,Unknown,,Unknown
+409,1,Assassination,7,Government (Diplomatic),6,Explosives,15.0,Vehicle
+410,7,Facility/Infrastructure Attack,8,Educational Institution,5,Firearms,3.0,Handgun
+411,2,Armed Assault,14,Private Citizens & Property,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+412,1,Assassination,2,Government (General),8,Incendiary,,Unknown
+413,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+414,2,Armed Assault,8,Educational Institution,8,Incendiary,,Unknown
+415,3,Bombing/Explosion,10,Journalists & Media,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+416,7,Facility/Infrastructure Attack,7,Government (Diplomatic),8,Incendiary,18.0,Arson/Fire
+417,7,Facility/Infrastructure Attack,5,Abortion Related,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+418,1,Assassination,2,Government (General),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+419,5,Hostage Taking (Barricade Incident),2,Government (General),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+420,1,Assassination,10,Journalists & Media,9,Melee,23.0,Knife or Other Sharp Object
+421,1,Assassination,8,Educational Institution,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+422,7,Facility/Infrastructure Attack,1,Business,5,Firearms,3.0,Handgun
+423,6,Hostage Taking (Kidnapping),16,Telecommunication,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+424,1,Assassination,7,Government (Diplomatic),2,Chemical,1.0,Poisoning
+425,1,Assassination,2,Government (General),9,Melee,23.0,Knife or Other Sharp Object
+426,2,Armed Assault,7,Government (Diplomatic),9,Melee,23.0,Knife or Other Sharp Object
+427,2,Armed Assault,1,Business,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+428,1,Assassination,8,Educational Institution,9,Melee,23.0,Knife or Other Sharp Object
+429,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),9,Melee,21.0,Blunt Object
+430,5,Hostage Taking (Barricade Incident),2,Government (General),8,Incendiary,,Unknown
+431,3,Bombing/Explosion,21,Utilities,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+432,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,5,Firearms,3.0,Handgun
+433,7,Facility/Infrastructure Attack,9,Food or Water Supply,2,Chemical,,Unknown
+434,8,Unarmed Assault,19,Transportation,9,Melee,21.0,Blunt Object
+435,2,Armed Assault,19,Transportation,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+436,1,Assassination,10,Journalists & Media,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+437,5,Hostage Taking (Barricade Incident),19,Transportation,5,Firearms,3.0,Handgun
+438,3,Bombing/Explosion,1,Business,6,Explosives,8.0,Landmine
+439,3,Bombing/Explosion,4,Military,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+440,5,Hostage Taking (Barricade Incident),19,Transportation,13,Unknown,,Unknown
+441,7,Facility/Infrastructure Attack,4,Military,13,Unknown,,Unknown
+442,2,Armed Assault,17,Terrorists/Non-State Militia,9,Melee,21.0,Blunt Object
+443,5,Hostage Taking (Barricade Incident),19,Transportation,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+444,5,Hostage Taking (Barricade Incident),21,Utilities,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+445,5,Hostage Taking (Barricade Incident),3,Police,5,Firearms,3.0,Handgun
+446,3,Bombing/Explosion,5,Abortion Related,2,Chemical,30.0,Explosive
+447,1,Assassination,7,Government (Diplomatic),9,Melee,23.0,Knife or Other Sharp Object
+448,1,Assassination,10,Journalists & Media,5,Firearms,5.0,Unknown Gun Type
+449,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,28.0,Dynamite/TNT
+450,3,Bombing/Explosion,2,Government (General),13,Unknown,,Unknown
+451,1,Assassination,8,Educational Institution,6,Explosives,16.0,Unknown Explosive Type
+452,7,Facility/Infrastructure Attack,6,Airports & Aircraft,8,Incendiary,20.0,Gasoline or Alcohol
+453,7,Facility/Infrastructure Attack,6,Airports & Aircraft,9,Melee,21.0,Blunt Object
+454,7,Facility/Infrastructure Attack,13,Other,8,Incendiary,,Unknown
+455,5,Hostage Taking (Barricade Incident),10,Journalists & Media,13,Unknown,,Unknown
+456,5,Hostage Taking (Barricade Incident),4,Military,5,Firearms,3.0,Handgun
+457,1,Assassination,14,Private Citizens & Property,8,Incendiary,,Unknown
+458,1,Assassination,3,Police,9,Melee,21.0,Blunt Object
+459,5,Hostage Taking (Barricade Incident),1,Business,8,Incendiary,18.0,Arson/Fire
+460,3,Bombing/Explosion,3,Police,5,Firearms,3.0,Handgun
+461,7,Facility/Infrastructure Attack,16,Telecommunication,8,Incendiary,18.0,Arson/Fire
+462,2,Armed Assault,12,NGO,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+463,7,Facility/Infrastructure Attack,6,Airports & Aircraft,11,Sabotage Equipment,,Unknown
+464,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,31.0,Pipe Bomb
+465,1,Assassination,1,Business,13,Unknown,,Unknown
+466,3,Bombing/Explosion,8,Educational Institution,6,Explosives,9.0,Letter Bomb
+467,1,Assassination,3,Police,6,Explosives,8.0,Landmine
+468,3,Bombing/Explosion,20,Unknown,13,Unknown,,Unknown
+469,5,Hostage Taking (Barricade Incident),8,Educational Institution,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+470,2,Armed Assault,16,Telecommunication,5,Firearms,3.0,Handgun
+471,3,Bombing/Explosion,5,Abortion Related,6,Explosives,16.0,Unknown Explosive Type
+472,1,Assassination,15,Religious Figures/Institutions,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+473,3,Bombing/Explosion,4,Military,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+474,2,Armed Assault,9,Food or Water Supply,8,Incendiary,20.0,Gasoline or Alcohol
+475,3,Bombing/Explosion,2,Government (General),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+476,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,8,Incendiary,,Unknown
+477,3,Bombing/Explosion,17,Terrorists/Non-State Militia,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+478,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,15.0,Vehicle
+479,1,Assassination,4,Military,6,Explosives,15.0,Vehicle
+480,6,Hostage Taking (Kidnapping),1,Business,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+481,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,12.0,Remote Trigger
+482,5,Hostage Taking (Barricade Incident),10,Journalists & Media,5,Firearms,5.0,Unknown Gun Type
+483,3,Bombing/Explosion,21,Utilities,6,Explosives,14.0,Time Fuse
+484,1,Assassination,10,Journalists & Media,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+485,7,Facility/Infrastructure Attack,7,Government (Diplomatic),5,Firearms,5.0,Unknown Gun Type
+486,3,Bombing/Explosion,2,Government (General),8,Incendiary,,Unknown
+487,1,Assassination,8,Educational Institution,5,Firearms,5.0,Unknown Gun Type
+488,9,Unknown,12,NGO,13,Unknown,,Unknown
+489,5,Hostage Taking (Barricade Incident),10,Journalists & Media,5,Firearms,3.0,Handgun
+490,3,Bombing/Explosion,19,Transportation,6,Explosives,31.0,Pipe Bomb
+491,1,Assassination,14,Private Citizens & Property,6,Explosives,28.0,Dynamite/TNT
+492,3,Bombing/Explosion,21,Utilities,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+493,3,Bombing/Explosion,19,Transportation,6,Explosives,8.0,Landmine
+494,8,Unarmed Assault,4,Military,9,Melee,21.0,Blunt Object
+495,1,Assassination,17,Terrorists/Non-State Militia,13,Unknown,,Unknown
+496,8,Unarmed Assault,10,Journalists & Media,9,Melee,21.0,Blunt Object
+497,1,Assassination,6,Airports & Aircraft,5,Firearms,5.0,Unknown Gun Type
+498,7,Facility/Infrastructure Attack,21,Utilities,11,Sabotage Equipment,,Unknown
+499,7,Facility/Infrastructure Attack,3,Police,13,Unknown,,Unknown
+500,3,Bombing/Explosion,10,Journalists & Media,13,Unknown,,Unknown
+501,2,Armed Assault,19,Transportation,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+502,2,Armed Assault,15,Religious Figures/Institutions,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+503,2,Armed Assault,7,Government (Diplomatic),8,Incendiary,18.0,Arson/Fire
+504,3,Bombing/Explosion,3,Police,6,Explosives,9.0,Letter Bomb
+505,3,Bombing/Explosion,4,Military,5,Firearms,3.0,Handgun
+506,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,9,Melee,24.0,Rope or Other Strangling Device
+507,9,Unknown,20,Unknown,13,Unknown,,Unknown
+508,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,15.0,Vehicle
+509,5,Hostage Taking (Barricade Incident),10,Journalists & Media,6,Explosives,16.0,Unknown Explosive Type
+510,1,Assassination,15,Religious Figures/Institutions,13,Unknown,,Unknown
+511,5,Hostage Taking (Barricade Incident),10,Journalists & Media,8,Incendiary,,Unknown
+512,2,Armed Assault,1,Business,13,Unknown,,Unknown
+513,3,Bombing/Explosion,20,Unknown,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+514,6,Hostage Taking (Kidnapping),10,Journalists & Media,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+515,7,Facility/Infrastructure Attack,19,Transportation,8,Incendiary,18.0,Arson/Fire
+516,1,Assassination,1,Business,9,Melee,23.0,Knife or Other Sharp Object
+517,2,Armed Assault,7,Government (Diplomatic),13,Unknown,,Unknown
+518,5,Hostage Taking (Barricade Incident),10,Journalists & Media,12,Other,,Unknown
+519,2,Armed Assault,2,Government (General),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+520,5,Hostage Taking (Barricade Incident),2,Government (General),13,Unknown,,Unknown
+521,2,Armed Assault,15,Religious Figures/Institutions,13,Unknown,,Unknown
+522,7,Facility/Infrastructure Attack,7,Government (Diplomatic),13,Unknown,,Unknown
+523,8,Unarmed Assault,2,Government (General),9,Melee,21.0,Blunt Object
+524,7,Facility/Infrastructure Attack,21,Utilities,13,Unknown,,Unknown
+525,2,Armed Assault,16,Telecommunication,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+526,7,Facility/Infrastructure Attack,19,Transportation,13,Unknown,,Unknown
+527,1,Assassination,8,Educational Institution,13,Unknown,,Unknown
+528,4,Hijacking,6,Airports & Aircraft,8,Incendiary,,Unknown
+529,2,Armed Assault,22,Violent Political Party,5,Firearms,5.0,Unknown Gun Type
+530,9,Unknown,8,Educational Institution,13,Unknown,,Unknown
+531,3,Bombing/Explosion,19,Transportation,6,Explosives,14.0,Time Fuse
+532,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,13,Unknown,,Unknown
+533,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,13,Unknown,,Unknown
+534,7,Facility/Infrastructure Attack,16,Telecommunication,12,Other,,Unknown
+535,7,Facility/Infrastructure Attack,16,Telecommunication,11,Sabotage Equipment,,Unknown
+536,2,Armed Assault,19,Transportation,5,Firearms,5.0,Unknown Gun Type
+537,1,Assassination,2,Government (General),6,Explosives,7.0,Grenade
+538,2,Armed Assault,12,NGO,5,Firearms,5.0,Unknown Gun Type
+539,1,Assassination,7,Government (Diplomatic),8,Incendiary,,Unknown
+540,2,Armed Assault,6,Airports & Aircraft,6,Explosives,16.0,Unknown Explosive Type
+541,3,Bombing/Explosion,14,Private Citizens & Property,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+542,3,Bombing/Explosion,8,Educational Institution,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+543,7,Facility/Infrastructure Attack,14,Private Citizens & Property,12,Other,,Unknown
+544,7,Facility/Infrastructure Attack,14,Private Citizens & Property,2,Chemical,,Unknown
+545,5,Hostage Taking (Barricade Incident),10,Journalists & Media,9,Melee,23.0,Knife or Other Sharp Object
+546,1,Assassination,3,Police,8,Incendiary,,Unknown
+547,1,Assassination,7,Government (Diplomatic),6,Explosives,14.0,Time Fuse
+548,2,Armed Assault,14,Private Citizens & Property,13,Unknown,,Unknown
+549,3,Bombing/Explosion,15,Religious Figures/Institutions,5,Firearms,5.0,Unknown Gun Type
+550,3,Bombing/Explosion,3,Police,5,Firearms,5.0,Unknown Gun Type
+551,2,Armed Assault,10,Journalists & Media,5,Firearms,5.0,Unknown Gun Type
+552,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),5,Firearms,3.0,Handgun
+553,8,Unarmed Assault,10,Journalists & Media,3,Radiological,,Unknown
+554,8,Unarmed Assault,7,Government (Diplomatic),9,Melee,22.0,"Hands, Feet, Fists"
+555,1,Assassination,15,Religious Figures/Institutions,9,Melee,23.0,Knife or Other Sharp Object
+556,1,Assassination,22,Violent Political Party,6,Explosives,15.0,Vehicle
+557,2,Armed Assault,2,Government (General),8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+558,7,Facility/Infrastructure Attack,10,Journalists & Media,13,Unknown,,Unknown
+559,7,Facility/Infrastructure Attack,2,Government (General),10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+560,4,Hijacking,6,Airports & Aircraft,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+561,3,Bombing/Explosion,19,Transportation,6,Explosives,15.0,Vehicle
+562,8,Unarmed Assault,7,Government (Diplomatic),9,Melee,27.0,Unknown Weapon Type
+563,2,Armed Assault,6,Airports & Aircraft,11,Sabotage Equipment,,Unknown
+564,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,8.0,Landmine
+565,7,Facility/Infrastructure Attack,16,Telecommunication,13,Unknown,,Unknown
+566,1,Assassination,22,Violent Political Party,5,Firearms,5.0,Unknown Gun Type
+567,3,Bombing/Explosion,2,Government (General),6,Explosives,7.0,Grenade
+568,7,Facility/Infrastructure Attack,10,Journalists & Media,2,Chemical,,Unknown
+569,5,Hostage Taking (Barricade Incident),1,Business,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+570,7,Facility/Infrastructure Attack,21,Utilities,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+571,1,Assassination,7,Government (Diplomatic),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+572,1,Assassination,1,Business,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+573,1,Assassination,8,Educational Institution,6,Explosives,14.0,Time Fuse
+574,8,Unarmed Assault,14,Private Citizens & Property,9,Melee,27.0,Unknown Weapon Type
+575,2,Armed Assault,18,Tourists,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+576,5,Hostage Taking (Barricade Incident),8,Educational Institution,13,Unknown,,Unknown
+577,1,Assassination,20,Unknown,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+578,5,Hostage Taking (Barricade Incident),2,Government (General),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+579,7,Facility/Infrastructure Attack,21,Utilities,5,Firearms,5.0,Unknown Gun Type
+580,1,Assassination,22,Violent Political Party,2,Chemical,,Unknown
+581,5,Hostage Taking (Barricade Incident),16,Telecommunication,5,Firearms,5.0,Unknown Gun Type
+582,3,Bombing/Explosion,2,Government (General),5,Firearms,5.0,Unknown Gun Type
+583,1,Assassination,8,Educational Institution,8,Incendiary,,Unknown
+584,6,Hostage Taking (Kidnapping),2,Government (General),5,Firearms,3.0,Handgun
+585,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,15.0,Vehicle
+586,2,Armed Assault,18,Tourists,5,Firearms,5.0,Unknown Gun Type
+587,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),13,Unknown,,Unknown
+588,2,Armed Assault,3,Police,13,Unknown,,Unknown
+589,1,Assassination,10,Journalists & Media,9,Melee,26.0,Suffocation
+590,7,Facility/Infrastructure Attack,1,Business,12,Other,,Unknown
+591,7,Facility/Infrastructure Attack,20,Unknown,8,Incendiary,,Unknown
+592,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+593,2,Armed Assault,6,Airports & Aircraft,5,Firearms,5.0,Unknown Gun Type
+594,7,Facility/Infrastructure Attack,1,Business,5,Firearms,5.0,Unknown Gun Type
+595,6,Hostage Taking (Kidnapping),16,Telecommunication,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+596,7,Facility/Infrastructure Attack,9,Food or Water Supply,8,Incendiary,,Unknown
+597,1,Assassination,1,Business,6,Explosives,9.0,Letter Bomb
+598,2,Armed Assault,10,Journalists & Media,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+599,1,Assassination,6,Airports & Aircraft,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+600,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),5,Firearms,5.0,Unknown Gun Type
+601,7,Facility/Infrastructure Attack,2,Government (General),5,Firearms,5.0,Unknown Gun Type
+602,5,Hostage Taking (Barricade Incident),4,Military,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+603,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),8,Incendiary,,Unknown
+604,1,Assassination,19,Transportation,13,Unknown,,Unknown
+605,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+606,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+607,3,Bombing/Explosion,19,Transportation,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+608,6,Hostage Taking (Kidnapping),22,Violent Political Party,13,Unknown,,Unknown
+609,2,Armed Assault,4,Military,13,Unknown,,Unknown
+610,3,Bombing/Explosion,1,Business,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+611,4,Hijacking,19,Transportation,13,Unknown,,Unknown
+612,2,Armed Assault,20,Unknown,8,Incendiary,20.0,Gasoline or Alcohol
+613,2,Armed Assault,12,NGO,8,Incendiary,,Unknown
+614,1,Assassination,15,Religious Figures/Institutions,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+615,3,Bombing/Explosion,14,Private Citizens & Property,5,Firearms,3.0,Handgun
+616,3,Bombing/Explosion,3,Police,13,Unknown,,Unknown
+617,3,Bombing/Explosion,3,Police,9,Melee,21.0,Blunt Object
+618,3,Bombing/Explosion,14,Private Citizens & Property,12,Other,,Unknown
+619,6,Hostage Taking (Kidnapping),8,Educational Institution,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+620,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,7.0,Grenade
+621,6,Hostage Taking (Kidnapping),8,Educational Institution,5,Firearms,3.0,Handgun
+622,2,Armed Assault,8,Educational Institution,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+623,3,Bombing/Explosion,1,Business,5,Firearms,3.0,Handgun
+624,1,Assassination,12,NGO,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+625,3,Bombing/Explosion,21,Utilities,6,Explosives,8.0,Landmine
+626,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+627,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,10.0,Pressure Trigger
+628,3,Bombing/Explosion,19,Transportation,13,Unknown,,Unknown
+629,7,Facility/Infrastructure Attack,10,Journalists & Media,8,Incendiary,18.0,Arson/Fire
+630,3,Bombing/Explosion,7,Government (Diplomatic),5,Firearms,5.0,Unknown Gun Type
+631,3,Bombing/Explosion,18,Tourists,6,Explosives,14.0,Time Fuse
+632,3,Bombing/Explosion,15,Religious Figures/Institutions,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+633,9,Unknown,21,Utilities,13,Unknown,,Unknown
+634,1,Assassination,3,Police,9,Melee,24.0,Rope or Other Strangling Device
+635,1,Assassination,2,Government (General),6,Explosives,14.0,Time Fuse
+636,3,Bombing/Explosion,14,Private Citizens & Property,13,Unknown,,Unknown
+637,8,Unarmed Assault,14,Private Citizens & Property,9,Melee,24.0,Rope or Other Strangling Device
+638,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,14.0,Time Fuse
+639,1,Assassination,22,Violent Political Party,9,Melee,23.0,Knife or Other Sharp Object
+640,1,Assassination,19,Transportation,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+641,5,Hostage Taking (Barricade Incident),1,Business,6,Explosives,7.0,Grenade
+642,8,Unarmed Assault,10,Journalists & Media,2,Chemical,,Unknown
+643,7,Facility/Infrastructure Attack,8,Educational Institution,13,Unknown,,Unknown
+644,7,Facility/Infrastructure Attack,1,Business,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+645,7,Facility/Infrastructure Attack,14,Private Citizens & Property,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+646,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+647,2,Armed Assault,10,Journalists & Media,6,Explosives,17.0,Other Explosive Type
+648,1,Assassination,7,Government (Diplomatic),8,Incendiary,18.0,Arson/Fire
+649,2,Armed Assault,19,Transportation,13,Unknown,,Unknown
+650,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,7.0,Grenade
+651,4,Hijacking,8,Educational Institution,6,Explosives,7.0,Grenade
+652,3,Bombing/Explosion,19,Transportation,6,Explosives,7.0,Grenade
+653,3,Bombing/Explosion,6,Airports & Aircraft,13,Unknown,,Unknown
+654,7,Facility/Infrastructure Attack,2,Government (General),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+655,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,14.0,Time Fuse
+656,1,Assassination,10,Journalists & Media,6,Explosives,15.0,Vehicle
+657,1,Assassination,7,Government (Diplomatic),6,Explosives,7.0,Grenade
+658,1,Assassination,10,Journalists & Media,6,Explosives,9.0,Letter Bomb
+659,1,Assassination,2,Government (General),6,Explosives,8.0,Landmine
+660,6,Hostage Taking (Kidnapping),11,Maritime,6,Explosives,16.0,Unknown Explosive Type
+661,3,Bombing/Explosion,2,Government (General),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+662,1,Assassination,20,Unknown,5,Firearms,5.0,Unknown Gun Type
+663,7,Facility/Infrastructure Attack,9,Food or Water Supply,13,Unknown,,Unknown
+664,7,Facility/Infrastructure Attack,19,Transportation,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+665,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,8.0,Landmine
+666,2,Armed Assault,19,Transportation,9,Melee,23.0,Knife or Other Sharp Object
+667,1,Assassination,7,Government (Diplomatic),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+668,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,9,Melee,24.0,Rope or Other Strangling Device
+669,6,Hostage Taking (Kidnapping),10,Journalists & Media,6,Explosives,16.0,Unknown Explosive Type
+670,2,Armed Assault,16,Telecommunication,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+671,3,Bombing/Explosion,21,Utilities,13,Unknown,,Unknown
+672,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,7.0,Grenade
+673,5,Hostage Taking (Barricade Incident),21,Utilities,5,Firearms,5.0,Unknown Gun Type
+674,7,Facility/Infrastructure Attack,19,Transportation,11,Sabotage Equipment,,Unknown
+675,1,Assassination,1,Business,6,Explosives,7.0,Grenade
+676,3,Bombing/Explosion,7,Government (Diplomatic),13,Unknown,,Unknown
+677,7,Facility/Infrastructure Attack,6,Airports & Aircraft,8,Incendiary,18.0,Arson/Fire
+678,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,13,Unknown,,Unknown
+679,5,Hostage Taking (Barricade Incident),6,Airports & Aircraft,13,Unknown,,Unknown
+680,1,Assassination,2,Government (General),6,Explosives,29.0,Sticky Bomb
+681,5,Hostage Taking (Barricade Incident),8,Educational Institution,5,Firearms,3.0,Handgun
+682,7,Facility/Infrastructure Attack,7,Government (Diplomatic),9,Melee,27.0,Unknown Weapon Type
+683,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,7.0,Grenade
+684,3,Bombing/Explosion,19,Transportation,6,Explosives,17.0,Other Explosive Type
+685,1,Assassination,21,Utilities,5,Firearms,5.0,Unknown Gun Type
+686,2,Armed Assault,16,Telecommunication,5,Firearms,5.0,Unknown Gun Type
+687,5,Hostage Taking (Barricade Incident),19,Transportation,6,Explosives,16.0,Unknown Explosive Type
+688,3,Bombing/Explosion,6,Airports & Aircraft,11,Sabotage Equipment,,Unknown
+689,4,Hijacking,4,Military,13,Unknown,,Unknown
+690,1,Assassination,18,Tourists,5,Firearms,3.0,Handgun
+691,1,Assassination,4,Military,6,Explosives,7.0,Grenade
+692,9,Unknown,18,Tourists,13,Unknown,,Unknown
+693,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),6,Explosives,16.0,Unknown Explosive Type
+694,1,Assassination,20,Unknown,13,Unknown,,Unknown
+695,1,Assassination,2,Government (General),6,Explosives,28.0,Dynamite/TNT
+696,8,Unarmed Assault,2,Government (General),1,Biological,,Unknown
+697,3,Bombing/Explosion,18,Tourists,6,Explosives,8.0,Landmine
+698,6,Hostage Taking (Kidnapping),19,Transportation,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+699,1,Assassination,15,Religious Figures/Institutions,8,Incendiary,,Unknown
+700,3,Bombing/Explosion,16,Telecommunication,13,Unknown,,Unknown
+701,3,Bombing/Explosion,4,Military,13,Unknown,,Unknown
+702,3,Bombing/Explosion,3,Police,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+703,2,Armed Assault,17,Terrorists/Non-State Militia,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+704,3,Bombing/Explosion,4,Military,6,Explosives,29.0,Sticky Bomb
+705,6,Hostage Taking (Kidnapping),4,Military,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+706,6,Hostage Taking (Kidnapping),18,Tourists,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+707,7,Facility/Infrastructure Attack,11,Maritime,11,Sabotage Equipment,,Unknown
+708,3,Bombing/Explosion,21,Utilities,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+709,2,Armed Assault,9,Food or Water Supply,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+710,3,Bombing/Explosion,7,Government (Diplomatic),8,Incendiary,,Unknown
+711,7,Facility/Infrastructure Attack,10,Journalists & Media,5,Firearms,5.0,Unknown Gun Type
+712,7,Facility/Infrastructure Attack,3,Police,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+713,7,Facility/Infrastructure Attack,19,Transportation,5,Firearms,5.0,Unknown Gun Type
+714,5,Hostage Taking (Barricade Incident),3,Police,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+715,1,Assassination,3,Police,6,Explosives,28.0,Dynamite/TNT
+716,7,Facility/Infrastructure Attack,10,Journalists & Media,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+717,3,Bombing/Explosion,19,Transportation,8,Incendiary,,Unknown
+718,1,Assassination,20,Unknown,5,Firearms,3.0,Handgun
+719,7,Facility/Infrastructure Attack,2,Government (General),9,Melee,21.0,Blunt Object
+720,9,Unknown,16,Telecommunication,13,Unknown,,Unknown
+721,6,Hostage Taking (Kidnapping),12,NGO,13,Unknown,,Unknown
+722,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+723,5,Hostage Taking (Barricade Incident),19,Transportation,8,Incendiary,,Unknown
+724,3,Bombing/Explosion,16,Telecommunication,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+725,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+726,1,Assassination,16,Telecommunication,5,Firearms,3.0,Handgun
+727,7,Facility/Infrastructure Attack,14,Private Citizens & Property,9,Melee,21.0,Blunt Object
+728,3,Bombing/Explosion,15,Religious Figures/Institutions,13,Unknown,,Unknown
+729,2,Armed Assault,3,Police,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+730,7,Facility/Infrastructure Attack,7,Government (Diplomatic),12,Other,,Unknown
+731,5,Hostage Taking (Barricade Incident),19,Transportation,5,Firearms,5.0,Unknown Gun Type
+732,1,Assassination,20,Unknown,9,Melee,23.0,Knife or Other Sharp Object
+733,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),6,Explosives,16.0,Unknown Explosive Type
+734,1,Assassination,20,Unknown,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+735,3,Bombing/Explosion,19,Transportation,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+736,7,Facility/Infrastructure Attack,7,Government (Diplomatic),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+737,1,Assassination,14,Private Citizens & Property,9,Melee,21.0,Blunt Object
+738,7,Facility/Infrastructure Attack,19,Transportation,9,Melee,23.0,Knife or Other Sharp Object
+739,2,Armed Assault,3,Police,8,Incendiary,18.0,Arson/Fire
+740,9,Unknown,22,Violent Political Party,13,Unknown,,Unknown
+741,1,Assassination,14,Private Citizens & Property,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+742,3,Bombing/Explosion,5,Abortion Related,6,Explosives,31.0,Pipe Bomb
+743,2,Armed Assault,14,Private Citizens & Property,8,Incendiary,18.0,Arson/Fire
+744,2,Armed Assault,19,Transportation,8,Incendiary,18.0,Arson/Fire
+745,1,Assassination,15,Religious Figures/Institutions,6,Explosives,7.0,Grenade
+746,7,Facility/Infrastructure Attack,17,Terrorists/Non-State Militia,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+747,7,Facility/Infrastructure Attack,8,Educational Institution,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+748,6,Hostage Taking (Kidnapping),5,Abortion Related,5,Firearms,5.0,Unknown Gun Type
+749,5,Hostage Taking (Barricade Incident),4,Military,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+750,2,Armed Assault,14,Private Citizens & Property,9,Melee,27.0,Unknown Weapon Type
+751,7,Facility/Infrastructure Attack,16,Telecommunication,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+752,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,31.0,Pipe Bomb
+753,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),6,Explosives,28.0,Dynamite/TNT
+754,5,Hostage Taking (Barricade Incident),6,Airports & Aircraft,6,Explosives,16.0,Unknown Explosive Type
+755,2,Armed Assault,18,Tourists,5,Firearms,3.0,Handgun
+756,4,Hijacking,10,Journalists & Media,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+757,4,Hijacking,8,Educational Institution,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+758,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,17.0,Other Explosive Type
+759,1,Assassination,8,Educational Institution,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+760,5,Hostage Taking (Barricade Incident),3,Police,6,Explosives,16.0,Unknown Explosive Type
+761,2,Armed Assault,14,Private Citizens & Property,6,Explosives,16.0,Unknown Explosive Type
+762,3,Bombing/Explosion,9,Food or Water Supply,13,Unknown,,Unknown
+763,7,Facility/Infrastructure Attack,14,Private Citizens & Property,11,Sabotage Equipment,,Unknown
+764,3,Bombing/Explosion,20,Unknown,6,Explosives,15.0,Vehicle
+765,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,6,Explosives,28.0,Dynamite/TNT
+766,5,Hostage Taking (Barricade Incident),3,Police,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+767,5,Hostage Taking (Barricade Incident),2,Government (General),6,Explosives,16.0,Unknown Explosive Type
+768,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+769,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,17.0,Other Explosive Type
+770,1,Assassination,14,Private Citizens & Property,6,Explosives,17.0,Other Explosive Type
+771,3,Bombing/Explosion,16,Telecommunication,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+772,7,Facility/Infrastructure Attack,6,Airports & Aircraft,13,Unknown,,Unknown
+773,1,Assassination,12,NGO,5,Firearms,5.0,Unknown Gun Type
+774,3,Bombing/Explosion,3,Police,6,Explosives,12.0,Remote Trigger
+775,6,Hostage Taking (Kidnapping),19,Transportation,5,Firearms,3.0,Handgun
+776,1,Assassination,17,Terrorists/Non-State Militia,9,Melee,23.0,Knife or Other Sharp Object
+777,7,Facility/Infrastructure Attack,7,Government (Diplomatic),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+778,7,Facility/Infrastructure Attack,6,Airports & Aircraft,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+779,4,Hijacking,2,Government (General),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+780,1,Assassination,3,Police,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+781,6,Hostage Taking (Kidnapping),1,Business,5,Firearms,5.0,Unknown Gun Type
+782,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+783,3,Bombing/Explosion,19,Transportation,5,Firearms,5.0,Unknown Gun Type
+784,5,Hostage Taking (Barricade Incident),16,Telecommunication,13,Unknown,,Unknown
+785,4,Hijacking,1,Business,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+786,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,8.0,Landmine
+787,1,Assassination,15,Religious Figures/Institutions,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+788,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,8,Incendiary,20.0,Gasoline or Alcohol
+789,2,Armed Assault,19,Transportation,9,Melee,21.0,Blunt Object
+790,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,8.0,Landmine
+791,5,Hostage Taking (Barricade Incident),1,Business,9,Melee,22.0,"Hands, Feet, Fists"
+792,8,Unarmed Assault,6,Airports & Aircraft,9,Melee,22.0,"Hands, Feet, Fists"
+793,7,Facility/Infrastructure Attack,1,Business,9,Melee,27.0,Unknown Weapon Type
+794,6,Hostage Taking (Kidnapping),19,Transportation,5,Firearms,5.0,Unknown Gun Type
+795,3,Bombing/Explosion,2,Government (General),6,Explosives,8.0,Landmine
+796,3,Bombing/Explosion,21,Utilities,6,Explosives,15.0,Vehicle
+797,2,Armed Assault,21,Utilities,13,Unknown,,Unknown
+798,3,Bombing/Explosion,11,Maritime,13,Unknown,,Unknown
+799,5,Hostage Taking (Barricade Incident),1,Business,6,Explosives,17.0,Other Explosive Type
+800,2,Armed Assault,3,Police,6,Explosives,7.0,Grenade
+801,2,Armed Assault,15,Religious Figures/Institutions,5,Firearms,3.0,Handgun
+802,7,Facility/Infrastructure Attack,1,Business,11,Sabotage Equipment,,Unknown
+803,7,Facility/Infrastructure Attack,4,Military,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+804,7,Facility/Infrastructure Attack,21,Utilities,9,Melee,21.0,Blunt Object
+805,3,Bombing/Explosion,9,Food or Water Supply,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+806,5,Hostage Taking (Barricade Incident),19,Transportation,6,Explosives,7.0,Grenade
+807,1,Assassination,15,Religious Figures/Institutions,9,Melee,22.0,"Hands, Feet, Fists"
+808,7,Facility/Infrastructure Attack,11,Maritime,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+809,7,Facility/Infrastructure Attack,11,Maritime,13,Unknown,,Unknown
+810,6,Hostage Taking (Kidnapping),16,Telecommunication,13,Unknown,,Unknown
+811,1,Assassination,4,Military,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+812,6,Hostage Taking (Kidnapping),3,Police,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+813,4,Hijacking,19,Transportation,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+814,3,Bombing/Explosion,5,Abortion Related,6,Explosives,28.0,Dynamite/TNT
+815,6,Hostage Taking (Kidnapping),2,Government (General),2,Chemical,,Unknown
+816,2,Armed Assault,1,Business,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+817,7,Facility/Infrastructure Attack,1,Business,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+818,7,Facility/Infrastructure Attack,20,Unknown,11,Sabotage Equipment,,Unknown
+819,2,Armed Assault,19,Transportation,8,Incendiary,20.0,Gasoline or Alcohol
+820,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,8.0,Landmine
+821,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,9,Melee,27.0,Unknown Weapon Type
+822,2,Armed Assault,2,Government (General),13,Unknown,,Unknown
+823,2,Armed Assault,1,Business,9,Melee,23.0,Knife or Other Sharp Object
+824,2,Armed Assault,3,Police,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+825,8,Unarmed Assault,1,Business,1,Biological,,Unknown
+826,4,Hijacking,19,Transportation,5,Firearms,3.0,Handgun
+827,1,Assassination,2,Government (General),9,Melee,24.0,Rope or Other Strangling Device
+828,1,Assassination,2,Government (General),12,Other,,Unknown
+829,3,Bombing/Explosion,19,Transportation,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+830,1,Assassination,8,Educational Institution,9,Melee,22.0,"Hands, Feet, Fists"
+831,1,Assassination,4,Military,6,Explosives,8.0,Landmine
+832,1,Assassination,14,Private Citizens & Property,6,Explosives,8.0,Landmine
+833,4,Hijacking,1,Business,13,Unknown,,Unknown
+834,8,Unarmed Assault,14,Private Citizens & Property,2,Chemical,,Unknown
+835,8,Unarmed Assault,1,Business,2,Chemical,,Unknown
+836,3,Bombing/Explosion,10,Journalists & Media,5,Firearms,3.0,Handgun
+837,8,Unarmed Assault,9,Food or Water Supply,2,Chemical,,Unknown
+838,2,Armed Assault,16,Telecommunication,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+839,5,Hostage Taking (Barricade Incident),6,Airports & Aircraft,6,Explosives,7.0,Grenade
+840,5,Hostage Taking (Barricade Incident),4,Military,13,Unknown,,Unknown
+841,8,Unarmed Assault,8,Educational Institution,9,Melee,22.0,"Hands, Feet, Fists"
+842,3,Bombing/Explosion,6,Airports & Aircraft,8,Incendiary,18.0,Arson/Fire
+843,8,Unarmed Assault,9,Food or Water Supply,3,Radiological,,Unknown
+844,2,Armed Assault,3,Police,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+845,5,Hostage Taking (Barricade Incident),12,NGO,13,Unknown,,Unknown
+846,4,Hijacking,1,Business,5,Firearms,3.0,Handgun
+847,8,Unarmed Assault,17,Terrorists/Non-State Militia,2,Chemical,,Unknown
+848,1,Assassination,4,Military,8,Incendiary,,Unknown
+849,5,Hostage Taking (Barricade Incident),9,Food or Water Supply,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+850,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,14.0,Time Fuse
+851,1,Assassination,11,Maritime,5,Firearms,3.0,Handgun
+852,3,Bombing/Explosion,21,Utilities,6,Explosives,7.0,Grenade
+853,1,Assassination,22,Violent Political Party,8,Incendiary,18.0,Arson/Fire
+854,2,Armed Assault,3,Police,8,Incendiary,20.0,Gasoline or Alcohol
+855,2,Armed Assault,15,Religious Figures/Institutions,9,Melee,23.0,Knife or Other Sharp Object
+856,4,Hijacking,11,Maritime,13,Unknown,,Unknown
+857,1,Assassination,15,Religious Figures/Institutions,9,Melee,24.0,Rope or Other Strangling Device
+858,1,Assassination,3,Police,6,Explosives,7.0,Grenade
+859,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+860,6,Hostage Taking (Kidnapping),3,Police,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+861,7,Facility/Infrastructure Attack,3,Police,8,Incendiary,18.0,Arson/Fire
+862,4,Hijacking,11,Maritime,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+863,1,Assassination,8,Educational Institution,6,Explosives,7.0,Grenade
+864,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,13.0,Suicide (carried bodily by human being)
+865,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,8.0,Landmine
+866,1,Assassination,6,Airports & Aircraft,6,Explosives,15.0,Vehicle
+867,7,Facility/Infrastructure Attack,12,NGO,8,Incendiary,20.0,Gasoline or Alcohol
+868,3,Bombing/Explosion,5,Abortion Related,6,Explosives,9.0,Letter Bomb
+869,1,Assassination,20,Unknown,6,Explosives,8.0,Landmine
+870,3,Bombing/Explosion,5,Abortion Related,6,Explosives,14.0,Time Fuse
+871,3,Bombing/Explosion,18,Tourists,6,Explosives,7.0,Grenade
+872,8,Unarmed Assault,1,Business,2,Chemical,1.0,Poisoning
+873,1,Assassination,12,NGO,13,Unknown,,Unknown
+874,2,Armed Assault,14,Private Citizens & Property,6,Explosives,28.0,Dynamite/TNT
+875,6,Hostage Taking (Kidnapping),21,Utilities,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+876,6,Hostage Taking (Kidnapping),9,Food or Water Supply,13,Unknown,,Unknown
+877,3,Bombing/Explosion,8,Educational Institution,6,Explosives,8.0,Landmine
+878,1,Assassination,3,Police,6,Explosives,31.0,Pipe Bomb
+879,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,7.0,Grenade
+880,2,Armed Assault,4,Military,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+881,5,Hostage Taking (Barricade Incident),10,Journalists & Media,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+882,7,Facility/Infrastructure Attack,17,Terrorists/Non-State Militia,8,Incendiary,,Unknown
+883,3,Bombing/Explosion,12,NGO,6,Explosives,15.0,Vehicle
+884,6,Hostage Taking (Kidnapping),21,Utilities,6,Explosives,16.0,Unknown Explosive Type
+885,3,Bombing/Explosion,19,Transportation,6,Explosives,9.0,Letter Bomb
+886,7,Facility/Infrastructure Attack,16,Telecommunication,9,Melee,21.0,Blunt Object
+887,3,Bombing/Explosion,4,Military,6,Explosives,9.0,Letter Bomb
+888,1,Assassination,22,Violent Political Party,6,Explosives,7.0,Grenade
+889,5,Hostage Taking (Barricade Incident),21,Utilities,6,Explosives,16.0,Unknown Explosive Type
+890,7,Facility/Infrastructure Attack,21,Utilities,8,Incendiary,18.0,Arson/Fire
+891,3,Bombing/Explosion,20,Unknown,6,Explosives,8.0,Landmine
+892,7,Facility/Infrastructure Attack,20,Unknown,8,Incendiary,18.0,Arson/Fire
+893,2,Armed Assault,2,Government (General),9,Melee,23.0,Knife or Other Sharp Object
+894,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,13.0,Suicide (carried bodily by human being)
+895,2,Armed Assault,14,Private Citizens & Property,9,Melee,21.0,Blunt Object
+896,2,Armed Assault,1,Business,8,Incendiary,18.0,Arson/Fire
+897,2,Armed Assault,2,Government (General),9,Melee,21.0,Blunt Object
+898,6,Hostage Taking (Kidnapping),20,Unknown,9,Melee,24.0,Rope or Other Strangling Device
+899,2,Armed Assault,7,Government (Diplomatic),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+900,3,Bombing/Explosion,14,Private Citizens & Property,8,Incendiary,20.0,Gasoline or Alcohol
+901,7,Facility/Infrastructure Attack,21,Utilities,6,Explosives,,Unknown
+902,3,Bombing/Explosion,1,Business,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+903,3,Bombing/Explosion,18,Tourists,13,Unknown,,Unknown
+904,1,Assassination,4,Military,6,Explosives,28.0,Dynamite/TNT
+905,3,Bombing/Explosion,22,Violent Political Party,13,Unknown,,Unknown
+906,7,Facility/Infrastructure Attack,17,Terrorists/Non-State Militia,8,Incendiary,18.0,Arson/Fire
+907,8,Unarmed Assault,3,Police,9,Melee,27.0,Unknown Weapon Type
+908,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,5,Firearms,3.0,Handgun
+909,6,Hostage Taking (Kidnapping),12,NGO,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+910,6,Hostage Taking (Kidnapping),10,Journalists & Media,5,Firearms,3.0,Handgun
+911,6,Hostage Taking (Kidnapping),11,Maritime,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+912,6,Hostage Taking (Kidnapping),6,Airports & Aircraft,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+913,7,Facility/Infrastructure Attack,10,Journalists & Media,8,Incendiary,20.0,Gasoline or Alcohol
+914,7,Facility/Infrastructure Attack,11,Maritime,8,Incendiary,,Unknown
+915,6,Hostage Taking (Kidnapping),4,Military,5,Firearms,3.0,Handgun
+916,8,Unarmed Assault,3,Police,2,Chemical,1.0,Poisoning
+917,7,Facility/Infrastructure Attack,9,Food or Water Supply,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+918,6,Hostage Taking (Kidnapping),3,Police,5,Firearms,3.0,Handgun
+919,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,5,Firearms,3.0,Handgun
+920,7,Facility/Infrastructure Attack,10,Journalists & Media,5,Firearms,3.0,Handgun
+921,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,13.0,Suicide (carried bodily by human being)
+922,3,Bombing/Explosion,1,Business,6,Explosives,13.0,Suicide (carried bodily by human being)
+923,7,Facility/Infrastructure Attack,9,Food or Water Supply,2,Chemical,1.0,Poisoning
+924,2,Armed Assault,14,Private Citizens & Property,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+925,2,Armed Assault,22,Violent Political Party,5,Firearms,3.0,Handgun
+926,1,Assassination,3,Police,6,Explosives,9.0,Letter Bomb
+927,2,Armed Assault,15,Religious Figures/Institutions,8,Incendiary,,Unknown
+928,7,Facility/Infrastructure Attack,5,Abortion Related,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+929,3,Bombing/Explosion,17,Terrorists/Non-State Militia,13,Unknown,,Unknown
+930,1,Assassination,6,Airports & Aircraft,5,Firearms,3.0,Handgun
+931,1,Assassination,11,Maritime,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+932,1,Assassination,8,Educational Institution,9,Melee,24.0,Rope or Other Strangling Device
+933,1,Assassination,22,Violent Political Party,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+934,1,Assassination,4,Military,6,Explosives,29.0,Sticky Bomb
+935,6,Hostage Taking (Kidnapping),22,Violent Political Party,5,Firearms,3.0,Handgun
+936,1,Assassination,17,Terrorists/Non-State Militia,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+937,6,Hostage Taking (Kidnapping),12,NGO,5,Firearms,3.0,Handgun
+938,3,Bombing/Explosion,2,Government (General),8,Incendiary,18.0,Arson/Fire
+939,1,Assassination,12,NGO,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+940,6,Hostage Taking (Kidnapping),9,Food or Water Supply,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+941,2,Armed Assault,11,Maritime,6,Explosives,7.0,Grenade
+942,1,Assassination,2,Government (General),10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+943,3,Bombing/Explosion,12,NGO,6,Explosives,8.0,Landmine
+944,4,Hijacking,15,Religious Figures/Institutions,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+945,5,Hostage Taking (Barricade Incident),4,Military,5,Firearms,5.0,Unknown Gun Type
+946,3,Bombing/Explosion,2,Government (General),2,Chemical,30.0,Explosive
+947,2,Armed Assault,22,Violent Political Party,9,Melee,23.0,Knife or Other Sharp Object
+948,3,Bombing/Explosion,1,Business,6,Explosives,12.0,Remote Trigger
+949,7,Facility/Infrastructure Attack,2,Government (General),11,Sabotage Equipment,,Unknown
+950,1,Assassination,8,Educational Institution,6,Explosives,9.0,Letter Bomb
+951,2,Armed Assault,3,Police,9,Melee,21.0,Blunt Object
+952,7,Facility/Infrastructure Attack,2,Government (General),5,Firearms,3.0,Handgun
+953,8,Unarmed Assault,10,Journalists & Media,12,Other,,Unknown
+954,6,Hostage Taking (Kidnapping),1,Business,9,Melee,23.0,Knife or Other Sharp Object
+955,3,Bombing/Explosion,22,Violent Political Party,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+956,2,Armed Assault,22,Violent Political Party,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+957,1,Assassination,19,Transportation,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+958,6,Hostage Taking (Kidnapping),19,Transportation,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+959,8,Unarmed Assault,2,Government (General),12,Other,,Unknown
+960,2,Armed Assault,11,Maritime,8,Incendiary,,Unknown
+961,6,Hostage Taking (Kidnapping),21,Utilities,13,Unknown,,Unknown
+962,8,Unarmed Assault,1,Business,7,Fake Weapons,,Unknown
+963,1,Assassination,3,Police,6,Explosives,29.0,Sticky Bomb
+964,7,Facility/Infrastructure Attack,19,Transportation,9,Melee,21.0,Blunt Object
+965,1,Assassination,15,Religious Figures/Institutions,6,Explosives,15.0,Vehicle
+966,1,Assassination,10,Journalists & Media,9,Melee,24.0,Rope or Other Strangling Device
+967,8,Unarmed Assault,19,Transportation,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+968,1,Assassination,22,Violent Political Party,2,Chemical,1.0,Poisoning
+969,4,Hijacking,19,Transportation,6,Explosives,16.0,Unknown Explosive Type
+970,7,Facility/Infrastructure Attack,6,Airports & Aircraft,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+971,2,Armed Assault,9,Food or Water Supply,8,Incendiary,,Unknown
+972,2,Armed Assault,18,Tourists,8,Incendiary,,Unknown
+973,6,Hostage Taking (Kidnapping),6,Airports & Aircraft,5,Firearms,3.0,Handgun
+974,6,Hostage Taking (Kidnapping),18,Tourists,5,Firearms,3.0,Handgun
+975,1,Assassination,11,Maritime,9,Melee,23.0,Knife or Other Sharp Object
+976,3,Bombing/Explosion,22,Violent Political Party,2,Chemical,,Unknown
+977,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+978,3,Bombing/Explosion,16,Telecommunication,6,Explosives,15.0,Vehicle
+979,1,Assassination,1,Business,6,Explosives,12.0,Remote Trigger
+980,2,Armed Assault,12,NGO,9,Melee,23.0,Knife or Other Sharp Object
+981,3,Bombing/Explosion,12,NGO,6,Explosives,7.0,Grenade
+982,1,Assassination,1,Business,6,Explosives,29.0,Sticky Bomb
+983,1,Assassination,18,Tourists,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+984,1,Assassination,19,Transportation,9,Melee,23.0,Knife or Other Sharp Object
+985,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,5,Firearms,3.0,Handgun
+986,1,Assassination,3,Police,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+987,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,9.0,Letter Bomb
+988,6,Hostage Taking (Kidnapping),12,NGO,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+989,3,Bombing/Explosion,18,Tourists,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+990,8,Unarmed Assault,4,Military,2,Chemical,,Unknown
+991,1,Assassination,18,Tourists,9,Melee,23.0,Knife or Other Sharp Object
+992,6,Hostage Taking (Kidnapping),2,Government (General),9,Melee,24.0,Rope or Other Strangling Device
+993,6,Hostage Taking (Kidnapping),20,Unknown,5,Firearms,3.0,Handgun
+994,5,Hostage Taking (Barricade Incident),11,Maritime,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+995,1,Assassination,13,Other,5,Firearms,3.0,Handgun
+996,2,Armed Assault,21,Utilities,8,Incendiary,,Unknown
+997,8,Unarmed Assault,4,Military,1,Biological,,Unknown
+998,8,Unarmed Assault,6,Airports & Aircraft,1,Biological,,Unknown
+999,8,Unarmed Assault,22,Violent Political Party,2,Chemical,,Unknown
+1000,1,Assassination,3,Police,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1001,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,5,Firearms,3.0,Handgun
+1002,4,Hijacking,14,Private Citizens & Property,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1003,3,Bombing/Explosion,2,Government (General),5,Firearms,3.0,Handgun
+1004,3,Bombing/Explosion,15,Religious Figures/Institutions,5,Firearms,3.0,Handgun
+1005,6,Hostage Taking (Kidnapping),4,Military,6,Explosives,15.0,Vehicle
+1006,3,Bombing/Explosion,4,Military,6,Explosives,13.0,Suicide (carried bodily by human being)
+1007,2,Armed Assault,2,Government (General),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1008,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,8,Incendiary,,Unknown
+1009,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,6,Explosives,16.0,Unknown Explosive Type
+1010,8,Unarmed Assault,7,Government (Diplomatic),9,Melee,21.0,Blunt Object
+1011,1,Assassination,4,Military,6,Explosives,31.0,Pipe Bomb
+1012,1,Assassination,2,Government (General),6,Explosives,12.0,Remote Trigger
+1013,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,17.0,Other Explosive Type
+1014,6,Hostage Taking (Kidnapping),3,Police,6,Explosives,16.0,Unknown Explosive Type
+1015,3,Bombing/Explosion,21,Utilities,6,Explosives,17.0,Other Explosive Type
+1016,4,Hijacking,3,Police,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1017,4,Hijacking,7,Government (Diplomatic),5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1018,1,Assassination,2,Government (General),6,Explosives,13.0,Suicide (carried bodily by human being)
+1019,1,Assassination,1,Business,9,Melee,21.0,Blunt Object
+1020,2,Armed Assault,17,Terrorists/Non-State Militia,5,Firearms,3.0,Handgun
+1021,7,Facility/Infrastructure Attack,2,Government (General),12,Other,,Unknown
+1022,1,Assassination,2,Government (General),9,Melee,21.0,Blunt Object
+1023,1,Assassination,16,Telecommunication,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1024,3,Bombing/Explosion,7,Government (Diplomatic),12,Other,,Unknown
+1025,7,Facility/Infrastructure Attack,7,Government (Diplomatic),9,Melee,21.0,Blunt Object
+1026,4,Hijacking,14,Private Citizens & Property,5,Firearms,3.0,Handgun
+1027,7,Facility/Infrastructure Attack,7,Government (Diplomatic),10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1028,1,Assassination,14,Private Citizens & Property,2,Chemical,,Unknown
+1029,8,Unarmed Assault,3,Police,2,Chemical,,Unknown
+1030,2,Armed Assault,10,Journalists & Media,9,Melee,23.0,Knife or Other Sharp Object
+1031,1,Assassination,2,Government (General),2,Chemical,,Unknown
+1032,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,12,Other,,Unknown
+1033,2,Armed Assault,2,Government (General),6,Explosives,7.0,Grenade
+1034,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),9,Melee,23.0,Knife or Other Sharp Object
+1035,7,Facility/Infrastructure Attack,5,Abortion Related,9,Melee,27.0,Unknown Weapon Type
+1036,6,Hostage Taking (Kidnapping),4,Military,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1037,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,8.0,Landmine
+1038,1,Assassination,8,Educational Institution,6,Explosives,15.0,Vehicle
+1039,8,Unarmed Assault,4,Military,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1040,4,Hijacking,4,Military,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1041,7,Facility/Infrastructure Attack,14,Private Citizens & Property,5,Firearms,3.0,Handgun
+1042,1,Assassination,18,Tourists,13,Unknown,,Unknown
+1043,3,Bombing/Explosion,20,Unknown,6,Explosives,7.0,Grenade
+1044,1,Assassination,22,Violent Political Party,8,Incendiary,,Unknown
+1045,1,Assassination,14,Private Citizens & Property,9,Melee,26.0,Suffocation
+1046,6,Hostage Taking (Kidnapping),22,Violent Political Party,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1047,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1048,2,Armed Assault,5,Abortion Related,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1049,4,Hijacking,14,Private Citizens & Property,9,Melee,21.0,Blunt Object
+1050,1,Assassination,5,Abortion Related,5,Firearms,5.0,Unknown Gun Type
+1051,1,Assassination,3,Police,6,Explosives,17.0,Other Explosive Type
+1052,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),6,Explosives,31.0,Pipe Bomb
+1053,1,Assassination,19,Transportation,9,Melee,21.0,Blunt Object
+1054,2,Armed Assault,4,Military,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1055,1,Assassination,6,Airports & Aircraft,9,Melee,24.0,Rope or Other Strangling Device
+1056,7,Facility/Infrastructure Attack,4,Military,9,Melee,23.0,Knife or Other Sharp Object
+1057,1,Assassination,1,Business,9,Melee,24.0,Rope or Other Strangling Device
+1058,1,Assassination,19,Transportation,6,Explosives,9.0,Letter Bomb
+1059,3,Bombing/Explosion,16,Telecommunication,6,Explosives,17.0,Other Explosive Type
+1060,2,Armed Assault,22,Violent Political Party,8,Incendiary,,Unknown
+1061,1,Assassination,4,Military,8,Incendiary,18.0,Arson/Fire
+1062,1,Assassination,4,Military,12,Other,,Unknown
+1063,7,Facility/Infrastructure Attack,3,Police,5,Firearms,3.0,Handgun
+1064,1,Assassination,19,Transportation,9,Melee,22.0,"Hands, Feet, Fists"
+1065,7,Facility/Infrastructure Attack,7,Government (Diplomatic),9,Melee,23.0,Knife or Other Sharp Object
+1066,1,Assassination,22,Violent Political Party,9,Melee,26.0,Suffocation
+1067,8,Unarmed Assault,6,Airports & Aircraft,9,Melee,21.0,Blunt Object
+1068,8,Unarmed Assault,1,Business,9,Melee,21.0,Blunt Object
+1069,5,Hostage Taking (Barricade Incident),21,Utilities,13,Unknown,,Unknown
+1070,7,Facility/Infrastructure Attack,1,Business,9,Melee,21.0,Blunt Object
+1071,8,Unarmed Assault,4,Military,2,Chemical,1.0,Poisoning
+1072,4,Hijacking,6,Airports & Aircraft,9,Melee,22.0,"Hands, Feet, Fists"
+1073,2,Armed Assault,2,Government (General),2,Chemical,,Unknown
+1074,1,Assassination,4,Military,2,Chemical,,Unknown
+1075,1,Assassination,12,NGO,9,Melee,21.0,Blunt Object
+1076,4,Hijacking,9,Food or Water Supply,5,Firearms,3.0,Handgun
+1077,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),6,Explosives,7.0,Grenade
+1078,3,Bombing/Explosion,8,Educational Institution,8,Incendiary,,Unknown
+1079,7,Facility/Infrastructure Attack,12,NGO,12,Other,,Unknown
+1080,4,Hijacking,12,NGO,5,Firearms,3.0,Handgun
+1081,1,Assassination,2,Government (General),9,Melee,22.0,"Hands, Feet, Fists"
+1082,2,Armed Assault,11,Maritime,9,Melee,23.0,Knife or Other Sharp Object
+1083,1,Assassination,22,Violent Political Party,9,Melee,24.0,Rope or Other Strangling Device
+1084,1,Assassination,14,Private Citizens & Property,8,Incendiary,18.0,Arson/Fire
+1085,4,Hijacking,11,Maritime,5,Firearms,3.0,Handgun
+1086,6,Hostage Taking (Kidnapping),9,Food or Water Supply,5,Firearms,3.0,Handgun
+1087,8,Unarmed Assault,15,Religious Figures/Institutions,2,Chemical,,Unknown
+1088,7,Facility/Infrastructure Attack,3,Police,9,Melee,21.0,Blunt Object
+1089,8,Unarmed Assault,2,Government (General),9,Melee,22.0,"Hands, Feet, Fists"
+1090,6,Hostage Taking (Kidnapping),2,Government (General),6,Explosives,16.0,Unknown Explosive Type
+1091,2,Armed Assault,6,Airports & Aircraft,5,Firearms,3.0,Handgun
+1092,1,Assassination,4,Military,9,Melee,21.0,Blunt Object
+1093,1,Assassination,1,Business,8,Incendiary,20.0,Gasoline or Alcohol
+1094,3,Bombing/Explosion,12,NGO,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1095,7,Facility/Infrastructure Attack,3,Police,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1096,7,Facility/Infrastructure Attack,4,Military,9,Melee,21.0,Blunt Object
+1097,1,Assassination,3,Police,9,Melee,22.0,"Hands, Feet, Fists"
+1098,3,Bombing/Explosion,20,Unknown,8,Incendiary,,Unknown
+1099,2,Armed Assault,18,Tourists,9,Melee,21.0,Blunt Object
+1100,8,Unarmed Assault,18,Tourists,9,Melee,21.0,Blunt Object
+1101,1,Assassination,19,Transportation,8,Incendiary,,Unknown
+1102,1,Assassination,7,Government (Diplomatic),6,Explosives,28.0,Dynamite/TNT
+1103,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,9,Melee,21.0,Blunt Object
+1104,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,,Unknown
+1105,3,Bombing/Explosion,1,Business,9,Melee,21.0,Blunt Object
+1106,8,Unarmed Assault,12,NGO,2,Chemical,1.0,Poisoning
+1107,2,Armed Assault,15,Religious Figures/Institutions,6,Explosives,7.0,Grenade
+1108,5,Hostage Taking (Barricade Incident),4,Military,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1109,6,Hostage Taking (Kidnapping),2,Government (General),9,Melee,23.0,Knife or Other Sharp Object
+1110,1,Assassination,5,Abortion Related,5,Firearms,3.0,Handgun
+1111,2,Armed Assault,18,Tourists,9,Melee,23.0,Knife or Other Sharp Object
+1112,1,Assassination,21,Utilities,5,Firearms,3.0,Handgun
+1113,1,Assassination,14,Private Citizens & Property,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1114,2,Armed Assault,3,Police,12,Other,,Unknown
+1115,3,Bombing/Explosion,19,Transportation,6,Explosives,13.0,Suicide (carried bodily by human being)
+1116,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,8.0,Landmine
+1117,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,5,Firearms,5.0,Unknown Gun Type
+1118,4,Hijacking,7,Government (Diplomatic),5,Firearms,3.0,Handgun
+1119,1,Assassination,18,Tourists,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1120,8,Unarmed Assault,22,Violent Political Party,9,Melee,21.0,Blunt Object
+1121,3,Bombing/Explosion,18,Tourists,6,Explosives,28.0,Dynamite/TNT
+1122,5,Hostage Taking (Barricade Incident),20,Unknown,13,Unknown,,Unknown
+1123,1,Assassination,13,Other,5,Firearms,5.0,Unknown Gun Type
+1124,4,Hijacking,9,Food or Water Supply,5,Firearms,5.0,Unknown Gun Type
+1125,4,Hijacking,19,Transportation,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1126,1,Assassination,5,Abortion Related,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1127,4,Hijacking,11,Maritime,9,Melee,23.0,Knife or Other Sharp Object
+1128,2,Armed Assault,11,Maritime,5,Firearms,5.0,Unknown Gun Type
+1129,4,Hijacking,7,Government (Diplomatic),13,Unknown,,Unknown
+1130,4,Hijacking,8,Educational Institution,5,Firearms,5.0,Unknown Gun Type
+1131,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1132,7,Facility/Infrastructure Attack,12,NGO,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1133,6,Hostage Taking (Kidnapping),18,Tourists,5,Firearms,5.0,Unknown Gun Type
+1134,5,Hostage Taking (Barricade Incident),3,Police,2,Chemical,,Unknown
+1135,2,Armed Assault,4,Military,2,Chemical,,Unknown
+1136,8,Unarmed Assault,14,Private Citizens & Property,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1137,3,Bombing/Explosion,11,Maritime,6,Explosives,8.0,Landmine
+1138,8,Unarmed Assault,2,Government (General),10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1139,1,Assassination,15,Religious Figures/Institutions,9,Melee,21.0,Blunt Object
+1140,6,Hostage Taking (Kidnapping),8,Educational Institution,5,Firearms,5.0,Unknown Gun Type
+1141,1,Assassination,22,Violent Political Party,6,Explosives,13.0,Suicide (carried bodily by human being)
+1142,5,Hostage Taking (Barricade Incident),1,Business,6,Explosives,12.0,Remote Trigger
+1143,2,Armed Assault,4,Military,6,Explosives,28.0,Dynamite/TNT
+1144,1,Assassination,5,Abortion Related,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1145,3,Bombing/Explosion,8,Educational Institution,8,Incendiary,20.0,Gasoline or Alcohol
+1146,1,Assassination,13,Other,13,Unknown,,Unknown
+1147,5,Hostage Taking (Barricade Incident),8,Educational Institution,5,Firearms,5.0,Unknown Gun Type
+1148,7,Facility/Infrastructure Attack,5,Abortion Related,8,Incendiary,,Unknown
+1149,1,Assassination,4,Military,2,Chemical,1.0,Poisoning
+1150,7,Facility/Infrastructure Attack,7,Government (Diplomatic),8,Incendiary,20.0,Gasoline or Alcohol
+1151,3,Bombing/Explosion,7,Government (Diplomatic),7,Fake Weapons,,Unknown
+1152,2,Armed Assault,4,Military,8,Incendiary,18.0,Arson/Fire
+1153,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1154,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,12,Other,,Unknown
+1155,4,Hijacking,1,Business,5,Firearms,5.0,Unknown Gun Type
+1156,3,Bombing/Explosion,18,Tourists,7,Fake Weapons,,Unknown
+1157,6,Hostage Taking (Kidnapping),1,Business,12,Other,,Unknown
+1158,2,Armed Assault,8,Educational Institution,9,Melee,23.0,Knife or Other Sharp Object
+1159,6,Hostage Taking (Kidnapping),12,NGO,5,Firearms,5.0,Unknown Gun Type
+1160,7,Facility/Infrastructure Attack,8,Educational Institution,5,Firearms,5.0,Unknown Gun Type
+1161,7,Facility/Infrastructure Attack,14,Private Citizens & Property,5,Firearms,5.0,Unknown Gun Type
+1162,8,Unarmed Assault,5,Abortion Related,9,Melee,21.0,Blunt Object
+1163,7,Facility/Infrastructure Attack,19,Transportation,7,Fake Weapons,,Unknown
+1164,7,Facility/Infrastructure Attack,5,Abortion Related,9,Melee,21.0,Blunt Object
+1165,8,Unarmed Assault,19,Transportation,2,Chemical,,Unknown
+1166,4,Hijacking,11,Maritime,5,Firearms,5.0,Unknown Gun Type
+1167,8,Unarmed Assault,15,Religious Figures/Institutions,9,Melee,21.0,Blunt Object
+1168,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1169,2,Armed Assault,1,Business,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1170,3,Bombing/Explosion,18,Tourists,6,Explosives,15.0,Vehicle
+1171,2,Armed Assault,5,Abortion Related,5,Firearms,5.0,Unknown Gun Type
+1172,8,Unarmed Assault,20,Unknown,9,Melee,21.0,Blunt Object
+1173,3,Bombing/Explosion,18,Tourists,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1174,4,Hijacking,19,Transportation,5,Firearms,5.0,Unknown Gun Type
+1175,4,Hijacking,2,Government (General),8,Incendiary,,Unknown
+1176,5,Hostage Taking (Barricade Incident),18,Tourists,13,Unknown,,Unknown
+1177,2,Armed Assault,4,Military,6,Explosives,8.0,Landmine
+1178,4,Hijacking,18,Tourists,13,Unknown,,Unknown
+1179,1,Assassination,1,Business,2,Chemical,1.0,Poisoning
+1180,3,Bombing/Explosion,20,Unknown,6,Explosives,13.0,Suicide (carried bodily by human being)
+1181,6,Hostage Taking (Kidnapping),3,Police,9,Melee,23.0,Knife or Other Sharp Object
+1182,7,Facility/Infrastructure Attack,17,Terrorists/Non-State Militia,8,Incendiary,20.0,Gasoline or Alcohol
+1183,4,Hijacking,2,Government (General),13,Unknown,,Unknown
+1184,7,Facility/Infrastructure Attack,3,Police,5,Firearms,5.0,Unknown Gun Type
+1185,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,5,Firearms,5.0,Unknown Gun Type
+1186,4,Hijacking,18,Tourists,5,Firearms,5.0,Unknown Gun Type
+1187,3,Bombing/Explosion,21,Utilities,6,Explosives,13.0,Suicide (carried bodily by human being)
+1188,2,Armed Assault,2,Government (General),8,Incendiary,18.0,Arson/Fire
+1189,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,9.0,Letter Bomb
+1190,1,Assassination,3,Police,6,Explosives,12.0,Remote Trigger
+1191,1,Assassination,11,Maritime,13,Unknown,,Unknown
+1192,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,31.0,Pipe Bomb
+1193,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,9.0,Letter Bomb
+1194,5,Hostage Taking (Barricade Incident),20,Unknown,5,Firearms,5.0,Unknown Gun Type
+1195,4,Hijacking,20,Unknown,5,Firearms,5.0,Unknown Gun Type
+1196,4,Hijacking,21,Utilities,5,Firearms,5.0,Unknown Gun Type
+1197,5,Hostage Taking (Barricade Incident),17,Terrorists/Non-State Militia,13,Unknown,,Unknown
+1198,2,Armed Assault,9,Food or Water Supply,5,Firearms,5.0,Unknown Gun Type
+1199,6,Hostage Taking (Kidnapping),10,Journalists & Media,9,Melee,23.0,Knife or Other Sharp Object
+1200,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,13.0,Suicide (carried bodily by human being)
+1201,8,Unarmed Assault,8,Educational Institution,9,Melee,21.0,Blunt Object
+1202,5,Hostage Taking (Barricade Incident),12,NGO,5,Firearms,5.0,Unknown Gun Type
+1203,4,Hijacking,6,Airports & Aircraft,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1204,2,Armed Assault,1,Business,6,Explosives,31.0,Pipe Bomb
+1205,3,Bombing/Explosion,20,Unknown,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1206,8,Unarmed Assault,7,Government (Diplomatic),10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1207,6,Hostage Taking (Kidnapping),2,Government (General),7,Fake Weapons,,Unknown
+1208,3,Bombing/Explosion,20,Unknown,6,Explosives,9.0,Letter Bomb
+1209,6,Hostage Taking (Kidnapping),20,Unknown,5,Firearms,5.0,Unknown Gun Type
+1210,8,Unarmed Assault,12,NGO,9,Melee,21.0,Blunt Object
+1211,8,Unarmed Assault,7,Government (Diplomatic),6,Explosives,17.0,Other Explosive Type
+1212,6,Hostage Taking (Kidnapping),8,Educational Institution,6,Explosives,7.0,Grenade
+1213,3,Bombing/Explosion,3,Police,6,Explosives,13.0,Suicide (carried bodily by human being)
+1214,2,Armed Assault,7,Government (Diplomatic),8,Incendiary,20.0,Gasoline or Alcohol
+1215,8,Unarmed Assault,22,Violent Political Party,9,Melee,22.0,"Hands, Feet, Fists"
+1216,6,Hostage Taking (Kidnapping),1,Business,9,Melee,24.0,Rope or Other Strangling Device
+1217,7,Facility/Infrastructure Attack,4,Military,5,Firearms,5.0,Unknown Gun Type
+1218,1,Assassination,5,Abortion Related,9,Melee,23.0,Knife or Other Sharp Object
+1219,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,6,Explosives,16.0,Unknown Explosive Type
+1220,4,Hijacking,14,Private Citizens & Property,5,Firearms,5.0,Unknown Gun Type
+1221,7,Facility/Infrastructure Attack,5,Abortion Related,5,Firearms,3.0,Handgun
+1222,2,Armed Assault,15,Religious Figures/Institutions,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1223,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,13.0,Suicide (carried bodily by human being)
+1224,3,Bombing/Explosion,15,Religious Figures/Institutions,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1225,4,Hijacking,3,Police,6,Explosives,7.0,Grenade
+1226,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,9.0,Letter Bomb
+1227,4,Hijacking,7,Government (Diplomatic),5,Firearms,5.0,Unknown Gun Type
+1228,6,Hostage Taking (Kidnapping),22,Violent Political Party,8,Incendiary,,Unknown
+1229,4,Hijacking,4,Military,5,Firearms,5.0,Unknown Gun Type
+1230,4,Hijacking,2,Government (General),5,Firearms,5.0,Unknown Gun Type
+1231,5,Hostage Taking (Barricade Incident),2,Government (General),9,Melee,23.0,Knife or Other Sharp Object
+1232,3,Bombing/Explosion,20,Unknown,6,Explosives,31.0,Pipe Bomb
+1233,4,Hijacking,2,Government (General),9,Melee,21.0,Blunt Object
+1234,2,Armed Assault,20,Unknown,9,Melee,23.0,Knife or Other Sharp Object
+1235,2,Armed Assault,13,Other,9,Melee,23.0,Knife or Other Sharp Object
+1236,1,Assassination,1,Business,9,Melee,26.0,Suffocation
+1237,6,Hostage Taking (Kidnapping),19,Transportation,8,Incendiary,,Unknown
+1238,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),6,Explosives,7.0,Grenade
+1239,8,Unarmed Assault,19,Transportation,9,Melee,22.0,"Hands, Feet, Fists"
+1240,2,Armed Assault,14,Private Citizens & Property,6,Explosives,14.0,Time Fuse
+1241,3,Bombing/Explosion,19,Transportation,6,Explosives,10.0,Pressure Trigger
+1242,7,Facility/Infrastructure Attack,14,Private Citizens & Property,7,Fake Weapons,,Unknown
+1243,8,Unarmed Assault,2,Government (General),2,Chemical,1.0,Poisoning
+1244,3,Bombing/Explosion,19,Transportation,6,Explosives,12.0,Remote Trigger
+1245,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,12.0,Remote Trigger
+1246,3,Bombing/Explosion,7,Government (Diplomatic),8,Incendiary,20.0,Gasoline or Alcohol
+1247,3,Bombing/Explosion,2,Government (General),6,Explosives,12.0,Remote Trigger
+1248,3,Bombing/Explosion,7,Government (Diplomatic),8,Incendiary,18.0,Arson/Fire
+1249,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,13.0,Suicide (carried bodily by human being)
+1250,3,Bombing/Explosion,1,Business,8,Incendiary,20.0,Gasoline or Alcohol
+1251,3,Bombing/Explosion,3,Police,6,Explosives,10.0,Pressure Trigger
+1252,3,Bombing/Explosion,16,Telecommunication,2,Chemical,30.0,Explosive
+1253,6,Hostage Taking (Kidnapping),2,Government (General),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1254,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,12.0,Remote Trigger
+1255,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,14.0,Time Fuse
+1256,3,Bombing/Explosion,2,Government (General),6,Explosives,13.0,Suicide (carried bodily by human being)
+1257,1,Assassination,2,Government (General),6,Explosives,17.0,Other Explosive Type
+1258,7,Facility/Infrastructure Attack,14,Private Citizens & Property,6,Explosives,16.0,Unknown Explosive Type
+1259,2,Armed Assault,4,Military,6,Explosives,7.0,Grenade
+1260,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,12.0,Remote Trigger
+1261,2,Armed Assault,3,Police,6,Explosives,10.0,Pressure Trigger
+1262,2,Armed Assault,14,Private Citizens & Property,5,Firearms,6.0,Other Gun Type
+1263,3,Bombing/Explosion,3,Police,8,Incendiary,20.0,Gasoline or Alcohol
+1264,8,Unarmed Assault,15,Religious Figures/Institutions,9,Melee,22.0,"Hands, Feet, Fists"
+1265,5,Hostage Taking (Barricade Incident),2,Government (General),6,Explosives,7.0,Grenade
+1266,5,Hostage Taking (Barricade Incident),2,Government (General),8,Incendiary,18.0,Arson/Fire
+1267,2,Armed Assault,6,Airports & Aircraft,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1268,3,Bombing/Explosion,2,Government (General),8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1269,4,Hijacking,6,Airports & Aircraft,6,Explosives,12.0,Remote Trigger
+1270,3,Bombing/Explosion,14,Private Citizens & Property,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1271,3,Bombing/Explosion,1,Business,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1272,3,Bombing/Explosion,22,Violent Political Party,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1273,7,Facility/Infrastructure Attack,22,Violent Political Party,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1274,3,Bombing/Explosion,12,NGO,6,Explosives,14.0,Time Fuse
+1275,3,Bombing/Explosion,10,Journalists & Media,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1276,3,Bombing/Explosion,2,Government (General),8,Incendiary,20.0,Gasoline or Alcohol
+1277,6,Hostage Taking (Kidnapping),3,Police,6,Explosives,17.0,Other Explosive Type
+1278,7,Facility/Infrastructure Attack,1,Business,9,Melee,22.0,"Hands, Feet, Fists"
+1279,7,Facility/Infrastructure Attack,6,Airports & Aircraft,5,Firearms,5.0,Unknown Gun Type
+1280,7,Facility/Infrastructure Attack,12,NGO,9,Melee,21.0,Blunt Object
+1281,1,Assassination,4,Military,6,Explosives,13.0,Suicide (carried bodily by human being)
+1282,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,10.0,Pressure Trigger
+1283,2,Armed Assault,2,Government (General),8,Incendiary,20.0,Gasoline or Alcohol
+1284,7,Facility/Infrastructure Attack,2,Government (General),5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1285,2,Armed Assault,15,Religious Figures/Institutions,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1286,2,Armed Assault,12,NGO,8,Incendiary,18.0,Arson/Fire
+1287,6,Hostage Taking (Kidnapping),4,Military,6,Explosives,7.0,Grenade
+1288,3,Bombing/Explosion,11,Maritime,6,Explosives,13.0,Suicide (carried bodily by human being)
+1289,7,Facility/Infrastructure Attack,11,Maritime,8,Incendiary,18.0,Arson/Fire
+1290,7,Facility/Infrastructure Attack,12,NGO,5,Firearms,5.0,Unknown Gun Type
+1291,3,Bombing/Explosion,9,Food or Water Supply,8,Incendiary,20.0,Gasoline or Alcohol
+1292,3,Bombing/Explosion,1,Business,6,Explosives,10.0,Pressure Trigger
+1293,2,Armed Assault,1,Business,8,Incendiary,20.0,Gasoline or Alcohol
+1294,2,Armed Assault,8,Educational Institution,13,Unknown,,Unknown
+1295,8,Unarmed Assault,10,Journalists & Media,9,Melee,24.0,Rope or Other Strangling Device
+1296,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,10.0,Pressure Trigger
+1297,7,Facility/Infrastructure Attack,14,Private Citizens & Property,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1298,2,Armed Assault,3,Police,5,Firearms,6.0,Other Gun Type
+1299,3,Bombing/Explosion,11,Maritime,6,Explosives,28.0,Dynamite/TNT
+1300,6,Hostage Taking (Kidnapping),11,Maritime,5,Firearms,5.0,Unknown Gun Type
+1301,8,Unarmed Assault,8,Educational Institution,12,Other,,Unknown
+1302,7,Facility/Infrastructure Attack,11,Maritime,5,Firearms,5.0,Unknown Gun Type
+1303,7,Facility/Infrastructure Attack,11,Maritime,9,Melee,23.0,Knife or Other Sharp Object
+1304,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,9,Melee,24.0,Rope or Other Strangling Device
+1305,7,Facility/Infrastructure Attack,19,Transportation,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1306,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,13.0,Suicide (carried bodily by human being)
+1307,3,Bombing/Explosion,14,Private Citizens & Property,8,Incendiary,18.0,Arson/Fire
+1308,2,Armed Assault,3,Police,6,Explosives,16.0,Unknown Explosive Type
+1309,2,Armed Assault,19,Transportation,6,Explosives,16.0,Unknown Explosive Type
+1310,2,Armed Assault,2,Government (General),6,Explosives,16.0,Unknown Explosive Type
+1311,2,Armed Assault,2,Government (General),6,Explosives,17.0,Other Explosive Type
+1312,2,Armed Assault,22,Violent Political Party,8,Incendiary,18.0,Arson/Fire
+1313,2,Armed Assault,16,Telecommunication,8,Incendiary,18.0,Arson/Fire
+1314,2,Armed Assault,1,Business,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1315,3,Bombing/Explosion,19,Transportation,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1316,7,Facility/Infrastructure Attack,19,Transportation,8,Incendiary,20.0,Gasoline or Alcohol
+1317,3,Bombing/Explosion,14,Private Citizens & Property,11,Sabotage Equipment,,Unknown
+1318,1,Assassination,4,Military,6,Explosives,17.0,Other Explosive Type
+1319,2,Armed Assault,3,Police,6,Explosives,17.0,Other Explosive Type
+1320,1,Assassination,12,NGO,6,Explosives,17.0,Other Explosive Type
+1321,3,Bombing/Explosion,2,Government (General),9,Melee,23.0,Knife or Other Sharp Object
+1322,2,Armed Assault,14,Private Citizens & Property,6,Explosives,7.0,Grenade
+1323,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,8,Incendiary,18.0,Arson/Fire
+1324,3,Bombing/Explosion,11,Maritime,6,Explosives,17.0,Other Explosive Type
+1325,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,11,Sabotage Equipment,,Unknown
+1326,2,Armed Assault,1,Business,6,Explosives,7.0,Grenade
+1327,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,12.0,Remote Trigger
+1328,7,Facility/Infrastructure Attack,2,Government (General),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1329,8,Unarmed Assault,18,Tourists,1,Biological,,Unknown
+1330,6,Hostage Taking (Kidnapping),21,Utilities,5,Firearms,5.0,Unknown Gun Type
+1331,6,Hostage Taking (Kidnapping),4,Military,9,Melee,24.0,Rope or Other Strangling Device
+1332,7,Facility/Infrastructure Attack,18,Tourists,8,Incendiary,18.0,Arson/Fire
+1333,8,Unarmed Assault,2,Government (General),3,Radiological,,Unknown
+1334,3,Bombing/Explosion,11,Maritime,6,Explosives,15.0,Vehicle
+1335,8,Unarmed Assault,14,Private Citizens & Property,12,Other,,Unknown
+1336,3,Bombing/Explosion,18,Tourists,6,Explosives,31.0,Pipe Bomb
+1337,2,Armed Assault,5,Abortion Related,9,Melee,23.0,Knife or Other Sharp Object
+1338,6,Hostage Taking (Kidnapping),2,Government (General),8,Incendiary,18.0,Arson/Fire
+1339,1,Assassination,15,Religious Figures/Institutions,6,Explosives,8.0,Landmine
+1340,3,Bombing/Explosion,12,NGO,6,Explosives,9.0,Letter Bomb
+1341,6,Hostage Taking (Kidnapping),1,Business,6,Explosives,28.0,Dynamite/TNT
+1342,2,Armed Assault,22,Violent Political Party,8,Incendiary,20.0,Gasoline or Alcohol
+1343,2,Armed Assault,22,Violent Political Party,6,Explosives,7.0,Grenade
+1344,6,Hostage Taking (Kidnapping),1,Business,6,Explosives,16.0,Unknown Explosive Type
+1345,1,Assassination,2,Government (General),6,Explosives,31.0,Pipe Bomb
+1346,2,Armed Assault,4,Military,6,Explosives,16.0,Unknown Explosive Type
+1347,3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives,29.0,Sticky Bomb
+1348,3,Bombing/Explosion,16,Telecommunication,6,Explosives,7.0,Grenade
+1349,7,Facility/Infrastructure Attack,10,Journalists & Media,9,Melee,21.0,Blunt Object
+1350,7,Facility/Infrastructure Attack,16,Telecommunication,8,Incendiary,20.0,Gasoline or Alcohol
+1351,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,6,Explosives,7.0,Grenade
+1352,3,Bombing/Explosion,8,Educational Institution,6,Explosives,12.0,Remote Trigger
+1353,7,Facility/Infrastructure Attack,9,Food or Water Supply,8,Incendiary,18.0,Arson/Fire
+1354,3,Bombing/Explosion,10,Journalists & Media,8,Incendiary,20.0,Gasoline or Alcohol
+1355,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1356,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,6,Explosives,15.0,Vehicle
+1357,7,Facility/Infrastructure Attack,5,Abortion Related,5,Firearms,5.0,Unknown Gun Type
+1358,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,31.0,Pipe Bomb
+1359,7,Facility/Infrastructure Attack,12,NGO,13,Unknown,,Unknown
+1360,2,Armed Assault,6,Airports & Aircraft,6,Explosives,7.0,Grenade
+1361,3,Bombing/Explosion,20,Unknown,6,Explosives,12.0,Remote Trigger
+1362,4,Hijacking,6,Airports & Aircraft,5,Firearms,6.0,Other Gun Type
+1363,2,Armed Assault,9,Food or Water Supply,6,Explosives,8.0,Landmine
+1364,3,Bombing/Explosion,10,Journalists & Media,8,Incendiary,18.0,Arson/Fire
+1365,2,Armed Assault,21,Utilities,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1366,3,Bombing/Explosion,12,NGO,6,Explosives,31.0,Pipe Bomb
+1367,2,Armed Assault,10,Journalists & Media,8,Incendiary,18.0,Arson/Fire
+1368,2,Armed Assault,17,Terrorists/Non-State Militia,8,Incendiary,18.0,Arson/Fire
+1369,3,Bombing/Explosion,4,Military,6,Explosives,10.0,Pressure Trigger
+1370,1,Assassination,8,Educational Institution,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1371,3,Bombing/Explosion,3,Police,5,Firearms,6.0,Other Gun Type
+1372,4,Hijacking,19,Transportation,6,Explosives,28.0,Dynamite/TNT
+1373,7,Facility/Infrastructure Attack,16,Telecommunication,5,Firearms,5.0,Unknown Gun Type
+1374,8,Unarmed Assault,14,Private Citizens & Property,9,Melee,26.0,Suffocation
+1375,8,Unarmed Assault,1,Business,9,Melee,27.0,Unknown Weapon Type
+1376,2,Armed Assault,12,NGO,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1377,3,Bombing/Explosion,12,NGO,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1378,4,Hijacking,14,Private Citizens & Property,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1379,4,Hijacking,2,Government (General),10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1380,3,Bombing/Explosion,3,Police,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1381,8,Unarmed Assault,10,Journalists & Media,1,Biological,,Unknown
+1382,6,Hostage Taking (Kidnapping),3,Police,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1383,3,Bombing/Explosion,4,Military,8,Incendiary,20.0,Gasoline or Alcohol
+1384,8,Unarmed Assault,14,Private Citizens & Property,1,Biological,,Unknown
+1385,8,Unarmed Assault,7,Government (Diplomatic),1,Biological,,Unknown
+1386,1,Assassination,7,Government (Diplomatic),8,Incendiary,20.0,Gasoline or Alcohol
+1387,6,Hostage Taking (Kidnapping),12,NGO,5,Firearms,,Unknown
+1388,2,Armed Assault,10,Journalists & Media,9,Melee,21.0,Blunt Object
+1389,7,Facility/Infrastructure Attack,6,Airports & Aircraft,6,Explosives,16.0,Unknown Explosive Type
+1390,7,Facility/Infrastructure Attack,7,Government (Diplomatic),2,Chemical,1.0,Poisoning
+1391,4,Hijacking,1,Business,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1392,3,Bombing/Explosion,21,Utilities,6,Explosives,12.0,Remote Trigger
+1393,3,Bombing/Explosion,16,Telecommunication,8,Incendiary,20.0,Gasoline or Alcohol
+1394,2,Armed Assault,4,Military,5,Firearms,6.0,Other Gun Type
+1395,2,Armed Assault,2,Government (General),5,Firearms,6.0,Other Gun Type
+1396,3,Bombing/Explosion,19,Transportation,8,Incendiary,20.0,Gasoline or Alcohol
+1397,3,Bombing/Explosion,15,Religious Figures/Institutions,8,Incendiary,20.0,Gasoline or Alcohol
+1398,6,Hostage Taking (Kidnapping),2,Government (General),12,Other,,Unknown
+1399,3,Bombing/Explosion,19,Transportation,6,Explosives,29.0,Sticky Bomb
+1400,2,Armed Assault,4,Military,6,Explosives,17.0,Other Explosive Type
+1401,2,Armed Assault,15,Religious Figures/Institutions,8,Incendiary,18.0,Arson/Fire
+1402,1,Assassination,14,Private Citizens & Property,5,Firearms,6.0,Other Gun Type
+1403,6,Hostage Taking (Kidnapping),4,Military,9,Melee,23.0,Knife or Other Sharp Object
+1404,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,12,Other,,Unknown
+1405,7,Facility/Infrastructure Attack,17,Terrorists/Non-State Militia,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1406,3,Bombing/Explosion,2,Government (General),6,Explosives,29.0,Sticky Bomb
+1407,3,Bombing/Explosion,11,Maritime,6,Explosives,14.0,Time Fuse
+1408,3,Bombing/Explosion,8,Educational Institution,6,Explosives,13.0,Suicide (carried bodily by human being)
+1409,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),2,Chemical,,Unknown
+1410,6,Hostage Taking (Kidnapping),6,Airports & Aircraft,8,Incendiary,18.0,Arson/Fire
+1411,7,Facility/Infrastructure Attack,19,Transportation,2,Chemical,1.0,Poisoning
+1412,2,Armed Assault,15,Religious Figures/Institutions,5,Firearms,6.0,Other Gun Type
+1413,6,Hostage Taking (Kidnapping),2,Government (General),6,Explosives,8.0,Landmine
+1414,2,Armed Assault,15,Religious Figures/Institutions,9,Melee,21.0,Blunt Object
+1415,2,Armed Assault,22,Violent Political Party,9,Melee,22.0,"Hands, Feet, Fists"
+1416,3,Bombing/Explosion,21,Utilities,12,Other,,Unknown
+1417,8,Unarmed Assault,1,Business,9,Melee,22.0,"Hands, Feet, Fists"
+1418,4,Hijacking,20,Unknown,6,Explosives,15.0,Vehicle
+1419,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,,Unknown
+1420,3,Bombing/Explosion,2,Government (General),6,Explosives,,Unknown
+1421,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,6,Explosives,7.0,Grenade
+1422,3,Bombing/Explosion,2,Government (General),7,Fake Weapons,,Unknown
+1423,7,Facility/Infrastructure Attack,4,Military,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1424,1,Assassination,14,Private Citizens & Property,2,Chemical,1.0,Poisoning
+1425,3,Bombing/Explosion,20,Unknown,6,Explosives,10.0,Pressure Trigger
+1426,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,8,Incendiary,20.0,Gasoline or Alcohol
+1427,1,Assassination,1,Business,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1428,8,Unarmed Assault,10,Journalists & Media,9,Melee,22.0,"Hands, Feet, Fists"
+1429,1,Assassination,14,Private Citizens & Property,6,Explosives,12.0,Remote Trigger
+1430,6,Hostage Taking (Kidnapping),2,Government (General),9,Melee,22.0,"Hands, Feet, Fists"
+1431,2,Armed Assault,19,Transportation,6,Explosives,7.0,Grenade
+1432,7,Facility/Infrastructure Attack,2,Government (General),1,Biological,,Unknown
+1433,8,Unarmed Assault,8,Educational Institution,2,Chemical,1.0,Poisoning
+1434,2,Armed Assault,3,Police,6,Explosives,13.0,Suicide (carried bodily by human being)
+1435,6,Hostage Taking (Kidnapping),12,NGO,9,Melee,22.0,"Hands, Feet, Fists"
+1436,6,Hostage Taking (Kidnapping),10,Journalists & Media,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1437,4,Hijacking,6,Airports & Aircraft,6,Explosives,13.0,Suicide (carried bodily by human being)
+1438,5,Hostage Taking (Barricade Incident),8,Educational Institution,6,Explosives,13.0,Suicide (carried bodily by human being)
+1439,7,Facility/Infrastructure Attack,1,Business,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1440,3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives,29.0,Sticky Bomb
+1441,3,Bombing/Explosion,13,Other,6,Explosives,13.0,Suicide (carried bodily by human being)
+1442,2,Armed Assault,7,Government (Diplomatic),6,Explosives,7.0,Grenade
+1443,3,Bombing/Explosion,13,Other,6,Explosives,15.0,Vehicle
+1444,1,Assassination,10,Journalists & Media,5,Firearms,6.0,Other Gun Type
+1445,1,Assassination,1,Business,6,Explosives,8.0,Landmine
+1446,1,Assassination,3,Police,6,Explosives,13.0,Suicide (carried bodily by human being)
+1447,6,Hostage Taking (Kidnapping),10,Journalists & Media,5,Firearms,,Unknown
+1448,3,Bombing/Explosion,13,Other,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1449,7,Facility/Infrastructure Attack,21,Utilities,8,Incendiary,20.0,Gasoline or Alcohol
+1450,3,Bombing/Explosion,8,Educational Institution,8,Incendiary,18.0,Arson/Fire
+1451,3,Bombing/Explosion,18,Tourists,6,Explosives,13.0,Suicide (carried bodily by human being)
+1452,8,Unarmed Assault,12,NGO,9,Melee,22.0,"Hands, Feet, Fists"
+1453,9,Unknown,7,Government (Diplomatic),7,Fake Weapons,,Unknown
+1454,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,9,Melee,21.0,Blunt Object
+1455,2,Armed Assault,14,Private Citizens & Property,6,Explosives,8.0,Landmine
+1456,2,Armed Assault,15,Religious Figures/Institutions,6,Explosives,15.0,Vehicle
+1457,2,Armed Assault,15,Religious Figures/Institutions,6,Explosives,16.0,Unknown Explosive Type
+1458,2,Armed Assault,11,Maritime,8,Incendiary,20.0,Gasoline or Alcohol
+1459,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,13.0,Suicide (carried bodily by human being)
+1460,6,Hostage Taking (Kidnapping),13,Other,5,Firearms,5.0,Unknown Gun Type
+1461,6,Hostage Taking (Kidnapping),16,Telecommunication,6,Explosives,16.0,Unknown Explosive Type
+1462,3,Bombing/Explosion,16,Telecommunication,6,Explosives,12.0,Remote Trigger
+1463,3,Bombing/Explosion,2,Government (General),6,Explosives,10.0,Pressure Trigger
+1464,6,Hostage Taking (Kidnapping),16,Telecommunication,8,Incendiary,20.0,Gasoline or Alcohol
+1465,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,10.0,Pressure Trigger
+1466,2,Armed Assault,16,Telecommunication,9,Melee,23.0,Knife or Other Sharp Object
+1467,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,5,Firearms,6.0,Other Gun Type
+1468,2,Armed Assault,1,Business,5,Firearms,6.0,Other Gun Type
+1469,3,Bombing/Explosion,7,Government (Diplomatic),8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1470,8,Unarmed Assault,14,Private Citizens & Property,6,Explosives,,Unknown
+1471,3,Bombing/Explosion,18,Tourists,6,Explosives,17.0,Other Explosive Type
+1472,6,Hostage Taking (Kidnapping),18,Tourists,6,Explosives,16.0,Unknown Explosive Type
+1473,6,Hostage Taking (Kidnapping),1,Business,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1474,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,12,Other,21.0,Blunt Object
+1475,1,Assassination,3,Police,5,Firearms,,Unknown
+1476,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,5,Firearms,,Unknown
+1477,2,Armed Assault,4,Military,5,Firearms,,Unknown
+1478,2,Armed Assault,14,Private Citizens & Property,5,Firearms,,Unknown
+1479,3,Bombing/Explosion,16,Telecommunication,6,Explosives,,Unknown
+1480,3,Bombing/Explosion,1,Business,6,Explosives,,Unknown
+1481,3,Bombing/Explosion,12,NGO,6,Explosives,12.0,Remote Trigger
+1482,6,Hostage Taking (Kidnapping),9,Food or Water Supply,5,Firearms,5.0,Unknown Gun Type
+1483,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,9,Melee,22.0,"Hands, Feet, Fists"
+1484,5,Hostage Taking (Barricade Incident),11,Maritime,13,Unknown,,Unknown
+1485,6,Hostage Taking (Kidnapping),21,Utilities,6,Explosives,17.0,Other Explosive Type
+1486,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,12.0,Remote Trigger
+1487,2,Armed Assault,13,Other,5,Firearms,5.0,Unknown Gun Type
+1488,3,Bombing/Explosion,19,Transportation,8,Incendiary,18.0,Arson/Fire
+1489,3,Bombing/Explosion,4,Military,2,Chemical,30.0,Explosive
+1490,3,Bombing/Explosion,3,Police,2,Chemical,30.0,Explosive
+1491,6,Hostage Taking (Kidnapping),8,Educational Institution,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1492,2,Armed Assault,8,Educational Institution,8,Incendiary,18.0,Arson/Fire
+1493,6,Hostage Taking (Kidnapping),3,Police,9,Melee,21.0,Blunt Object
+1494,6,Hostage Taking (Kidnapping),21,Utilities,6,Explosives,28.0,Dynamite/TNT
+1495,7,Facility/Infrastructure Attack,14,Private Citizens & Property,9,Melee,23.0,Knife or Other Sharp Object
+1496,6,Hostage Taking (Kidnapping),3,Police,12,Other,,Unknown
+1497,2,Armed Assault,6,Airports & Aircraft,8,Incendiary,20.0,Gasoline or Alcohol
+1498,3,Bombing/Explosion,14,Private Citizens & Property,9,Melee,23.0,Knife or Other Sharp Object
+1499,2,Armed Assault,3,Police,6,Explosives,12.0,Remote Trigger
+1500,3,Bombing/Explosion,21,Utilities,5,Firearms,5.0,Unknown Gun Type
+1501,7,Facility/Infrastructure Attack,8,Educational Institution,11,Sabotage Equipment,,Unknown
+1502,6,Hostage Taking (Kidnapping),8,Educational Institution,6,Explosives,16.0,Unknown Explosive Type
+1503,2,Armed Assault,3,Police,6,Explosives,8.0,Landmine
+1504,5,Hostage Taking (Barricade Incident),3,Police,5,Firearms,5.0,Unknown Gun Type
+1505,7,Facility/Infrastructure Attack,17,Terrorists/Non-State Militia,5,Firearms,6.0,Other Gun Type
+1506,6,Hostage Taking (Kidnapping),22,Violent Political Party,5,Firearms,5.0,Unknown Gun Type
+1507,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,9,Melee,21.0,Blunt Object
+1508,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,5,Firearms,5.0,Unknown Gun Type
+1509,1,Assassination,17,Terrorists/Non-State Militia,9,Melee,21.0,Blunt Object
+1510,7,Facility/Infrastructure Attack,17,Terrorists/Non-State Militia,5,Firearms,5.0,Unknown Gun Type
+1511,5,Hostage Taking (Barricade Incident),8,Educational Institution,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1512,2,Armed Assault,12,NGO,6,Explosives,16.0,Unknown Explosive Type
+1513,4,Hijacking,18,Tourists,6,Explosives,13.0,Suicide (carried bodily by human being)
+1514,1,Assassination,14,Private Citizens & Property,6,Explosives,13.0,Suicide (carried bodily by human being)
+1515,6,Hostage Taking (Kidnapping),2,Government (General),9,Melee,21.0,Blunt Object
+1516,7,Facility/Infrastructure Attack,20,Unknown,5,Firearms,5.0,Unknown Gun Type
+1517,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,17.0,Other Explosive Type
+1518,2,Armed Assault,21,Utilities,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1519,1,Assassination,2,Government (General),6,Explosives,10.0,Pressure Trigger
+1520,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,9,Melee,23.0,Knife or Other Sharp Object
+1521,2,Armed Assault,17,Terrorists/Non-State Militia,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1522,2,Armed Assault,1,Business,9,Melee,21.0,Blunt Object
+1523,2,Armed Assault,8,Educational Institution,6,Explosives,7.0,Grenade
+1524,1,Assassination,6,Airports & Aircraft,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1525,3,Bombing/Explosion,11,Maritime,6,Explosives,31.0,Pipe Bomb
+1526,2,Armed Assault,17,Terrorists/Non-State Militia,13,Unknown,,Unknown
+1527,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,29.0,Sticky Bomb
+1528,1,Assassination,14,Private Citizens & Property,6,Explosives,29.0,Sticky Bomb
+1529,8,Unarmed Assault,3,Police,12,Other,,Unknown
+1530,9,Unknown,14,Private Citizens & Property,5,Firearms,5.0,Unknown Gun Type
+1531,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,6,Explosives,7.0,Grenade
+1532,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,17.0,Other Explosive Type
+1533,3,Bombing/Explosion,1,Business,6,Explosives,29.0,Sticky Bomb
+1534,1,Assassination,4,Military,6,Explosives,12.0,Remote Trigger
+1535,9,Unknown,13,Other,13,Unknown,,Unknown
+1536,2,Armed Assault,17,Terrorists/Non-State Militia,6,Explosives,8.0,Landmine
+1537,2,Armed Assault,14,Private Citizens & Property,6,Explosives,17.0,Other Explosive Type
+1538,3,Bombing/Explosion,8,Educational Institution,6,Explosives,10.0,Pressure Trigger
+1539,3,Bombing/Explosion,21,Utilities,6,Explosives,10.0,Pressure Trigger
+1540,3,Bombing/Explosion,16,Telecommunication,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1541,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,17.0,Other Explosive Type
+1542,4,Hijacking,19,Transportation,9,Melee,23.0,Knife or Other Sharp Object
+1543,6,Hostage Taking (Kidnapping),3,Police,8,Incendiary,18.0,Arson/Fire
+1544,1,Assassination,20,Unknown,6,Explosives,17.0,Other Explosive Type
+1545,3,Bombing/Explosion,20,Unknown,6,Explosives,29.0,Sticky Bomb
+1546,4,Hijacking,8,Educational Institution,13,Unknown,,Unknown
+1547,8,Unarmed Assault,20,Unknown,9,Melee,22.0,"Hands, Feet, Fists"
+1548,6,Hostage Taking (Kidnapping),1,Business,9,Melee,22.0,"Hands, Feet, Fists"
+1549,1,Assassination,15,Religious Figures/Institutions,6,Explosives,13.0,Suicide (carried bodily by human being)
+1550,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,6,Explosives,7.0,Grenade
+1551,7,Facility/Infrastructure Attack,22,Violent Political Party,13,Unknown,,Unknown
+1552,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,29.0,Sticky Bomb
+1553,6,Hostage Taking (Kidnapping),16,Telecommunication,8,Incendiary,18.0,Arson/Fire
+1554,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,9,Melee,23.0,Knife or Other Sharp Object
+1555,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,9,Melee,22.0,"Hands, Feet, Fists"
+1556,2,Armed Assault,3,Police,5,Firearms,,Unknown
+1557,4,Hijacking,19,Transportation,8,Incendiary,18.0,Arson/Fire
+1558,7,Facility/Infrastructure Attack,20,Unknown,13,Unknown,,Unknown
+1559,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,29.0,Sticky Bomb
+1560,2,Armed Assault,2,Government (General),5,Firearms,,Unknown
+1561,8,Unarmed Assault,3,Police,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1562,3,Bombing/Explosion,1,Business,9,Melee,23.0,Knife or Other Sharp Object
+1563,2,Armed Assault,3,Police,9,Melee,22.0,"Hands, Feet, Fists"
+1564,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,12.0,Remote Trigger
+1565,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,29.0,Sticky Bomb
+1566,4,Hijacking,19,Transportation,5,Firearms,6.0,Other Gun Type
+1567,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,7.0,Grenade
+1568,6,Hostage Taking (Kidnapping),2,Government (General),6,Explosives,13.0,Suicide (carried bodily by human being)
+1569,4,Hijacking,1,Business,6,Explosives,17.0,Other Explosive Type
+1570,1,Assassination,14,Private Citizens & Property,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1571,7,Facility/Infrastructure Attack,22,Violent Political Party,11,Sabotage Equipment,,Unknown
+1572,2,Armed Assault,14,Private Citizens & Property,9,Melee,24.0,Rope or Other Strangling Device
+1573,3,Bombing/Explosion,13,Other,6,Explosives,17.0,Other Explosive Type
+1574,9,Unknown,2,Government (General),5,Firearms,5.0,Unknown Gun Type
+1575,6,Hostage Taking (Kidnapping),19,Transportation,6,Explosives,16.0,Unknown Explosive Type
+1576,6,Hostage Taking (Kidnapping),8,Educational Institution,9,Melee,23.0,Knife or Other Sharp Object
+1577,2,Armed Assault,7,Government (Diplomatic),6,Explosives,13.0,Suicide (carried bodily by human being)
+1578,6,Hostage Taking (Kidnapping),4,Military,12,Other,,Unknown
+1579,3,Bombing/Explosion,20,Unknown,2,Chemical,30.0,Explosive
+1580,6,Hostage Taking (Kidnapping),1,Business,8,Incendiary,18.0,Arson/Fire
+1581,3,Bombing/Explosion,8,Educational Institution,6,Explosives,29.0,Sticky Bomb
+1582,4,Hijacking,19,Transportation,8,Incendiary,20.0,Gasoline or Alcohol
+1583,3,Bombing/Explosion,16,Telecommunication,6,Explosives,8.0,Landmine
+1584,2,Armed Assault,8,Educational Institution,9,Melee,22.0,"Hands, Feet, Fists"
+1585,2,Armed Assault,21,Utilities,6,Explosives,16.0,Unknown Explosive Type
+1586,7,Facility/Infrastructure Attack,1,Business,2,Chemical,30.0,Explosive
+1587,2,Armed Assault,11,Maritime,13,Unknown,,Unknown
+1588,3,Bombing/Explosion,12,NGO,6,Explosives,13.0,Suicide (carried bodily by human being)
+1589,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,10.0,Pressure Trigger
+1590,2,Armed Assault,22,Violent Political Party,5,Firearms,6.0,Other Gun Type
+1591,1,Assassination,7,Government (Diplomatic),6,Explosives,13.0,Suicide (carried bodily by human being)
+1592,3,Bombing/Explosion,16,Telecommunication,6,Explosives,10.0,Pressure Trigger
+1593,1,Assassination,12,NGO,9,Melee,23.0,Knife or Other Sharp Object
+1594,4,Hijacking,1,Business,6,Explosives,15.0,Vehicle
+1595,3,Bombing/Explosion,1,Business,7,Fake Weapons,,Unknown
+1596,2,Armed Assault,16,Telecommunication,13,Unknown,,Unknown
+1597,9,Unknown,1,Business,5,Firearms,5.0,Unknown Gun Type
+1598,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,6,Explosives,13.0,Suicide (carried bodily by human being)
+1599,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,6,Explosives,15.0,Vehicle
+1600,1,Assassination,17,Terrorists/Non-State Militia,5,Firearms,6.0,Other Gun Type
+1601,6,Hostage Taking (Kidnapping),8,Educational Institution,8,Incendiary,18.0,Arson/Fire
+1602,3,Bombing/Explosion,8,Educational Institution,5,Firearms,5.0,Unknown Gun Type
+1603,2,Armed Assault,7,Government (Diplomatic),5,Firearms,6.0,Other Gun Type
+1604,3,Bombing/Explosion,21,Utilities,6,Explosives,29.0,Sticky Bomb
+1605,3,Bombing/Explosion,10,Journalists & Media,6,Explosives,29.0,Sticky Bomb
+1606,2,Armed Assault,1,Business,9,Melee,22.0,"Hands, Feet, Fists"
+1607,2,Armed Assault,8,Educational Institution,6,Explosives,16.0,Unknown Explosive Type
+1608,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,14.0,Time Fuse
+1609,2,Armed Assault,6,Airports & Aircraft,13,Unknown,,Unknown
+1610,2,Armed Assault,2,Government (General),6,Explosives,13.0,Suicide (carried bodily by human being)
+1611,5,Hostage Taking (Barricade Incident),10,Journalists & Media,6,Explosives,13.0,Suicide (carried bodily by human being)
+1612,4,Hijacking,11,Maritime,6,Explosives,13.0,Suicide (carried bodily by human being)
+1613,7,Facility/Infrastructure Attack,16,Telecommunication,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1614,5,Hostage Taking (Barricade Incident),19,Transportation,11,Sabotage Equipment,,Unknown
+1615,5,Hostage Taking (Barricade Incident),2,Government (General),6,Explosives,13.0,Suicide (carried bodily by human being)
+1616,6,Hostage Taking (Kidnapping),3,Police,9,Melee,26.0,Suffocation
+1617,1,Assassination,6,Airports & Aircraft,6,Explosives,17.0,Other Explosive Type
+1618,7,Facility/Infrastructure Attack,14,Private Citizens & Property,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1619,3,Bombing/Explosion,4,Military,5,Firearms,6.0,Other Gun Type
+1620,6,Hostage Taking (Kidnapping),1,Business,6,Explosives,17.0,Other Explosive Type
+1621,8,Unarmed Assault,8,Educational Institution,1,Biological,,Unknown
+1622,7,Facility/Infrastructure Attack,7,Government (Diplomatic),5,Firearms,3.0,Handgun
+1623,3,Bombing/Explosion,2,Government (General),9,Melee,22.0,"Hands, Feet, Fists"
+1624,7,Facility/Infrastructure Attack,7,Government (Diplomatic),11,Sabotage Equipment,,Unknown
+1625,2,Armed Assault,14,Private Citizens & Property,11,Sabotage Equipment,,Unknown
+1626,8,Unarmed Assault,8,Educational Institution,9,Melee,24.0,Rope or Other Strangling Device
+1627,1,Assassination,2,Government (General),5,Firearms,6.0,Other Gun Type
+1628,2,Armed Assault,2,Government (General),9,Melee,22.0,"Hands, Feet, Fists"
+1629,9,Unknown,7,Government (Diplomatic),9,Melee,23.0,Knife or Other Sharp Object
+1630,7,Facility/Infrastructure Attack,3,Police,11,Sabotage Equipment,,Unknown
+1631,2,Armed Assault,4,Military,6,Explosives,5.0,Unknown Gun Type
+1632,4,Hijacking,1,Business,8,Incendiary,18.0,Arson/Fire
+1633,4,Hijacking,19,Transportation,6,Explosives,15.0,Vehicle
+1634,7,Facility/Infrastructure Attack,8,Educational Institution,5,Firearms,6.0,Other Gun Type
+1635,2,Armed Assault,21,Utilities,6,Explosives,17.0,Other Explosive Type
+1636,8,Unarmed Assault,17,Terrorists/Non-State Militia,9,Melee,24.0,Rope or Other Strangling Device
+1637,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,15.0,Vehicle
+1638,6,Hostage Taking (Kidnapping),3,Police,9,Melee,24.0,Rope or Other Strangling Device
+1639,2,Armed Assault,14,Private Citizens & Property,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1640,4,Hijacking,9,Food or Water Supply,13,Unknown,,Unknown
+1641,2,Armed Assault,6,Airports & Aircraft,5,Firearms,6.0,Other Gun Type
+1642,7,Facility/Infrastructure Attack,10,Journalists & Media,11,Sabotage Equipment,,Unknown
+1643,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,12.0,Remote Trigger
+1644,5,Hostage Taking (Barricade Incident),1,Business,6,Explosives,15.0,Vehicle
+1645,7,Facility/Infrastructure Attack,8,Educational Institution,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1646,4,Hijacking,19,Transportation,6,Explosives,13.0,Suicide (carried bodily by human being)
+1647,2,Armed Assault,14,Private Citizens & Property,9,Melee,,Unknown
+1648,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,9,Melee,,Unknown
+1649,6,Hostage Taking (Kidnapping),21,Utilities,8,Incendiary,18.0,Arson/Fire
+1650,3,Bombing/Explosion,16,Telecommunication,8,Incendiary,18.0,Arson/Fire
+1651,2,Armed Assault,1,Business,6,Explosives,17.0,Other Explosive Type
+1652,6,Hostage Taking (Kidnapping),3,Police,6,Explosives,7.0,Grenade
+1653,5,Hostage Taking (Barricade Incident),3,Police,6,Explosives,15.0,Vehicle
+1654,6,Hostage Taking (Kidnapping),6,Airports & Aircraft,6,Explosives,16.0,Unknown Explosive Type
+1655,6,Hostage Taking (Kidnapping),18,Tourists,6,Explosives,17.0,Other Explosive Type
+1656,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,14.0,Time Fuse
+1657,5,Hostage Taking (Barricade Incident),8,Educational Institution,8,Incendiary,18.0,Arson/Fire
+1658,7,Facility/Infrastructure Attack,22,Violent Political Party,8,Incendiary,20.0,Gasoline or Alcohol
+1659,7,Facility/Infrastructure Attack,9,Food or Water Supply,5,Firearms,5.0,Unknown Gun Type
+1660,7,Facility/Infrastructure Attack,8,Educational Institution,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1661,5,Hostage Taking (Barricade Incident),8,Educational Institution,6,Explosives,16.0,Unknown Explosive Type
+1662,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,9,Melee,27.0,Unknown Weapon Type
+1663,1,Assassination,15,Religious Figures/Institutions,6,Explosives,12.0,Remote Trigger
+1664,6,Hostage Taking (Kidnapping),1,Business,9,Melee,21.0,Blunt Object
+1665,2,Armed Assault,19,Transportation,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1666,6,Hostage Taking (Kidnapping),10,Journalists & Media,9,Melee,22.0,"Hands, Feet, Fists"
+1667,8,Unarmed Assault,19,Transportation,12,Other,,Unknown
+1668,2,Armed Assault,10,Journalists & Media,6,Explosives,7.0,Grenade
+1669,5,Hostage Taking (Barricade Incident),3,Police,8,Incendiary,18.0,Arson/Fire
+1670,6,Hostage Taking (Kidnapping),22,Violent Political Party,9,Melee,22.0,"Hands, Feet, Fists"
+1671,2,Armed Assault,8,Educational Institution,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1672,3,Bombing/Explosion,13,Other,6,Explosives,8.0,Landmine
+1673,8,Unarmed Assault,2,Government (General),8,Incendiary,18.0,Arson/Fire
+1674,6,Hostage Taking (Kidnapping),22,Violent Political Party,9,Melee,27.0,Unknown Weapon Type
+1675,5,Hostage Taking (Barricade Incident),1,Business,6,Explosives,13.0,Suicide (carried bodily by human being)
+1676,2,Armed Assault,10,Journalists & Media,6,Explosives,16.0,Unknown Explosive Type
+1677,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),8,Incendiary,18.0,Arson/Fire
+1678,5,Hostage Taking (Barricade Incident),17,Terrorists/Non-State Militia,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1679,5,Hostage Taking (Barricade Incident),3,Police,6,Explosives,13.0,Suicide (carried bodily by human being)
+1680,6,Hostage Taking (Kidnapping),2,Government (General),9,Melee,27.0,Unknown Weapon Type
+1681,5,Hostage Taking (Barricade Incident),2,Government (General),5,Firearms,5.0,Unknown Gun Type
+1682,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,12.0,Remote Trigger
+1683,2,Armed Assault,22,Violent Political Party,6,Explosives,16.0,Unknown Explosive Type
+1684,8,Unarmed Assault,10,Journalists & Media,8,Incendiary,20.0,Gasoline or Alcohol
+1685,3,Bombing/Explosion,8,Educational Institution,2,Chemical,30.0,Explosive
+1686,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,14.0,Time Fuse
+1687,7,Facility/Infrastructure Attack,16,Telecommunication,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1688,5,Hostage Taking (Barricade Incident),17,Terrorists/Non-State Militia,5,Firearms,5.0,Unknown Gun Type
+1689,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1690,8,Unarmed Assault,10,Journalists & Media,9,Melee,27.0,Unknown Weapon Type
+1691,7,Facility/Infrastructure Attack,13,Other,8,Incendiary,18.0,Arson/Fire
+1692,2,Armed Assault,8,Educational Institution,6,Explosives,17.0,Other Explosive Type
+1693,2,Armed Assault,15,Religious Figures/Institutions,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1694,8,Unarmed Assault,1,Business,8,Incendiary,18.0,Arson/Fire
+1695,2,Armed Assault,10,Journalists & Media,8,Incendiary,20.0,Gasoline or Alcohol
+1696,8,Unarmed Assault,1,Business,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1697,4,Hijacking,3,Police,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1698,1,Assassination,10,Journalists & Media,11,Sabotage Equipment,,Unknown
+1699,2,Armed Assault,17,Terrorists/Non-State Militia,6,Explosives,7.0,Grenade
+1700,7,Facility/Infrastructure Attack,20,Unknown,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1701,2,Armed Assault,8,Educational Institution,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1702,3,Bombing/Explosion,13,Other,6,Explosives,7.0,Grenade
+1703,5,Hostage Taking (Barricade Incident),1,Business,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1704,2,Armed Assault,22,Violent Political Party,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1705,3,Bombing/Explosion,12,NGO,6,Explosives,28.0,Dynamite/TNT
+1706,2,Armed Assault,20,Unknown,6,Explosives,17.0,Other Explosive Type
+1707,2,Armed Assault,20,Unknown,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1708,7,Facility/Infrastructure Attack,10,Journalists & Media,12,Other,,Unknown
+1709,2,Armed Assault,1,Business,6,Explosives,16.0,Unknown Explosive Type
+1710,6,Hostage Taking (Kidnapping),21,Utilities,6,Explosives,7.0,Grenade
+1711,2,Armed Assault,21,Utilities,6,Explosives,7.0,Grenade
+1712,7,Facility/Infrastructure Attack,17,Terrorists/Non-State Militia,13,Unknown,,Unknown
+1713,1,Assassination,22,Violent Political Party,6,Explosives,12.0,Remote Trigger
+1714,7,Facility/Infrastructure Attack,21,Utilities,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1715,1,Assassination,10,Journalists & Media,6,Explosives,31.0,Pipe Bomb
+1716,4,Hijacking,20,Unknown,6,Explosives,31.0,Pipe Bomb
+1717,7,Facility/Infrastructure Attack,2,Government (General),5,Firearms,6.0,Other Gun Type
+1718,7,Facility/Infrastructure Attack,22,Violent Political Party,5,Firearms,5.0,Unknown Gun Type
+1719,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,9,Melee,21.0,Blunt Object
+1720,2,Armed Assault,3,Police,6,Explosives,31.0,Pipe Bomb
+1721,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,9,Melee,27.0,Unknown Weapon Type
+1722,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,9,Melee,23.0,Knife or Other Sharp Object
+1723,1,Assassination,17,Terrorists/Non-State Militia,6,Explosives,8.0,Landmine
+1724,5,Hostage Taking (Barricade Incident),3,Police,9,Melee,23.0,Knife or Other Sharp Object
+1725,6,Hostage Taking (Kidnapping),8,Educational Institution,9,Melee,24.0,Rope or Other Strangling Device
+1726,6,Hostage Taking (Kidnapping),16,Telecommunication,5,Firearms,5.0,Unknown Gun Type
+1727,4,Hijacking,13,Other,13,Unknown,,Unknown
+1728,1,Assassination,20,Unknown,6,Explosives,16.0,Unknown Explosive Type
+1729,3,Bombing/Explosion,13,Other,6,Explosives,14.0,Time Fuse
+1730,8,Unarmed Assault,8,Educational Institution,8,Incendiary,18.0,Arson/Fire
+1731,1,Assassination,22,Violent Political Party,9,Melee,27.0,Unknown Weapon Type
+1732,6,Hostage Taking (Kidnapping),3,Police,9,Melee,27.0,Unknown Weapon Type
+1733,6,Hostage Taking (Kidnapping),3,Police,2,Chemical,1.0,Poisoning
+1734,6,Hostage Taking (Kidnapping),6,Airports & Aircraft,5,Firearms,5.0,Unknown Gun Type
+1735,8,Unarmed Assault,15,Religious Figures/Institutions,12,Other,,Unknown
+1736,1,Assassination,10,Journalists & Media,9,Melee,27.0,Unknown Weapon Type
+1737,2,Armed Assault,15,Religious Figures/Institutions,8,Incendiary,20.0,Gasoline or Alcohol
+1738,1,Assassination,7,Government (Diplomatic),6,Explosives,12.0,Remote Trigger
+1739,1,Assassination,10,Journalists & Media,6,Explosives,29.0,Sticky Bomb
+1740,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,6,Explosives,16.0,Unknown Explosive Type
+1741,2,Armed Assault,9,Food or Water Supply,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1742,4,Hijacking,3,Police,5,Firearms,5.0,Unknown Gun Type
+1743,5,Hostage Taking (Barricade Incident),4,Military,6,Explosives,15.0,Vehicle
+1744,5,Hostage Taking (Barricade Incident),10,Journalists & Media,8,Incendiary,20.0,Gasoline or Alcohol
+1745,8,Unarmed Assault,15,Religious Figures/Institutions,9,Melee,24.0,Rope or Other Strangling Device
+1746,1,Assassination,10,Journalists & Media,9,Melee,21.0,Blunt Object
+1747,7,Facility/Infrastructure Attack,2,Government (General),9,Melee,27.0,Unknown Weapon Type
+1748,2,Armed Assault,19,Transportation,5,Firearms,6.0,Other Gun Type
+1749,2,Armed Assault,10,Journalists & Media,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1750,2,Armed Assault,3,Police,6,Explosives,28.0,Dynamite/TNT
+1751,2,Armed Assault,18,Tourists,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1752,6,Hostage Taking (Kidnapping),2,Government (General),6,Explosives,7.0,Grenade
+1753,4,Hijacking,3,Police,13,Unknown,,Unknown
+1754,6,Hostage Taking (Kidnapping),10,Journalists & Media,9,Melee,27.0,Unknown Weapon Type
+1755,1,Assassination,22,Violent Political Party,6,Explosives,17.0,Other Explosive Type
+1756,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),9,Melee,23.0,Knife or Other Sharp Object
+1757,5,Hostage Taking (Barricade Incident),2,Government (General),6,Explosives,15.0,Vehicle
+1758,8,Unarmed Assault,2,Government (General),9,Melee,27.0,Unknown Weapon Type
+1759,1,Assassination,14,Private Citizens & Property,9,Melee,27.0,Unknown Weapon Type
+1760,5,Hostage Taking (Barricade Incident),10,Journalists & Media,6,Explosives,15.0,Vehicle
+1761,6,Hostage Taking (Kidnapping),10,Journalists & Media,11,Sabotage Equipment,,Unknown
+1762,1,Assassination,4,Military,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1763,8,Unarmed Assault,14,Private Citizens & Property,8,Incendiary,18.0,Arson/Fire
+1764,5,Hostage Taking (Barricade Incident),3,Police,6,Explosives,7.0,Grenade
+1765,1,Assassination,10,Journalists & Media,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1766,7,Facility/Infrastructure Attack,13,Other,5,Firearms,5.0,Unknown Gun Type
+1767,6,Hostage Taking (Kidnapping),10,Journalists & Media,8,Incendiary,18.0,Arson/Fire
+1768,4,Hijacking,10,Journalists & Media,5,Firearms,5.0,Unknown Gun Type
+1769,2,Armed Assault,12,NGO,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1770,6,Hostage Taking (Kidnapping),10,Journalists & Media,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1771,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,6,Explosives,7.0,Grenade
+1772,2,Armed Assault,10,Journalists & Media,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1773,6,Hostage Taking (Kidnapping),1,Business,8,Incendiary,20.0,Gasoline or Alcohol
+1774,6,Hostage Taking (Kidnapping),3,Police,6,Explosives,15.0,Vehicle
+1775,5,Hostage Taking (Barricade Incident),8,Educational Institution,6,Explosives,28.0,Dynamite/TNT
+1776,1,Assassination,6,Airports & Aircraft,6,Explosives,28.0,Dynamite/TNT
+1777,6,Hostage Taking (Kidnapping),12,NGO,6,Explosives,15.0,Vehicle
+1778,6,Hostage Taking (Kidnapping),18,Tourists,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1779,1,Assassination,10,Journalists & Media,6,Explosives,7.0,Grenade
+1780,4,Hijacking,4,Military,6,Explosives,15.0,Vehicle
+1781,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1782,4,Hijacking,10,Journalists & Media,13,Unknown,,Unknown
+1783,2,Armed Assault,22,Violent Political Party,6,Explosives,17.0,Other Explosive Type
+1784,6,Hostage Taking (Kidnapping),1,Business,6,Explosives,7.0,Grenade
+1785,6,Hostage Taking (Kidnapping),12,NGO,8,Incendiary,18.0,Arson/Fire
+1786,2,Armed Assault,6,Airports & Aircraft,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1787,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,6,Explosives,7.0,Grenade
+1788,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,9,Melee,21.0,Blunt Object
+1789,3,Bombing/Explosion,12,NGO,6,Explosives,29.0,Sticky Bomb
+1790,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,9,Melee,27.0,Unknown Weapon Type
+1791,6,Hostage Taking (Kidnapping),10,Journalists & Media,9,Melee,21.0,Blunt Object
+1792,6,Hostage Taking (Kidnapping),1,Business,6,Explosives,13.0,Suicide (carried bodily by human being)
+1793,7,Facility/Infrastructure Attack,16,Telecommunication,9,Melee,27.0,Unknown Weapon Type
+1794,4,Hijacking,3,Police,6,Explosives,15.0,Vehicle
+1795,6,Hostage Taking (Kidnapping),4,Military,6,Explosives,16.0,Unknown Explosive Type
+1796,4,Hijacking,1,Business,9,Melee,24.0,Rope or Other Strangling Device
+1797,1,Assassination,2,Government (General),8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1798,4,Hijacking,17,Terrorists/Non-State Militia,6,Explosives,16.0,Unknown Explosive Type
+1799,2,Armed Assault,21,Utilities,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1800,5,Hostage Taking (Barricade Incident),16,Telecommunication,8,Incendiary,18.0,Arson/Fire
+1801,4,Hijacking,1,Business,6,Explosives,16.0,Unknown Explosive Type
+1802,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,6,Explosives,16.0,Unknown Explosive Type
+1803,1,Assassination,10,Journalists & Media,6,Explosives,8.0,Landmine
+1804,8,Unarmed Assault,3,Police,9,Melee,23.0,Knife or Other Sharp Object
+1805,3,Bombing/Explosion,1,Business,2,Chemical,30.0,Explosive
+1806,5,Hostage Taking (Barricade Incident),2,Government (General),9,Melee,27.0,Unknown Weapon Type
+1807,3,Bombing/Explosion,14,Private Citizens & Property,2,Chemical,30.0,Explosive
+1808,7,Facility/Infrastructure Attack,10,Journalists & Media,9,Melee,23.0,Knife or Other Sharp Object
+1809,6,Hostage Taking (Kidnapping),1,Business,7,Fake Weapons,,Unknown
+1810,3,Bombing/Explosion,11,Maritime,6,Explosives,7.0,Grenade
+1811,6,Hostage Taking (Kidnapping),8,Educational Institution,8,Incendiary,20.0,Gasoline or Alcohol
+1812,8,Unarmed Assault,14,Private Citizens & Property,9,Melee,,Unknown
+1813,6,Hostage Taking (Kidnapping),22,Violent Political Party,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1814,2,Armed Assault,22,Violent Political Party,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1815,4,Hijacking,12,NGO,5,Firearms,5.0,Unknown Gun Type
+1816,6,Hostage Taking (Kidnapping),12,NGO,6,Explosives,13.0,Suicide (carried bodily by human being)
+1817,6,Hostage Taking (Kidnapping),8,Educational Institution,6,Explosives,8.0,Landmine
+1818,5,Hostage Taking (Barricade Incident),22,Violent Political Party,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1819,1,Assassination,22,Violent Political Party,9,Melee,21.0,Blunt Object
+1820,3,Bombing/Explosion,9,Food or Water Supply,6,Explosives,13.0,Suicide (carried bodily by human being)
+1821,7,Facility/Infrastructure Attack,11,Maritime,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1822,8,Unarmed Assault,15,Religious Figures/Institutions,8,Incendiary,18.0,Arson/Fire
+1823,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,8,Incendiary,18.0,Arson/Fire
+1824,5,Hostage Taking (Barricade Incident),4,Military,6,Explosives,13.0,Suicide (carried bodily by human being)
+1825,1,Assassination,22,Violent Political Party,6,Explosives,14.0,Time Fuse
+1826,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,6,Explosives,8.0,Landmine
+1827,2,Armed Assault,11,Maritime,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1828,5,Hostage Taking (Barricade Incident),18,Tourists,6,Explosives,7.0,Grenade
+1829,5,Hostage Taking (Barricade Incident),8,Educational Institution,6,Explosives,7.0,Grenade
+1830,2,Armed Assault,13,Other,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1831,5,Hostage Taking (Barricade Incident),4,Military,9,Melee,23.0,Knife or Other Sharp Object
+1832,6,Hostage Taking (Kidnapping),3,Police,6,Explosives,8.0,Landmine
+1833,6,Hostage Taking (Kidnapping),4,Military,6,Explosives,13.0,Suicide (carried bodily by human being)
+1834,6,Hostage Taking (Kidnapping),2,Government (General),6,Explosives,15.0,Vehicle
+1835,4,Hijacking,13,Other,5,Firearms,5.0,Unknown Gun Type
+1836,1,Assassination,22,Violent Political Party,6,Explosives,29.0,Sticky Bomb
+1837,2,Armed Assault,19,Transportation,6,Explosives,17.0,Other Explosive Type
+1838,1,Assassination,3,Police,8,Incendiary,18.0,Arson/Fire
+1839,5,Hostage Taking (Barricade Incident),1,Business,8,Incendiary,20.0,Gasoline or Alcohol
+1840,1,Assassination,10,Journalists & Media,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1841,6,Hostage Taking (Kidnapping),3,Police,9,Melee,22.0,"Hands, Feet, Fists"
+1842,6,Hostage Taking (Kidnapping),18,Tourists,9,Melee,23.0,Knife or Other Sharp Object
+1843,1,Assassination,14,Private Citizens & Property,6,Explosives,14.0,Time Fuse
+1844,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,6,Explosives,17.0,Other Explosive Type
+1845,5,Hostage Taking (Barricade Incident),19,Transportation,6,Explosives,15.0,Vehicle
+1846,4,Hijacking,12,NGO,13,Unknown,,Unknown
+1847,5,Hostage Taking (Barricade Incident),4,Military,6,Explosives,7.0,Grenade
+1848,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),6,Explosives,13.0,Suicide (carried bodily by human being)
+1849,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,6,Explosives,8.0,Landmine
+1850,4,Hijacking,4,Military,6,Explosives,16.0,Unknown Explosive Type
+1851,6,Hostage Taking (Kidnapping),19,Transportation,9,Melee,23.0,Knife or Other Sharp Object
+1852,1,Assassination,10,Journalists & Media,6,Explosives,17.0,Other Explosive Type
+1853,2,Armed Assault,20,Unknown,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1854,6,Hostage Taking (Kidnapping),4,Military,8,Incendiary,18.0,Arson/Fire
+1855,1,Assassination,22,Violent Political Party,6,Explosives,8.0,Landmine
+1856,5,Hostage Taking (Barricade Incident),5,Abortion Related,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1857,6,Hostage Taking (Kidnapping),2,Government (General),9,Melee,,Unknown
+1858,8,Unarmed Assault,3,Police,8,Incendiary,18.0,Arson/Fire
+1859,2,Armed Assault,15,Religious Figures/Institutions,6,Explosives,17.0,Other Explosive Type
+1860,8,Unarmed Assault,4,Military,9,Melee,22.0,"Hands, Feet, Fists"
+1861,7,Facility/Infrastructure Attack,19,Transportation,5,Firearms,3.0,Handgun
+1862,2,Armed Assault,4,Military,6,Explosives,31.0,Pipe Bomb
+1863,8,Unarmed Assault,13,Other,9,Melee,21.0,Blunt Object
+1864,8,Unarmed Assault,22,Violent Political Party,8,Incendiary,18.0,Arson/Fire
+1865,8,Unarmed Assault,22,Violent Political Party,9,Melee,27.0,Unknown Weapon Type
+1866,2,Armed Assault,18,Tourists,5,Firearms,6.0,Other Gun Type
+1867,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,9,Melee,23.0,Knife or Other Sharp Object
+1868,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,6,Explosives,13.0,Suicide (carried bodily by human being)
+1869,7,Facility/Infrastructure Attack,10,Journalists & Media,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1870,8,Unarmed Assault,16,Telecommunication,8,Incendiary,18.0,Arson/Fire
+1871,5,Hostage Taking (Barricade Incident),18,Tourists,5,Firearms,5.0,Unknown Gun Type
+1872,6,Hostage Taking (Kidnapping),10,Journalists & Media,12,Other,,Unknown
+1873,2,Armed Assault,13,Other,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1874,4,Hijacking,14,Private Citizens & Property,6,Explosives,15.0,Vehicle
+1875,6,Hostage Taking (Kidnapping),19,Transportation,8,Incendiary,18.0,Arson/Fire
+1876,6,Hostage Taking (Kidnapping),2,Government (General),6,Explosives,28.0,Dynamite/TNT
+1877,7,Facility/Infrastructure Attack,3,Police,12,Other,,Unknown
+1878,3,Bombing/Explosion,17,Terrorists/Non-State Militia,2,Chemical,30.0,Explosive
+1879,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,2,Chemical,,Unknown
+1880,3,Bombing/Explosion,11,Maritime,6,Explosives,12.0,Remote Trigger
+1881,2,Armed Assault,7,Government (Diplomatic),8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1882,6,Hostage Taking (Kidnapping),11,Maritime,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1883,2,Armed Assault,20,Unknown,6,Explosives,7.0,Grenade
+1884,7,Facility/Infrastructure Attack,22,Violent Political Party,5,Firearms,3.0,Handgun
+1885,6,Hostage Taking (Kidnapping),11,Maritime,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1886,6,Hostage Taking (Kidnapping),12,NGO,9,Melee,23.0,Knife or Other Sharp Object
+1887,5,Hostage Taking (Barricade Incident),3,Police,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1888,2,Armed Assault,8,Educational Institution,8,Incendiary,20.0,Gasoline or Alcohol
+1889,5,Hostage Taking (Barricade Incident),21,Utilities,6,Explosives,28.0,Dynamite/TNT
+1890,5,Hostage Taking (Barricade Incident),1,Business,9,Melee,23.0,Knife or Other Sharp Object
+1891,4,Hijacking,14,Private Citizens & Property,5,Firearms,4.0,Rifle/Shotgun (non-automatic)
+1892,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,6,Explosives,17.0,Other Explosive Type
+1893,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,6,Explosives,12.0,Remote Trigger
+1894,5,Hostage Taking (Barricade Incident),8,Educational Institution,6,Explosives,15.0,Vehicle
+1895,7,Facility/Infrastructure Attack,22,Violent Political Party,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+1896,5,Hostage Taking (Barricade Incident),12,NGO,6,Explosives,15.0,Vehicle
+1897,2,Armed Assault,12,NGO,6,Explosives,7.0,Grenade
+1898,6,Hostage Taking (Kidnapping),19,Transportation,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1899,8,Unarmed Assault,3,Police,9,Melee,22.0,"Hands, Feet, Fists"
+1900,8,Unarmed Assault,14,Private Citizens & Property,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1901,5,Hostage Taking (Barricade Incident),21,Utilities,6,Explosives,13.0,Suicide (carried bodily by human being)
+1902,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,8,Incendiary,18.0,Arson/Fire
+1903,5,Hostage Taking (Barricade Incident),16,Telecommunication,6,Explosives,16.0,Unknown Explosive Type
+1904,3,Bombing/Explosion,22,Violent Political Party,6,Explosives,28.0,Dynamite/TNT
+1905,8,Unarmed Assault,8,Educational Institution,9,Melee,27.0,Unknown Weapon Type
+1906,1,Assassination,10,Journalists & Media,12,Other,,Unknown
+1907,8,Unarmed Assault,4,Military,9,Melee,27.0,Unknown Weapon Type
+1908,1,Assassination,10,Journalists & Media,2,Chemical,1.0,Poisoning
+1909,7,Facility/Infrastructure Attack,18,Tourists,5,Firearms,5.0,Unknown Gun Type
+1910,5,Hostage Taking (Barricade Incident),11,Maritime,5,Firearms,5.0,Unknown Gun Type
+1911,8,Unarmed Assault,21,Utilities,8,Incendiary,18.0,Arson/Fire
+1912,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,7,Fake Weapons,,Unknown
+1913,2,Armed Assault,10,Journalists & Media,5,Firearms,6.0,Other Gun Type
+1914,5,Hostage Taking (Barricade Incident),2,Government (General),6,Explosives,17.0,Other Explosive Type
+1915,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1916,8,Unarmed Assault,9,Food or Water Supply,2,Chemical,1.0,Poisoning
+1917,1,Assassination,10,Journalists & Media,8,Incendiary,18.0,Arson/Fire
+1918,5,Hostage Taking (Barricade Incident),22,Violent Political Party,5,Firearms,5.0,Unknown Gun Type
+1919,5,Hostage Taking (Barricade Incident),3,Police,13,Unknown,,Unknown
+1920,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,6,Explosives,15.0,Vehicle
+1921,4,Hijacking,2,Government (General),5,Firearms,3.0,Handgun
+1922,8,Unarmed Assault,12,NGO,9,Melee,27.0,Unknown Weapon Type
+1923,4,Hijacking,14,Private Citizens & Property,6,Explosives,17.0,Other Explosive Type
+1924,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1925,1,Assassination,2,Government (General),8,Incendiary,18.0,Arson/Fire
+1926,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,9,Melee,26.0,Suffocation
+1927,7,Facility/Infrastructure Attack,8,Educational Institution,9,Melee,23.0,Knife or Other Sharp Object
+1928,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,9,Melee,24.0,Rope or Other Strangling Device
+1929,7,Facility/Infrastructure Attack,2,Government (General),2,Chemical,,Unknown
+1930,5,Hostage Taking (Barricade Incident),13,Other,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1931,5,Hostage Taking (Barricade Incident),15,Religious Figures/Institutions,9,Melee,23.0,Knife or Other Sharp Object
+1932,6,Hostage Taking (Kidnapping),17,Terrorists/Non-State Militia,6,Explosives,15.0,Vehicle
+1933,4,Hijacking,14,Private Citizens & Property,9,Melee,23.0,Knife or Other Sharp Object
+1934,2,Armed Assault,14,Private Citizens & Property,6,Explosives,31.0,Pipe Bomb
+1935,6,Hostage Taking (Kidnapping),20,Unknown,6,Explosives,8.0,Landmine
+1936,8,Unarmed Assault,1,Business,8,Incendiary,20.0,Gasoline or Alcohol
+1937,5,Hostage Taking (Barricade Incident),19,Transportation,9,Melee,22.0,"Hands, Feet, Fists"
+1938,1,Assassination,10,Journalists & Media,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1939,8,Unarmed Assault,10,Journalists & Media,8,Incendiary,18.0,Arson/Fire
+1940,8,Unarmed Assault,18,Tourists,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1941,1,Assassination,10,Journalists & Media,9,Melee,22.0,"Hands, Feet, Fists"
+1942,1,Assassination,17,Terrorists/Non-State Militia,8,Incendiary,18.0,Arson/Fire
+1943,2,Armed Assault,4,Military,6,Explosives,13.0,Suicide (carried bodily by human being)
+1944,3,Bombing/Explosion,18,Tourists,6,Explosives,29.0,Sticky Bomb
+1945,8,Unarmed Assault,4,Military,9,Melee,26.0,Suffocation
+1946,1,Assassination,22,Violent Political Party,8,Incendiary,20.0,Gasoline or Alcohol
+1947,6,Hostage Taking (Kidnapping),22,Violent Political Party,12,Other,,Unknown
+1948,6,Hostage Taking (Kidnapping),8,Educational Institution,9,Melee,22.0,"Hands, Feet, Fists"
+1949,2,Armed Assault,17,Terrorists/Non-State Militia,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1950,4,Hijacking,14,Private Citizens & Property,8,Incendiary,20.0,Gasoline or Alcohol
+1951,5,Hostage Taking (Barricade Incident),3,Police,6,Explosives,17.0,Other Explosive Type
+1952,1,Assassination,8,Educational Institution,6,Explosives,29.0,Sticky Bomb
+1953,3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives,29.0,Sticky Bomb
+1954,8,Unarmed Assault,12,NGO,2,Chemical,,Unknown
+1955,8,Unarmed Assault,7,Government (Diplomatic),8,Incendiary,18.0,Arson/Fire
+1956,6,Hostage Taking (Kidnapping),4,Military,9,Melee,26.0,Suffocation
+1957,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),9,Melee,27.0,Unknown Weapon Type
+1958,4,Hijacking,3,Police,6,Explosives,8.0,Landmine
+1959,2,Armed Assault,8,Educational Institution,5,Firearms,6.0,Other Gun Type
+1960,6,Hostage Taking (Kidnapping),3,Police,2,Chemical,,Unknown
+1961,7,Facility/Infrastructure Attack,18,Tourists,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1962,2,Armed Assault,14,Private Citizens & Property,12,Other,,Unknown
+1963,8,Unarmed Assault,15,Religious Figures/Institutions,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1964,8,Unarmed Assault,11,Maritime,9,Melee,21.0,Blunt Object
+1965,1,Assassination,3,Police,6,Explosives,10.0,Pressure Trigger
+1966,8,Unarmed Assault,15,Religious Figures/Institutions,2,Chemical,1.0,Poisoning
+1967,7,Facility/Infrastructure Attack,9,Food or Water Supply,11,Sabotage Equipment,,Unknown
+1968,4,Hijacking,8,Educational Institution,9,Melee,24.0,Rope or Other Strangling Device
+1969,3,Bombing/Explosion,13,Other,6,Explosives,29.0,Sticky Bomb
+1970,8,Unarmed Assault,19,Transportation,8,Incendiary,20.0,Gasoline or Alcohol
+1971,6,Hostage Taking (Kidnapping),8,Educational Institution,6,Explosives,11.0,"Projectile (rockets, mortars, RPGs, etc.)"
+1972,8,Unarmed Assault,4,Military,12,Other,,Unknown
+1973,3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives,10.0,Pressure Trigger
+1974,2,Armed Assault,15,Religious Figures/Institutions,6,Explosives,13.0,Suicide (carried bodily by human being)
+1975,5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,9,Melee,,Unknown
+1976,5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),9,Melee,27.0,Unknown Weapon Type
+1977,1,Assassination,22,Violent Political Party,5,Firearms,6.0,Other Gun Type
+1978,4,Hijacking,8,Educational Institution,8,Incendiary,20.0,Gasoline or Alcohol
+1979,6,Hostage Taking (Kidnapping),22,Violent Political Party,6,Explosives,28.0,Dynamite/TNT
+1980,8,Unarmed Assault,6,Airports & Aircraft,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",,Unknown
+1981,2,Armed Assault,20,Unknown,8,Incendiary,18.0,Arson/Fire
+1982,3,Bombing/Explosion,18,Tourists,6,Explosives,12.0,Remote Trigger
+1983,5,Hostage Taking (Barricade Incident),9,Food or Water Supply,5,Firearms,5.0,Unknown Gun Type
+1984,1,Assassination,4,Military,6,Explosives,14.0,Time Fuse
+1985,6,Hostage Taking (Kidnapping),19,Transportation,6,Explosives,17.0,Other Explosive Type
+1986,2,Armed Assault,14,Private Citizens & Property,6,Explosives,13.0,Suicide (carried bodily by human being)
+1987,8,Unarmed Assault,16,Telecommunication,9,Melee,21.0,Blunt Object
+1988,5,Hostage Taking (Barricade Incident),10,Journalists & Media,9,Melee,21.0,Blunt Object
+1989,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,9,Melee,27.0,Unknown Weapon Type
+1990,1,Assassination,16,Telecommunication,6,Explosives,29.0,Sticky Bomb
+1991,4,Hijacking,15,Religious Figures/Institutions,5,Firearms,5.0,Unknown Gun Type
+1992,8,Unarmed Assault,4,Military,9,Melee,24.0,Rope or Other Strangling Device
+1993,2,Armed Assault,12,NGO,8,Incendiary,19.0,Molotov Cocktail/Petrol Bomb
+1994,6,Hostage Taking (Kidnapping),11,Maritime,9,Melee,23.0,Knife or Other Sharp Object
+1995,6,Hostage Taking (Kidnapping),1,Business,9,Melee,27.0,Unknown Weapon Type
+1996,5,Hostage Taking (Barricade Incident),2,Government (General),8,Incendiary,20.0,Gasoline or Alcohol
+1997,2,Armed Assault,20,Unknown,6,Explosives,13.0,Suicide (carried bodily by human being)
+1998,3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives,28.0,Dynamite/TNT
+1999,6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,8,Incendiary,18.0,Arson/Fire
+2000,4,Hijacking,1,Business,5,Firearms,6.0,Other Gun Type
+2001,5,Hostage Taking (Barricade Incident),12,NGO,5,Firearms,2.0,Automatic or Semi-Automatic Rifle
+2002,8,Unarmed Assault,19,Transportation,8,Incendiary,18.0,Arson/Fire
+2003,2,Armed Assault,1,Business,12,Other,,Unknown
+2004,7,Facility/Infrastructure Attack,11,Maritime,8,Incendiary,20.0,Gasoline or Alcohol
+2005,2,Armed Assault,2,Government (General),6,Explosives,28.0,Dynamite/TNT
+2006,1,Assassination,14,Private Citizens & Property,6,Explosives,31.0,Pipe Bomb

@@ -1,0 +1,4683 @@
+﻿actor_id,gname,individual,claimed
+1,MANO-D,0,-9
+2,23rd of September Communist League,0,-9
+3,Unknown,0,-9
+4,Black Nationalists,0,0
+5,Tupamaros (Uruguay),0,-9
+6,Unknown,0,0
+7,New Year's Gang,0,1
+8,New Year's Gang,0,0
+9,"Weather Underground, Weathermen",0,-9
+10,Left-Wing Militants,0,0
+11,Armed Commandos of Liberation,0,1
+12,Commune 1,0,-9
+13,Eritrean Liberation Front,0,-9
+14,Strikers,0,0
+15,Student Radicals,0,0
+16,White supremacists/nationalists,0,0
+17,Armed Forces of National Liberation- Venezuela (FALN),0,-9
+18,New People's Army (NPA),0,-9
+19,Armed Revolutionary Independence Movement (MIRA),0,1
+20,Popular Front for the Liberation of Palestine (PFLP),0,-9
+21,Left-Wing Militants,0,1
+22,"Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",0,-9
+23,"Weather Underground, Weathermen",0,1
+24,1st of May Group,0,-9
+25,Armed Commandos of Liberation,0,0
+26,Rebel Armed Forces of Guatemala (FAR),0,-9
+27,"Weather Underground, Weathermen",0,0
+28,Ku Klux Klan,0,-9
+29,Popular Revolutionary Vanguard (VPR),0,-9
+30,Revolutionary Force 9,0,-9
+31,Revolutionary Force 9,0,1
+32,Puerto Rican Nationalists,0,0
+33,Chicano Liberation Front,0,1
+34,Puerto Rican Resistance Movement,0,1
+35,Black Panthers,0,0
+36,Dominican Popular Movement (MPD),0,-9
+37,Argentine Liberation Front (FAL),0,-9
+38,Argentine National Organization Movement (MANO),0,-9
+39,Japanese Red Army (JRA),0,-9
+40,Saor Eire (Irish Republican Group),0,-9
+41,New World Liberation Front (NWLF),0,-9
+42,Cuban Exiles,0,0
+43,The World United Formosans for Independence (WUFI),0,1
+44,Palestinians,0,-9
+45,Black Nationalists,0,-9
+46,Extraparliamentary Opposition (APO),0,-9
+47,Armed Revolutionary Independence Movement (MIRA),0,0
+48,Revolutionary Force 26,0,1
+49,Black Afro Militant Movement,0,0
+50,Stop the War Coalition,0,1
+51,Ku Klux Klan,0,1
+52,Cuban Action,0,-9
+53,Jewish Defense League (JDL),0,-9
+54,Black Panthers,0,-9
+55,Right-wing extremists,0,0
+56,Montoneros (Argentina),0,-9
+57,Kabataang Makabayan (KM),0,-9
+58,Irish Republican Army (IRA),0,-9
+59,Ulster Volunteer Force (UVF),0,-9
+60,National Committee to Combat Fascism,0,-9
+61,Revolutionary Force Seven,0,1
+62,Revolutionary Force Seven,0,-9
+63,Seattle Liberation Front,0,1
+64,Ejercito de Liberacion Nacional (Bolivia),0,-9
+65,Arabs,0,-9
+66,Sandinista National Liberation Front (FSLN),0,-9
+67,Jewish Defense League (JDL),0,0
+68,American Servicemen's Union (ASU),0,-9
+69,GAC,0,-9
+70,Revolutionary Armed Forces- Argentina (FAR-A),0,-9
+71,South Moluccans,0,-9
+72,Croatian Nationalists,0,-9
+73,SFT,0,-9
+74,Jonathan Jackson Brigade,0,-9
+75,Peronist Armed Forces (FAP),0,-9
+76,White Panther Party,0,0
+77,Revolutionary Action Party,0,-9
+78,New Year's Gang,0,-9
+79,Turkish People's Liberation Army,0,-9
+80,Unknown,1,0
+81,Ejercito Revolucionaria del Pueblo (ERP) (Argentina),0,-9
+82,Palestine Liberation Organization (PLO),0,-9
+83,Protestant extremists,0,-9
+84,Siah KAL,0,-9
+85,Turkish People's Liberation Front (TPLF)(THKP-C),0,-9
+86,Neo-Nazi extremists,0,0
+87,Front de Liberation du Quebec (FLQ),0,-9
+88,Quartermoon Society,0,-9
+89,Students for a Democratic Society (SDS) (German),0,-9
+90,Iranians,0,-9
+91,Black Liberation Army,0,-9
+92,Baader-Meinhof Group,0,-9
+93,Armed Commandos of Liberation,0,-9
+94,Basque Fatherland and Freedom (ETA),0,-9
+95,Armed Revolutionary Independence Movement (MIRA),0,-9
+96,Irish Republican Extremists,0,-9
+97,Socialist Patients' Collective (SPK),0,-9
+98,Revolutionary Committee of Mozambique (COREMO),0,-9
+99,Black Liberation Army,0,1
+100,Tony El Pelou Band,0,-9
+101,Chicano Liberation Front,0,-9
+102,BAY Bombers,0,-9
+103,Movement of the Revolutionary Left (MIR) (Venezuela),0,-9
+104,Puerto Rican Resistance Movement,0,-9
+105,Official Irish Republican Army (OIRA),0,-9
+106,Ku Klux Klan,0,0
+107,Catalan Liberation Front (FAC),0,-9
+108,Black Cells,0,-9
+109,Secret Cuban Government,0,-9
+110,Students,0,-9
+111,Jewish Defense League (JDL),0,1
+112,RYF,0,-9
+113,Chicano Liberation Front,0,0
+114,Black Revolutionary Assault Team,0,-9
+115,Left-wing extremists,1,0
+116,People's Revolutionary Party,0,-9
+117,Chicano Radicals,0,0
+118,Students for a Democratic Society,0,-9
+119,Regulators,0,-9
+120,Revolutionary Communist League (LCR) (Spain),0,-9
+121,Black Liberation Army,0,0
+122,Black September,0,-9
+123,Al-Fatah,0,-9
+124,Anti-Communist extremists,1,0
+125,Iranian extremists,0,-9
+126,Sons of Liberty,0,-9
+127,Puerto Rican Liberation Front,0,-9
+128,2nd of June Movement,0,-9
+129,Jewish Armed Resistance,0,-9
+130,Jewish Armed Resistance,0,1
+131,Sons of Liberty,0,1
+132,Comrades in Arms,0,1
+133,Secret Army Organization,0,-9
+134,Red Hand Commandos,0,-9
+135,People's Liberation Army (United States),0,-9
+136,Jordanian National Liberation Movement,0,-9
+137,Ulster Freedom Fighters (UFF),0,-9
+138,Young Cuba,0,-9
+139,Turkish Leftists,0,-9
+140,Comite Argentino de Lucha Anti-Imperialisto,0,-9
+141,Mujahedin-e Khalq (MEK),0,-9
+142,Red Flag (Venezuela),0,-9
+143,National Front for the Liberation of Cuba (FLNC),0,-9
+144,OPR-33,0,-9
+145,Puerto Rican Revolutionary Movement,0,1
+146,Popular Revolutionary Resistance Group,0,-9
+147,Black September,0,1
+148,"Masada, Action and Defense Movement",0,-9
+149,Iberian Liberation Movement (MIL),0,-9
+150,National Liberation Army of Colombia (ELN),0,-9
+151,National Integration Front (FIN),0,-9
+152,"Resistance, Liberation and Independence Organization (AAA)",0,-9
+153,Secret Cuban Government,0,1
+154,Republic of New Afrika,0,1
+155,Red June of 14 June,0,-9
+156,Popular Liberation Army (EPL),0,-9
+157,Republic of New Afrika,0,0
+158,Black Muslims,0,0
+159,Coalition of National Brigades,0,-9
+160,Armenians,0,-9
+161,International Revolutionary Action Group (GARI),0,-9
+162,Black December,0,-9
+163,American Indian Movement,0,0
+164,Black September,0,0
+165,Greek Anti-Dictatorial Youth (EAN),0,-9
+166,Front for Armenian Liberation,0,-9
+167,Shan Insurgents,0,-9
+168,National Youth Resistance Organization,0,-9
+169,Revolutionary Patriotic Anti-Fascist Front (FRAP),0,-9
+170,Revolutionary Student Front,0,-9
+171,Zero Point,0,-9
+172,Black Muslims,0,-9
+173,White supremacists/nationalists,1,0
+174,Armed Proletarian Nuclei (NAP),0,-9
+175,Red Cell,0,-9
+176,Proletarian Action Group,0,-9
+177,Lebanese Socialist Revolutionary Organization,0,-9
+178,Zebra killers,0,0
+179,Armenian Group,0,-9
+180,Symbionese Liberation Army (SLA),0,-9
+181,Revolutionary Cells,0,-9
+182,Revolutionary Peoples Army,0,-9
+183,Red Brigades,0,-9
+184,Muslim Guerrillas,0,-9
+185,Breton Liberation Front (FLB),0,-9
+186,People's Resistance Organized Army,0,-9
+187,Americans for Justice,0,1
+188,People's Liberation Army (Mexico),0,-9
+189,Corsican National Liberation Front (FLNC),0,-9
+190,Secret Organization Zero,0,-9
+191,Justice Guerrillas,0,-9
+192,National Liberation Front of Chad,0,-9
+193,RVA,0,-9
+194,People's Revolutionary Army (ERP) (El Salvador),0,-9
+195,Democratic Front for the Liberation of Palestine (DFLP),0,-9
+196,Black Order,0,-9
+197,Revolutionary Arab Youth Organization,0,-9
+198,Organization of the Sons of Occupied Territories,0,-9
+199,Krause Group,0,-9
+200,Popular Resistance Sabotage Group,0,-9
+201,Jewish Extremists,0,0
+202,Fuerzas Armadas de Liberacion Nacional (FALN),0,-9
+203,Anti-Government extremists,1,-9
+204,M-7,0,-9
+205,Anti-Government extremists,1,1
+206,Unknown,1,-9
+207,Arab Communist Organization,0,-9
+208,Korean Youth League,0,-9
+209,Condor,0,-9
+210,M12J,0,-9
+211,Fuerzas Armadas de Liberacion Nacional (FALN),0,1
+212,Argentine Anticommunist Alliance (AAA),0,-9
+213,Protestant Action Group,0,-9
+214,Red Flag,0,-9
+215,Cuban C-4 Movement,0,-9
+216,United Popular Liberation Army of America,0,-9
+217,Maruseido (Marxist Youth League),0,-9
+218,Revolutionary Vanguard,0,-9
+219,Latin America Anti-Communist Army (LAACA),0,1
+220,Youth Action Group,0,-9
+221,Irish Republican Army (IRA),0,1
+222,Raul Sendic International Brigade,0,-9
+223,Cuban Exiles,0,-9
+224,First of October Antifascist Resistance Group (GRAPO),0,-9
+225,Ananda Marga,0,0
+226,Armenian Secret Army for the Liberation of Armenia,0,-9
+227,Maskini Liberation Front,0,-9
+228,Omega-7,0,-9
+229,Continental Revolutionary Army,0,-9
+230,National Socialist Liberation Front,0,-9
+231,International Revolutionary Solidarity,0,-9
+232,Prisoner  Gourgen Yanikian Group,0,-9
+233,National Awami Party,0,-9
+234,New Order- France,0,-9
+235,Movement for Cuban Justice (Pragmatistas),0,-9
+236,Irish National Liberation Army (INLA),0,-9
+237,Cuban Exiles,0,1
+238,East Asia Anti Japanese Armed Front,0,-9
+239,National Organization of Cypriot Fighters (EOKA),0,-9
+240,Canary Islands Independence Movement,0,-9
+241,Revolutionary Armed Forces of Colombia (FARC),0,-9
+242,Sixth of March Group,0,-9
+243,Mahir Cayan Suicide Group,0,-9
+244,Front for the Liberation of the French Somali Coast,0,-9
+245,Red Guerilla Family,0,-9
+246,Jewish Extremists,0,-9
+247,Charles Martel Group,0,-9
+248,Phalange,0,0
+249,People's Liberation Army (Northern Ireland),0,-9
+250,Meinhof-Puig-Antich Group,0,-9
+251,The Scorpion,0,-9
+252,People's Revolutionary Party (Tanzania),0,-9
+253,Nationalist Intervention Group,0,-9
+254,George Jackson Brigade,0,-9
+255,Anti-Terrorism ETA (ATE),0,-9
+256,Movement of the Revolutionary Left (MIR) (Peru),0,-9
+257,Tribal Thumb,0,-9
+258,Okinawa Liberation League,0,-9
+259,Moro National Liberation Front (MNLF),0,-9
+260,Liberation Tigers of Tamil Eelam (LTTE),0,-9
+261,Fronte Paesanu Corsu di Liberazione (FPCL),0,-9
+262,George Jackson Brigade,0,0
+263,South-West Africa People's Organization (SWAPO),0,-9
+264,Neo-Nazi extremists,0,-9
+265,Soldiers of the Algerian Opposition,0,-9
+266,Communist Party of Malaysia- Marxist-Leninist,0,-9
+267,Republican Action Force,0,-9
+268,Supporters of Charles Manson,1,0
+269,Revolutionary Internationalist Solidarity,0,-9
+270,Army for Freeing Scotland,0,-9
+271,Left-wing extremists,0,-9
+272,Military Liberation Front of Colombia,0,-9
+273,United Freedom Front (UFF),0,0
+274,Armed Nucleus for Popular Autonomy,0,-9
+275,Commando 27 September,0,-9
+276,Youth of the Star,0,-9
+277,Justice Commandos for the Armenian Genocide,0,-9
+278,Guerrilla Army of the Poor (EGP),0,-9
+279,South Moluccans,0,1
+280,Portuguese Liberation Army,0,-9
+281,League of the 18,0,-9
+282,Polisario Front,0,-9
+283,New World Liberation Front (NWLF),0,0
+284,Coup plotters,0,0
+285,M-19 (Movement of April 19),0,-9
+286,Revolutionary Command,0,-9
+287,United Liberation Front for the New Algeria,0,-9
+288,Revolutionary People's Struggle (ELA),0,-9
+289,Coordination of the United Revolutionary Organization (CORU),0,-9
+290,New World Liberation Front (NWLF),0,1
+291,Armed Communist Struggle,0,-9
+292,Cuban extremists,1,-9
+293,Armed Communist Formations,0,-9
+294,Portuguese Anti-Communist Movement,0,-9
+295,United Freedom Front (UFF),0,-9
+296,Continuous Struggle,0,-9
+297,Armenian Group,0,0
+298,Tigray Peoples Liberation Front (TPLF),0,-9
+299,Combat Territory Groups,0,-9
+300,Fred Hampton Unit of the People's Forces,0,-9
+301,Save Our Israel Land,0,1
+302,Muslim Rebels,0,-9
+303,Commando Heinz Neumann,0,-9
+304,Jewish Extremists,0,1
+305,Proletarian Resistance Movement,0,-9
+306,Fuerzas Armadas de Liberacion Nacional (FALN),0,0
+307,Communist Combat Unit,0,-9
+308,Socialist Labor Party of Lebanon,0,-9
+309,Political Military Organization of Paraguay,0,-9
+310,Armed Forces of National Resistance (FARN),0,-9
+311,Fred Hampton Unit of the People's Forces,0,0
+312,Revolutionary Workers Party of Bolivia (PRTB),0,-9
+313,Italian Social Movement (MSI),0,-9
+314,Movement of the Revolutionary Left (MIR) (Chile),0,-9
+315,Roberto Santucho Revolutionary Group,0,-9
+316,Che Guevara Brigade,0,-9
+317,Cypriot,0,-9
+318,Prolitarian Internationalism,0,-9
+319,Anti-Castro Command,0,-9
+320,Brazilian Anti-Communist Alliance (AAB),0,-9
+321,Union Guerrera Blanca (UGB),0,-9
+322,Croatian Freedom Fighters,0,-9
+323,Anti-Zionist Commandos,0,-9
+324,Abu Nidal Organization (ANO),0,-9
+325,Cuban Secret Army,0,-9
+326,Save Our Israel Land,0,-9
+327,Rezi Rezai International Brigades,0,-9
+328,Commandos Against Self Destruction of the Universe,0,-9
+329,Workers Power,0,-9
+330,Communist Fighting Unit,0,-9
+331,Prima Linea,0,-9
+332,African National Congress (South Africa),0,-9
+333,Independent Armed Revolutionary Commandos (CRIA),0,1
+334,May 19 Communist Order,0,0
+335,Communist Brigade Dante Dimani,0,-9
+336,Palestine Liberation Organization (PLO),0,1
+337,Waltraud Boock Group,0,-9
+338,November 17 Revolutionary Organization (N17RO),0,-9
+339,Communists,0,-9
+340,Organization of Anti-Fascist Students,0,-9
+341,Kurdish Democratic Party-Iraq (KDP),0,-9
+342,Military Council for the True Liberation of Albania,0,-9
+343,AGEL,0,-9
+344,Tribal Battlefront,0,-9
+345,Basque Rectitudes,0,-9
+346,Armed Proletarian Power,0,-9
+347,Lolita Lebron Puerto Rican Liberation Command,0,1
+348,New Partisans Movement,0,-9
+349,Front for the Liberation of the Enclave of Cabinda (FLEC),0,-9
+350,Anti-Government Group,0,-9
+351,Independent Armed Revolutionary Commandos (CRIA),0,-9
+352,Arya,0,-9
+353,Revolutionary Workers Party,0,-9
+354,Falangist Security Group,0,-9
+355,New Order,0,-9
+356,Armed Struggle for Communism,0,-9
+357,Communist Brigades,0,-9
+358,Armed Squads for Communism,0,-9
+359,Anti-Abortion extremists,0,0
+360,African-American extremists,1,1
+361,Hanafi Muslims,0,1
+362,Combat Brigades,0,-9
+363,Front For the Liberation of the Azores,0,-9
+364,Somali Guerrillas,0,-9
+365,Marxist-Leninist Armed Propaganda Unit,0,-9
+366,Revolutionary Action,0,-9
+367,Soviet and Cuban-backed rebels/mercenaries,0,-9
+368,Falange,0,-9
+369,Revolutionary Commandos of Solidarity,0,-9
+370,Action Front for the Liberation of the Baltic Countries,0,-9
+371,Committee for the Defense of Italian Workers in France,0,-9
+372,People's Liberation Forces (FPL),0,-9
+373,Rote Zora,0,-9
+374,Environmental Life Force,0,-9
+375,Fighters for Communism,0,-9
+376,George Jackson Brigade,0,1
+377,Luis Boitel Commandos,0,-9
+378,28 May Armenian Organization,0,-9
+379,Kentavros,0,-9
+380,Sanidila Secessionist Movement,0,-9
+381,Communist Fighters Group,0,-9
+382,Armed Brigades,0,-9
+383,Gay Liberation Front,0,-9
+384,Communist Progress,0,-9
+385,Solidarist Resistance Movement,0,-9
+386,Pattani United Liberation Organization (PULO),0,-9
+387,Red Guerrilla,0,-9
+388,Fighting Workers for Communism,0,-9
+389,Armed Communist Nucleus,0,-9
+390,Combatent Communists,0,-9
+391,Communist Fighting Nuclei,0,-9
+392,Armed Radical Groups for Communism,0,-9
+393,Armed Groups for Communism,0,-9
+394,Worker Counterpower,0,-9
+395,Proletarian Patrols,0,-9
+396,Pedro Leon Arboleda (PLA),0,-9
+397,Armed Proletarian Groups for Communism,0,-9
+398,Vyborg Brigade,0,-9
+399,Avengers of Peiper Group,0,-9
+400,Territorial Communist Units,0,-9
+401,Proletarian Fighting Brigades,0,-9
+402,Union of the People (UDP),0,-9
+403,Revolutionary Action Front,0,-9
+404,Tonino Micciche Workers Nucleus,0,-9
+405,Organized Proletarian Communists,0,-9
+406,Nucleus of the Armed Struggle,0,-9
+407,Commando Adolph Hitler,0,-9
+408,Universal Liberation Front,0,-9
+409,Young Brigade of Navarro,0,-9
+410,Revolutionary Commandos of the People (CRP),0,-9
+411,Red Army Faction (RAF),0,-9
+412,Armed Fighting Nucleus For Communism,0,-9
+413,Armed Struggle for Proletarian Power,0,-9
+414,Armed Communist Commando,0,-9
+415,Fighting Nucleus for Communism,0,-9
+416,Communist Armed Nucleus,0,-9
+417,Universal Proutist Revolutionary Federation,0,-9
+418,Fighting Communist Front,0,-9
+419,Breton Separatists,0,-9
+420,Combat Nucleus of Communist Unity,0,-9
+421,Fighting Proletarian Squads,0,-9
+422,Afar rebels,0,-9
+423,Free Aceh Movement (GAM),0,-9
+424,Greek National Socialist Organization,0,-9
+425,Delta Group,0,-9
+426,Armed Workers Squads,0,-9
+427,Armed Nucleus of Communist Workers,0,-9
+428,Proletarian Armed Squads,0,-9
+429,Armed Proletarian Patrols,0,-9
+430,Radical Communist Armed Nucleus,0,-9
+431,Armed Commandos in the Fighting Army of Mario Zichieri,0,-9
+432,Guerrillas of Christ the King,0,-9
+433,Confederation of Iranian Students/National Union (CISNU),0,-9
+434,Armed Fight for Communism,0,-9
+435,Khristos Kasimis,0,-9
+436,Communist Fighting Corunim- Maria Anna Maria,0,-9
+437,"Worker Autonomy, Continuous Struggle",0,-9
+438,Fanatical Ecologists,0,-9
+439,Popular Revolutionary Movement (Colombia),0,-9
+440,Fighting Popular Rally,0,-9
+441,PORE,0,-9
+442,Christ Chaos,0,-9
+443,Committee of action against bull fights,0,-9
+444,28th of December Group,0,-9
+445,Armed Revolutionary Groups,0,-9
+446,Arab Revolutionary Army,0,-9
+447,International Communist Brigade,0,-9
+448,Armed Revolutionary Nuclei (NAR),0,-9
+449,Armed Nuclei for Territorial Counterpower,0,-9
+450,Southern Nucleus of Communist Counterpower,0,-9
+451,Iberian Anarchist Federation,0,-9
+452,Anti Shah of Iran,0,-9
+453,Breton Terrorist,0,-9
+454,Zimbabwe African Nationalist Union (ZANU),0,-9
+455,Anti-Imperialist Fighters for a Free Palestine,0,-9
+456,Catalan independence group,0,-9
+457,Begumcans Cell,0,-9
+458,Argentine Youths for Sovereignty,0,-9
+459,Revolutionary Workers' Council (Kakurokyo),0,-9
+460,Popular Revolutionary Bloc (BPR),0,-9
+461,Latin America Anti-Communist Army (LAACA),0,-9
+462,Ananda Marga,0,-9
+463,Revolutionary Commandos of the People (CRP),0,1
+464,Revolutionary Communist Party,0,-9
+465,Jewish Committee of Concern,0,-9
+466,Anti-Castro Group,0,-9
+467,Communist Fighters Association,0,-9
+468,Armed Proletarian Squads,0,-9
+469,Anti-Israeli extremists,1,1
+470,Aryan Brotherhood,0,-9
+471,Autonomous Students,0,-9
+472,Anti-Imperialistic Communist Revolutionaries,0,-9
+473,Communist Fighting Detachments,0,-9
+474,Fuerza Nueva,0,-9
+475,Armed Workers Nuclei,0,-9
+476,Armed Womens Nuclei,0,-9
+477,Armed Proletarian Group,0,-9
+478,Armed Fight for Workers Power,0,-9
+479,Fighting Women,0,-9
+480,Armed Nuclei for Communism,0,-9
+481,Commandos for the Defense of Western Civilization,0,-9
+482,Proletarian Nucleus,0,-9
+483,Marxist Resistance Movement,0,-9
+484,Trinitarians,0,-9
+485,Airport Protesters,0,-9
+486,Column 88,0,-9
+487,Independent Peasants Union,0,-9
+488,Red Tribune,0,-9
+489,Syndicalist Action Groups,0,-9
+490,Front for the National Liberation of Puerto Rico,0,-9
+491,Red Flying Squad,0,-9
+492,Communist Anti-Imperialistic Revolutionaries,0,-9
+493,Abstentionist Brigades,0,-9
+494,Falangist Vanguard,0,-9
+495,Unified Workers Command,0,-9
+496,Chukakuha (Middle Core Faction),0,-9
+497,Left-Wing Terrorists,0,-9
+498,Armed Proletarian Formations,0,-9
+499,Irian Jaya Rebels,0,-9
+500,Supporters of presidential candidate Belisario Bet,0,-9
+501,Revolutionary Army,0,-9
+502,Anti-Technology extremists,1,-9
+503,Action Group for Communism,0,-9
+504,Phalange,0,-9
+505,Front of French National Liberation,0,-9
+506,Anti-Abortion extremists,0,-9
+507,Zimbabwe African People's Union,0,-9
+508,Revolutionary Anarchist Armed Terrorist Movement,0,-9
+509,Death Squad,0,-9
+510,AFB,0,-9
+511,Anti-Imperialist Students Council,0,-9
+512,Brigadas Rojas,0,-9
+513,Ahmad Jibril,0,-9
+514,Shining Path (SL),0,-9
+515,Macheteros,0,1
+516,Khmer Rouge,0,-9
+517,Peruvian Anti-Communist Alliance (AAP),0,-9
+518,Revolutionary Commandos of the People (CRP),0,0
+519,Zimbabwe Guerrillas,0,-9
+520,Mano Blanca,0,-9
+521,Zimbabwe People's Army (ZIPA),0,-9
+522,Broad Commando of National Liberation,0,-9
+523,Guatemalan Labor Party (PGT),0,-9
+524,Otpor,0,-9
+525,International Anti-Communist Intelligence Service,0,-9
+526,Right-Wing Group,0,-9
+527,Red Guard,0,-9
+528,Red Resistance Front,0,-9
+529,Idealist Association,0,-9
+530,Secret Anti-Communist Army (ESA),0,-9
+531,United Popular Action Front (FAPU),0,-9
+532,National Union for the Total Independence of Angola (UNITA),0,-9
+533,Proletarian Combatants for Communism,0,-9
+534,Muslims,0,-9
+535,People's Armed Revolutionary Branch,0,-9
+536,New Jewish Defense League,0,-9
+537,Communist Attack Brigades,0,-9
+538,Farabundo Marti National Liberation Front (FMLN),0,-9
+539,People's Temple,0,0
+540,Lebanese Free Will Movement,0,-9
+541,Guerrillas,0,-9
+542,International Mercenary Brigade,0,-9
+543,Right Wing Christian extremists,0,-9
+544,ATALA,0,-9
+545,Workers' Self-Defense Movement (MAO),0,-9
+546,New Armenian Resistance,0,-9
+547,Terrorists,0,-9
+548,Armed Anti-Imperialist Movement,0,-9
+549,Miguel Angel Cabrera Command,0,-9
+550,Macheteros,0,-9
+551,American Anticommunist Association (AAA),0,-9
+552,Corsican Nationalists,0,-9
+553,Zimbabwe Patriotic Front,0,-9
+554,Combatant Nucleus for Communism,0,-9
+555,National Defense Youth Corps,0,-9
+556,Right-wing extremists,0,-9
+557,Combatant Communist Front,0,-9
+558,Basque terrorists,0,-9
+559,Workers' Organization for Communism,0,-9
+560,Spanish Basque Battalion (BBE) (rightist),0,-9
+561,Politico-Military Revolutionary Command,0,-9
+562,Cambodian National Front for National Salvation,0,-9
+563,People's Army (Myanmar),0,-9
+564,Shan State Progressive Party,0,-9
+565,People's Army (Nicaragua),0,-9
+566,Organized Comrads for Communism,0,-9
+567,Naga People,0,-9
+568,Rhodesian guerillas,0,-9
+569,Shia Muslim extremists,0,-9
+570,Guards of the Fighting Proletariat,0,-9
+571,Fighting Communist Unit,0,-9
+572,Armed Action Force (FADA),0,-9
+573,January 22,0,-9
+574,Armed Proletariat Fighting Squad,0,-9
+575,Save Uganda Movement,0,-9
+576,Autonomous Groups,0,-9
+577,Fighters for the Liberation of the Turkish People,0,-9
+578,ROSADO-SOTO Command,0,-9
+579,Abd al-Krim Commandos,0,-9
+580,Fedayeen Khalq (People's Commandos),0,-9
+581,Communist Party of Thailand,0,-9
+582,Corsican Separatists,0,-9
+583,Communist Territorial Unit,0,-9
+584,Death Squad of Organization Zero (Organizacion Cero),0,-9
+585,Spanish International Communist Party,0,-9
+586,Croatian Nationalists,0,0
+587,Anti-Soviet protest group,0,-9
+588,Unk Iranian Guerrillas,0,-9
+589,Patriotic Moroccan Front,0,-9
+590,Subversives,0,-9
+591,Organized Comrades for Feminist Counter-Power,0,-9
+592,Karen National Union,0,-9
+593,Francia,0,-9
+594,Justice Party,0,-9
+595,Wild Cats,0,-9
+596,People's Military Organization (OMP),0,-9
+597,Mozambique National Resistance Movement (MNR),0,-9
+598,Turkish Revolutionaries,0,-9
+599,Autonomous Intervention Collective Against the Zionist Presence in France,0,-9
+600,Palestinian Students,0,-9
+601,Dainihon Yokuko Doshikai,0,-9
+602,Thai Communists,0,-9
+603,Eagles of the Palestinian Revolution,0,-9
+604,Fire Group,0,-9
+605,Syrian Social Nationalist Party,0,-9
+606,Black March,0,-9
+607,Policarpa Salauarpieta (Women's Command),0,-9
+608,Free Lebanon,0,-9
+609,Jewish Combat Organization,0,-9
+610,Extremists,0,-9
+611,Communist Territorial Nuclei,0,-9
+612,Palestine Liberation Front (PLF),0,-9
+613,Forqan Group,0,-9
+614,Meitei extremists,0,-9
+615,Greek Popular Resistance,0,-9
+616,League of French Fighters Against Jewish Occupation,0,-9
+617,Coordination for Revolutionary Action (CAR),0,-9
+618,Villagers,0,-9
+619,Proletarian Fighting Patrol,0,-9
+620,Lesotho Liberation Army (LLA),0,-9
+621,Left-Wing Demonstrators,0,-9
+622,Communist Nuclei of Counter Power,0,-9
+623,Popular Revolutionary Movement (Italy),0,-9
+624,Left-Wing Guerrillas,0,-9
+625,Territorial Communist Command,0,-9
+626,Hawaiian extremists,1,0
+627,Territorial Cells for Boycotting the Elections,0,-9
+628,Ecology and Antinuclear Revolutionary Party (CRAE),0,-9
+629,Anti-Government Guerrillas,0,-9
+630,International Committee Against Nazism,0,-9
+631,Colombians,0,-9
+632,Pan Africanist Congress (PAC),0,-9
+633,The Jewish Execution with Silence,0,-9
+634,Mizo National Front,0,-9
+635,Territorial Resistance Army,0,-9
+636,Muslim Brotherhood,0,-9
+637,Serbian Nationalists,0,-9
+638,Radicals,0,-9
+639,Republican People's Party,0,-9
+640,Supporter of Bhutto,0,-9
+641,Basque Justice,0,-9
+642,Black Wednesday,0,-9
+643,Arab Separatists,0,-9
+644,Opponents of Regime,0,-9
+645,Unk (men in army uniforms with arms and gas masks),0,-9
+646,Autonomy-Seeking Arabs,0,-9
+647,Dev Sol,0,-9
+648,Armed Subversives,0,-9
+649,Popular Movement for the Liberation of Cabinda,0,-9
+650,Spanish National Action,0,-9
+651,Support for Refugees (Appui aux Refugies),0,-9
+652,Arab Liberation Front (ALF),0,-9
+653,Iraqi Communists,0,-9
+654,July 14 Movement,0,-9
+655,Sharivad 17 Tal-Al-Za'atar(Sept 17 Tal-Al-Za'atar),0,-9
+656,Fighting Communists,0,-9
+657,Organization of Avenging Palestinian Youth,0,-9
+658,Personnel of the National Information Center,0,-9
+659,Naxalites,0,-9
+660,Tyrolean Defense League,0,-9
+661,Muslim extremists,0,-9
+662,Colombian Guerrillas,0,-9
+663,Autonomous Group for Armed Action,0,-9
+664,Revolutionary Organization of People in Arms (ORPA),0,-9
+665,Honour of the Police,0,-9
+666,Central American Revolutionary Workers Party (PRTC),0,-9
+667,People's Liberation Army (India),0,-9
+668,Ethiopian People's Revolutionary Party,0,-9
+669,Martyrs revenge organization,0,-9
+670,Right Wing Lebanese Militiamen,0,-9
+671,Italian Extreme Nationalist Organization,0,-9
+672,Communist Fighting Front,0,-9
+673,Kurdish Rebels,0,-9
+674,Armed Forces of Popular Resistance (FARP),0,-9
+675,Pro-Palestinian extremists,0,-9
+676,Separatist Arab Guerrillas,0,-9
+677,Revolutionary Road,0,-9
+678,Kurdish Marxist Separatists,0,-9
+679,Patriotic Liberation Front (FPL),0,-9
+680,Movement of the Revolutionary Left (MIR) (Bolivia),0,-9
+681,RIF Popular Front,0,-9
+682,Autonomous Anarchist Groups,0,-9
+683,Urban Guerrillas,0,-9
+684,East Side Action Committee,0,-9
+685,Union of the Peoples of the Arabian Peninsula,0,-9
+686,Barzani Guerrillas,0,-9
+687,Mob,0,-9
+688,Spanish Armed Group,0,-9
+689,Ukrainian nationalists,0,-9
+690,Proletarian Division for the Army of Communist Liberation,0,-9
+691,February 28 Popular League (El Salvador),0,-9
+692,Croatian Freedom Fighters,0,1
+693,Muslim Liberation Front,0,-9
+694,Puerto Rican Nationalists,0,-9
+695,Anti-Marxist Commando,0,-9
+696,Maoists,0,-9
+697,Counter-revolutionaries,0,-9
+698,The Great Serpent,0,-9
+699,Commando 15th October,0,-9
+700,Communist Hunters Command (CCC),0,-9
+701,People's Path,0,-9
+702,Unione di u Populu Corsu (UPC),0,-9
+703,Union Du People Corse,0,-9
+704,French Liberation Front,0,-9
+705,Neo-Fascist extremists,0,-9
+706,Organization for the Liberation of France from Jewish Occupation,0,-9
+707,Party of National Conciliation,0,-9
+708,May 15 Organization for the Liberation of Palestine,0,-9
+709,Sons of the South (Shiite Muslim Group),0,-9
+710,Black American Moslems,0,-9
+711,Autonomy (Italy),0,-9
+712,Action Squad,0,1
+713,Tunisian Armed Resistance,0,-9
+714,Catalonian Resistance,0,-9
+715,Front for the Liberation of Lebanon from Foreigners,0,-9
+716,Peasant Militants,0,-9
+717,Separatists,0,-9
+718,Autonomous Revolutionary Brigade,0,-9
+719,East Timorese extremists,0,-9
+720,Revolutionary Student Brigade,0,-9
+721,Strikers,0,-9
+722,Left-Wing Workers,0,-9
+723,Sandinistas,0,-9
+724,15th of September Liberation Legion,0,-9
+725,Left-Wing Militants,0,-9
+726,Qaddafi loyalists,0,-9
+727,National Independent Committee for Political Prisoners and Persecuted and Missing Persons,0,-9
+728,Right-Wing Death Squad,0,-9
+729,Student Revolutionary Front (FER),0,-9
+730,Proletarian communist commandos,0,-9
+731,Revolutionary Action Groups,0,-9
+732,Afghans,0,-9
+733,Territorial Anti-Fascist Patrols,0,-9
+734,28 February Armed Group,0,-9
+735,Liga Agraria Campesina,0,-9
+736,Fighters of the People,0,-9
+737,Anti-Fascist Territorial Group,0,-9
+738,Action Directe,0,-9
+739,Arab Youth Group (Militant),0,-9
+740,Mali students,0,-9
+741,Iparretarrak (IK),0,-9
+742,Khmer Serei Guerrillas,0,-9
+743,Quebec Separatists,0,-9
+744,Iraqi Mujahideen,0,-9
+745,Group Yuri Choukewitch,0,-9
+746,Gunmen,0,-9
+747,Communist Patrols for Counter Power,0,-9
+748,Grupo Estrella,0,-9
+749,Libyan Students,0,-9
+750,Organizacion Democratica Nacionalista (ORDEN),0,-9
+751,Communist Attack Units,0,-9
+752,Armed People,0,-9
+753,Amal,0,-9
+754,Jamaica Labor Party,0,-9
+755,Right Wing Vigilantes,0,-9
+756,National Liberation Movement Party,0,-9
+757,Territorial Armed Groups for Communism,0,-9
+758,Self-Defense Against All Authority,0,-9
+759,Right-Wing National Youth Front,0,-9
+760,Armed Groups of Organised Proletariat,0,-9
+761,Militant Zionist Resistance Movement,0,-9
+762,Spanish Falange,0,-9
+763,Anti-Communist Commando of the South,0,-9
+764,Red June,0,-9
+765,Kabul Government Agents,0,-9
+766,Popular Forces of April 25,0,-9
+767,Arab Liberation Army,0,-9
+768,Guatemalan Communist Party,0,-9
+769,Right-Wing Militants,0,-9
+770,Commandos,0,-9
+771,Comrades Organized in Partisan Nuclei,0,-9
+772,Joint Palestinian leftist organization,0,-9
+773,Israeli settlers,0,-9
+774,Working People's Alliance (WPA),0,-9
+775,Jordanian Masses Organization,0,-9
+776,Autonomous Anti-Capitalist Commandos (CAA),0,-9
+777,Bolivian Socialist Falange,0,-9
+778,Workers of the Company,0,-9
+779,Revolutionary Coordination of the Masses,0,-9
+780,Communist Anti-Nuclear Front,0,-9
+781,Secessionists,0,-9
+782,Al-Da'wah Party,0,-9
+783,Revolutionary Forces for the Liberation of Iraq,0,-9
+784,Organization of Volunteers for the Puerto Rican Revolution,0,-9
+785,Egyptian Revolutionary Organization,0,-9
+786,Welsh Extremists,0,-9
+787,Guardsmen of Islam,0,-9
+788,Ex-Somoza National Guard,0,-9
+789,Popular Anti-Communist Militias,0,-9
+790,Somoza Sympathizers,0,-9
+791,Anti-Communist Patriotic Front,0,-9
+792,Iraqi extremists,0,-9
+793,Revolutionary Committee for Counter Force,0,-9
+794,Worldwide Organization of Native Taiwanese,0,-9
+795,Somozists,0,-9
+796,Organization for Purging the Majlis (Parliament),0,-9
+797,Sham 'unite,0,-9
+798,Committee for the Safeguard of the Islamic Revolution,0,-9
+799,Fedayeen,0,-9
+800,People's Revolutionary Union,0,-9
+801,April 6th Liberation Movement,0,-9
+802,Free Revolutionaries Movement-The Giants,0,-9
+803,Patria Nueva (New Country),0,-9
+804,Malaysian Communist Party,0,-9
+805,Dev Yol,0,-9
+806,Maximiliano Hernandez Martinez Brigade,0,-9
+807,National Liberation Army (El Salvador),0,-9
+808,Revolutionary Popular Left,0,-9
+809,Armed Group for the Liberation of Guadeloupe (GLAG),0,-9
+810,Democratic Revolutionary Front (FDR),0,-9
+811,Bloque Anti-Guerrillero de Oriente (BAGO),0,-9
+812,Wehrsportgruppe Hoffmann,0,-9
+813,Forces of the Struggling Ranks,0,-9
+814,Pro-Iraqi Terrorists,0,-9
+815,White supremacists/nationalists,0,-9
+816,Armenian Organization for Armed Struggle,0,-9
+817,Revolutionary Nationalist Movement,0,-9
+818,Abu Hassan,0,-9
+819,Martyr Abu Ja'far Group,0,-9
+820,Rightist supporters of Democratic Alliance,0,-9
+821,Iraqi Strugglers' Movement,0,-9
+822,Qaddafi loyalists,1,0
+823,Lorenzo Zelaya Revolutionary Front (LZRF),0,-9
+824,Tyrol Separatists,0,-9
+825,October Third Movement,0,-9
+826,Revolutionary Fighting Group 80,0,-9
+827,Youths,0,-9
+828,International Movement of the Prolitariat,0,-9
+829,Ukrainian Liberation Front,0,-9
+830,Italian Combatents for Alto Adige,0,-9
+831,Extreme Right Commando Brigade,0,-9
+832,Wit Kommando,0,-9
+833,Hatikvah Leumi or National Hope,0,-9
+834,Croatian Liberation Army,0,-9
+835,October-80,0,-9
+836,Puerto Rican Armed Resistance,0,-9
+837,Alliance of Revolutionary Cuban Organizations,0,-9
+838,Extortionists,0,-9
+839,Afghan Rebels,0,-9
+840,Guadeloupe Liberation Army,0,-9
+841,Italians Attacking Policies of the Regional  SVP,0,-9
+842,Prisoner's Action Force,0,-9
+843,Territorial Patrols of Anti-Fascist Vigilance,0,-9
+844,Unified Kurdish Socialist Party,0,-9
+845,Somali Salvation Front (SSF),0,-9
+846,Guadeloupe Separatists,0,-9
+847,Scottish Socialist Republican League,0,-9
+848,Ninth of June Organization,0,-9
+849,MILPAS Contras,0,-9
+850,Political Activists,0,-9
+851,Cinchoneros Popular Liberation Movement,0,-9
+852,Armenian Guerrillas,0,-9
+853,Anti-Immigrant extremists,0,-9
+854,Syrian Terror,0,-9
+855,Arab Revolution/Liberation Vanguard Organization,0,-9
+856,Uganda Freedom Movement (UFM),0,-9
+857,Vincente Mecha Revolutionary Christians,0,-9
+858,Mexican Students,0,-9
+859,Autonomous Resistance,0,-9
+860,Three Stars Autonomous Commando,0,-9
+861,Revolutionary Communist Youth Brigade (RCYB),0,1
+862,Budget for the Popular Prep or Death,0,-9
+863,GP II,0,-9
+864,Martyrs of La Talanguera,0,-9
+865,German Speaking Separatists,0,-9
+866,The Armed Secret Organization,0,-9
+867,Armenian Secret Army for the Liberation of Armenia,0,1
+868,Left wing activists,0,-9
+869,Martyr Ali Nasir group,0,-9
+870,Popular Militia (Chile),0,-9
+871,Syrians,0,-9
+872,P.R.E.,0,-9
+873,Al-Zulfikar,0,-9
+874,Unknown,0,1
+875,The United Southern Front,0,-9
+876,Dissidents linked to Zanga,0,-9
+877,Armed Forces of Popular Resistance (FARP),0,1
+878,Carlos Echeverria commando group,0,-9
+879,French Basque Nationalists,0,-9
+880,Komando Jihad (Indonesian),0,-9
+881,Anti-AF,0,-9
+882,Anti-Government extremists,0,-9
+883,Popular Resistance Army (PRA),0,-9
+884,Insurgents,0,-9
+885,Imperial Iranian Patriotic Organization,0,-9
+886,31 January People's Front (FP-31),0,-9
+887,Commando Delta,0,-9
+888,Uganda National Liberation Front (UNLF),0,-9
+889,Extreme Right-wing Socialist Phalange,0,-9
+890,Pessach Group,0,-9
+891,Movement of the Third Reich,0,-9
+892,Grey Wolves,0,-9
+893,Patriotic Union of Kurdistan (PUK),0,-9
+894,International Proletarian Groups,0,-9
+895,Terra Lliure,0,-9
+896,Right-wing Terrorists,0,-9
+897,Turks,0,-9
+898,People's Brigade For A Healthy Genetic Future,0,1
+899,Awami League,0,0
+900,South African Liberation Support Cadre (SALSC),0,-9
+901,Revolutionary Anti-Capitalist Initiative,0,-9
+902,Kurds,0,-9
+903,Student Front of the People,0,-9
+904,Revolutionary Communist Armed Nuclei,0,-9
+905,Rebels,0,-9
+906,Seaborne Moslem Raiders,0,-9
+907,19th of July Christian Resistance Brigade,0,-9
+908,Kuna Indians,0,-9
+909,Libyan,0,-9
+910,Jewish Defenders,0,1
+911,Basque Country Autonomous Self-Defense Group,0,-9
+912,People's Liberation Movement,0,-9
+913,Guerrilla Commando of the people,0,-9
+914,Albanian extremists,0,-9
+915,Kamal Udwan Unit of Palestinians,0,-9
+916,Central African National Liberation Movement,0,-9
+917,Workers Brigade for Communism,0,-9
+918,Qaddafi loyalists,0,0
+919,Kurdish guerrillas,0,-9
+920,Anti-Communist Viets Organization,0,1
+921,Democratic Party,0,-9
+922,"Aghwar ""Fire War"" Group",0,-9
+923,Basque Separatists,0,-9
+924,Arab Steadfastness Front,0,-9
+925,Blue Archer Group,0,-9
+926,Independent Albanian Movement,0,-9
+927,Azadejan (Liberation),0,-9
+928,Dissident,0,-9
+929,National Salvation Forces Organization,0,-9
+930,Black Brigade (United States),0,1
+931,Grupo Estrella,0,1
+932,Thunder of Zion,0,-9
+933,Gang,0,-9
+934,Iranian Revolution Organization,0,-9
+935,Communist Nuclear,0,-9
+936,Orly Organization,0,-9
+937,Marxists,0,-9
+938,Omega-7,0,1
+939,Croatians,0,-9
+940,Sikh Extremists,0,-9
+941,Egyptian Islamic Jihad (Al-Jihad),0,-9
+942,Dark Harvest,0,-9
+943,Nicaraguan Counter Revolutionaries (group unk),0,-9
+944,Nicaraguans protesting their government,0,-9
+945,Communist Group of Proletarian Internationalism,0,-9
+946,Militant Welsh,0,-9
+947,Welsh nationalists,0,-9
+948,Nicaraguan Democratic Anti-Communist Movement,0,-9
+949,Croatian Revolutionary Cell-Bruno Busic Dept,0,-9
+950,Lebanese Armed Revolutionary Faction (LARF),0,-9
+951,Survivors of Golfech,0,-9
+952,Extreme Left,0,-9
+953,Bande des Rats (the rat pack) Ukranian Group,0,-9
+954,Mercenaries,0,-9
+955,Contras,0,-9
+956,Revolutionary Armed Forces of Nicaragua (FARN),0,-9
+957,Iraqi Liberation Army,0,-9
+958,Roque Dalton Commando,0,-9
+959,Front Line Armed Nuclei (FLAN),0,-9
+960,Pacifist and Ecologist Committee,0,-9
+961,Juan Rayo Guerilla Group,0,-9
+962,MNR of the Left,0,-9
+963,Karen Insurgents,0,-9
+964,Antonia Martinez Student Commandos (AMSC),0,1
+965,Death to Kidnappers (MAS),0,-9
+966,The Eradication of Evil,0,-9
+967,Iconoclastic Nihilists,0,-9
+968,4 August National Organization,0,-9
+969,Congolese Armed Patriotic Group,0,-9
+970,Muslim Commando (Iraqi revolutionary brothers),0,-9
+971,Marxists,1,-9
+972,Village League,0,-9
+973,Rabbi Rahane Group,0,-9
+974,Kurdish Oppositionists,0,-9
+975,Arab Socialist Union Members,0,-9
+976,Al-Aqsa-Group,0,-9
+977,Peykar,0,-9
+978,Lebanese Arab Army,0,-9
+979,Provisional Coordinating Committee for the Defense of Labor,0,-9
+980,Robin Garcia Student Front,0,-9
+981,World Punishment Organization,0,-9
+982,"Anti Somoza Gp, name unk",0,-9
+983,Free Nasserite Revolutionaries,0,-9
+984,Grupo Estrella,0,0
+985,Army of God,0,0
+986,Tamils,0,-9
+987,Revolutionary Labor Commandos,0,-9
+988,Mozambican Rebels,0,-9
+989,Communist Front for Counterpower,0,-9
+990,Armenian Red Army,0,-9
+991,Supporters of Joshua Nkomo,0,-9
+992,Independent Nasserite Movement,0,-9
+993,Vietnamese Organization to Exterminate Communists and Restore the Nation,0,1
+994,Movement of Islamic Action of Iraq,0,-9
+995,Army of God,0,1
+996,Polish Revolutionary Home Army,0,-9
+997,League of Communists,0,-9
+998,Black Lebanon,0,-9
+999,Iraqi Democratic Front,0,-9
+1000,Akali Dal Party,0,-9
+1001,Christian Group for the Respect for Life,0,-9
+1002,Hungarian exile,0,-9
+1003,Autonomy (Greece),0,-9
+1004,Khomeini loyalists,0,-9
+1005,Armed Commandos of Student Self Defense,0,-9
+1006,Animal Rights Militia,0,-9
+1007,Anti-Nuclear extremists,1,-9
+1008,Druzes,0,-9
+1009,Sunni Muslim extremists,0,-9
+1010,United Jewish Underground,0,1
+1011,Militia Members,0,-9
+1012,Autonomy Front,0,-9
+1013,Hector Rio De Brigade,0,-9
+1014,Jewish Terror,0,-9
+1015,Corsican Revolutionary Brigade,0,-9
+1016,Lebanese National Resistance Front,0,-9
+1017,Civic Guard,0,-9
+1018,Armed Struggle Organization,0,-9
+1019,May 19 Communist Order,0,-9
+1020,Grupo Armado de Liberacion Argentina (GALA),0,-9
+1021,Martyrs of Saad Sayel,0,-9
+1022,Posse Comitatus,0,-9
+1023,Mon Insurgents,0,-9
+1024,Iranian extremists,1,-9
+1025,Scottish Nationalists,0,-9
+1026,Hezbollah,0,-9
+1027,People's Revolutionary Organization- Colombia (ORP),0,-9
+1028,All India Sikh Students Federation (AISSF),0,-9
+1029,2 April Group,0,-9
+1030,Nicaraguan Democratic Force (FDN),0,-9
+1031,Misurasata Indian Organization,0,-9
+1032,Polish,0,-9
+1033,Revolutionary Solidarity,0,-9
+1034,Ruminahui Front,0,-9
+1035,Somali Salvation Democratic Front (SSDF),0,-9
+1036,Macheteros,0,0
+1037,Democratic Revolutionary Alliance (ARDE),0,-9
+1038,Red Brigades Fighting Communist Party (BR-PCC),0,-9
+1039,Jordanian Revolutionary and Military Committee (MOUAB),0,-9
+1040,United Freedom Front (UFF),0,1
+1041,Group for Martyred Isam as-Sartawi,0,-9
+1042,Caribbean Revolutionary Alliance (ARC),0,-9
+1043,Liberation Front of Southern Sudan,0,-9
+1044,Basque guerrillas,0,-9
+1045,Northern Epirus Liberation Front (MAVI),0,-9
+1046,Opposition Militants,0,-9
+1047,Scottish National Liberation Army,0,-9
+1048,"Senki (""Battle Flag"")",0,-9
+1049,Revolutionary Front for National Liberation,0,-9
+1050,Anti-Nuclear extremists,0,-9
+1051,Nicaraguan  Revolutionary Armed Force,0,-9
+1052,Jamaat-al-Fuqra,0,0
+1053,Artigas-Giachino Command,0,-9
+1054,Lebanese Resistance Group,0,-9
+1055,"Covenant, Sword and the Arm of the Lord (CSA)",0,0
+1056,Alfaro Vive,0,-9
+1057,Anarchists,0,-9
+1058,Angry Brigade,0,-9
+1059,Movement for Rebuilding Fatah,0,-9
+1060,Argentina Libre (Free Argentina),0,-9
+1061,Iraqi Moslems,0,-9
+1062,Western Somalia Liberation Front,0,-9
+1063,United Popular Action Movement,0,-9
+1064,Morazanist Front for the Liberation of Honduras (FMLH),0,-9
+1065,Amazonas Liberation Front,0,-9
+1066,Coordination of Anti-atomic Power Plant Saboteurs,0,-9
+1067,Lebanese and Palestinian Resistance Fighters,0,-9
+1068,North Korean involvement commandos,0,-9
+1069,Syrian Battle Front,0,-9
+1070,Comite de Liberation et de Detournements d'Ordinateurs (Committee for the liberation and hijacking of computers),0,-9
+1071,The Order (Silent Brotherhood),0,0
+1072,Bolivian Luminous Path,0,-9
+1073,Black Liberation Force,0,-9
+1074,The Aref Boluki Dynamite group,0,-9
+1075,November 10 (Bolivia),0,-9
+1076,Yamaguchi-Gumi Gang,0,-9
+1077,Catholic Reaction Force,0,-9
+1078,Sandinist People's Army (EPS),0,-9
+1079,Anti-Terrorist Liberation Group (GAL),0,-9
+1080,Plowshares,0,-9
+1081,National Front for the Liberation of Belgium,0,-9
+1082,Revolutionary Armed Forces (FAR),0,-9
+1083,Guatemalan National Revolutionary Unity (URNG),0,-9
+1084,Terror Against Terror,0,-9
+1085,Islamic Cause Organization,0,-9
+1086,Black Hand,0,-9
+1087,Counterrevolutionary Solidarity (SC),0,-9
+1088,Muslim Militants,0,-9
+1089,Israeli Terrorist Group,0,-9
+1090,Ana Maria Martinly August 22 Brigade,0,-9
+1091,Al-Borkan Liberation Organization,0,-9
+1092,Martyrs of Baalbek,0,-9
+1093,Tripura National Volunteers (TNV),0,-9
+1094,Patriotic Command San Jose,0,-9
+1095,Jammu and Kashmir Liberation Front,0,-9
+1096,Yellow Organization of Air Force Officers,0,-9
+1097,Defenders of the Fatherland,0,-9
+1098,Sudanese mostly Christian rebels,0,-9
+1099,Christian extremists,0,-9
+1100,National Resistance Movement (NRM),0,-9
+1101,Jewish Direct Action,0,-9
+1102,Force 17,0,-9
+1103,National Anti Communist Commando,0,-9
+1104,Manuel Rodriguez Patriotic Front (FPMR),0,-9
+1105,Idriss Miskine Group,0,-9
+1106,Congolese National Movement- Lumumba (MNCL),0,-9
+1107,Revolutionary Organization of Socialist Muslims,0,-9
+1108,Tripura Nationalists,0,-9
+1109,Dishmish Regiment,0,-9
+1110,Internal Front,0,-9
+1111,MLA,0,-9
+1112,Katsuhisa Omori,0,-9
+1113,Individuals claimed to be policemen,0,-9
+1114,Nationalist Patriotic Alliance (APN),0,-9
+1115,"Sympathizers of ""Iranian People's Zeda'i""",0,-9
+1116,Anti-Communist extremists,0,-9
+1117,Anti-Armenian Organization,0,-9
+1118,International Communist Group,0,-9
+1119,National Front for the Salvation of Libya,0,-9
+1120,Anti-Semitic extremists,0,-9
+1121,Islamic Action Organization,0,-9
+1122,Ricardo Franco Front (Dissident FARC),0,-9
+1123,Scheutzen group,0,-9
+1124,Palestinian-nationalist Lebanese joint movement,0,-9
+1125,Al-Sa'iqa,0,-9
+1126,Alpha-66 (Cuban counterrevolutionary),0,-9
+1127,Arab Revenge Organization,0,-9
+1128,Tupac Amaru Revolutionary Movement (MRTA),0,-9
+1129,Chilean Anti-Communist Alliance (ACHA),0,-9
+1130,Fedayeen of the Imperial Iranian Monarchy,0,-9
+1131,Free Fatherland,0,-9
+1132,Salvadoran Guerrillas,0,-9
+1133,Alfa 83,0,-9
+1134,Al-Sadr Brigades,0,-9
+1135,Gutierrez Gomez Resistance Group,0,-9
+1136,Rajneeshees,0,-9
+1137,Sons of the South,0,-9
+1138,Sharp Sword Organization,0,-9
+1139,Costa Rican Peoples' Army (EPC),0,-9
+1140,Communists Fighting Imperialism and Armaments,0,-9
+1141,Anarchio Scene,0,-9
+1142,Narco-Terrorists,0,-9
+1143,Kurdistan Workers' Party (PKK),0,-9
+1144,M-5,0,-9
+1145,Red Patriots Group,0,-9
+1146,Basque Refugee Support Group,0,-9
+1147,Rajneeshees,0,1
+1148,Anti-Socials,0,-9
+1149,Anti-Chon radical elements,0,-9
+1150,Iranian Monarchists,0,-9
+1151,Koetoh Reh,0,-9
+1152,Militant Argentine Patriots,0,-9
+1153,Revolutionary Armed Forces for the Liberation of Colombia (FALCO),0,-9
+1154,Militants,0,-9
+1155,Martyrs Halim Group,0,-9
+1156,Organization of Mauritanian Nationalists,0,-9
+1157,National Movement of Iranian Resistance,0,-9
+1158,Communist Combattant Cells (CCC) (Belgium),0,-9
+1159,Separatist Clandestine Organization,0,-9
+1160,Gruppe Haw Weg Den Scheiss,0,-9
+1161,Yemenis,0,-9
+1162,September 17 Organization,0,-9
+1163,Independence Advocates,0,-9
+1164,Kanak Separatists,0,-9
+1165,Kanakas,0,-9
+1166,Kanak Socialist National Liberation Front,0,-9
+1167,Muslim Separatists,0,-9
+1168,November 21 Organization,0,-9
+1169,La Paz peasants federation,0,-9
+1170,Liberation Tigers of Tamil Eelam (LTTE),0,0
+1171,Tamil Eelam Liberation Organization (TELO),0,-9
+1172,Black September II,0,-9
+1173,National Socialist Council of Nagaland,0,-9
+1174,Organization of Volunteers for the Puerto Rican Revolution,0,1
+1175,Organization of Volunteers for the Puerto Rican Revolution,0,0
+1176,Yazbik Revolutionary Organization,0,-9
+1177,Animal Liberation Front (ALF),0,-9
+1178,National Committee Against Independence (CNCI),0,-9
+1179,Relatives of terrorist,0,-9
+1180,National Republican Alliance Party,0,-9
+1181,Palestinian/Lebanese nationalists,0,-9
+1182,National Front (Greece),0,-9
+1183,Northern Terror Front,0,-9
+1184,Black Brigade,0,-9
+1185,Worker's Brigade,0,-9
+1186,FACDM,0,-9
+1187,Angels,0,-9
+1188,Carribbean Revolutionary Independence Army,0,-9
+1189,Emilio Recabarren Commando,0,-9
+1190,Miners,0,-9
+1191,New caledonian independence supporters,0,-9
+1192,Armenian Revolutionary Army,0,-9
+1193,Los Barriales,0,-9
+1194,Vengence Party,0,-9
+1195,Ahmad Alawi al Muqbili,0,-9
+1196,Valais Group Against Hydro-Rhone,0,-9
+1197,Pan-Turkish Organization,0,-9
+1198,Arab Unionist Nationalist Organization,0,-9
+1199,Quintin Lame,0,-9
+1200,Action Struggle Against the World,0,-9
+1201,Syrian Social Nationalist Party,0,1
+1202,Proletarian Revolutionary Action Front (FRAP),0,-9
+1203,Black extremists,0,-9
+1204,Fighting Ecologist Movement,0,-9
+1205,Uganda People's Army,0,-9
+1206,People's Liberation Front of Niger,0,-9
+1207,Martyrs of Tell Al-Zaltar,0,-9
+1208,Islamic Mujahidin,0,-9
+1209,Homeland and Freedom Group,0,-9
+1210,Khalid ibn Walid,0,-9
+1211,Miskito Indian Organization,0,-9
+1212,United Liberation Torchbearers Forces,0,-9
+1213,Peace Conquerors,0,-9
+1214,Anti-Muslim extremists,1,0
+1215,United Democratic Front (UDF),0,-9
+1216,Angolan Defense Force,0,-9
+1217,Poor People's Party,0,-9
+1218,The Ordinary Men,0,-9
+1219,Right-Wing Gunmen,0,-9
+1220,Javier Heraud Revolutionary Commando,0,-9
+1221,People's Revolutionary Command (CRP),0,-9
+1222,Revolutionary Autonomous Group,0,-9
+1223,National Revolution,0,-9
+1224,Broad Front,0,-9
+1225,Islamic Unification Movement,0,-9
+1226,Revolutionary Christians of the Cedars,0,-9
+1227,Egypt's Revolution,0,-9
+1228,Jarnail Khalsa,0,-9
+1229,Arab Socialist Baath Party,0,-9
+1230,7 April Libyan Organization,0,-9
+1231,Wild Geese of the Cities,0,-9
+1232,Saffron Tigers,0,-9
+1233,Revolutionary Militant Left organization,0,-9
+1234,Crazy Brabant Killers,0,-9
+1235,Proletarian Initiative and Offensive for W. Europe,0,-9
+1236,Anti-Technology extremists,1,0
+1237,Red Revolutionary Front,0,-9
+1238,Christian Palestinian group,0,-9
+1239,Hezbollah,0,0
+1240,Anti-Apartheid guerrillas,0,-9
+1241,Simon Bolivar Guerrilla Coordinating Board (CGSB),0,-9
+1242,Revolutionary Eelam Organization (EROS),0,-9
+1243,Kisar Liberation Movement,0,-9
+1244,Committee of Solidarity with Arab and Middle East Political Prisoners (CSPPA),0,-9
+1245,Moslem opponents of Gemayel,0,-9
+1246,Basque Fatherland and Freedom (ETA),0,0
+1247,Marxist Peoples Fedayeen of Iran,0,-9
+1248,America Battalion,0,-9
+1249,Red Brigades Fighting Communist Union (BR-UCC),0,-9
+1250,Black Flag (Bandera Negra),0,-9
+1251,Union of Galilee Christians,0,-9
+1252,"Up the IRS, Inc",0,0
+1253,Palestinian Forces,0,-9
+1254,New Ugandan Army,0,-9
+1255,The Order II (Bruder Schweigen Strike Force II),0,0
+1256,Eelam People's Revolutionary Liberation Front (EPRLF),0,-9
+1257,Vietnamese Refugees,0,0
+1258,People's Command,0,-9
+1259,National Revolutionary Command (Umar al-Mukhtar),0,-9
+1260,Islamic Liberation Organization,0,-9
+1261,Arab Revolutionary Cells,0,-9
+1262,Anti-American Arab Liberation Front,0,-9
+1263,Tribal Separatists,0,-9
+1264,Kisan Indian Organization,0,-9
+1265,Patria y Libertad (Fatherland and Liberty),0,-9
+1266,Armed Communist Front,0,-9
+1267,Arab Commando Cells,0,-9
+1268,Hezbollah,0,1
+1269,Commando Internacionalista Simon Bolivar,0,-9
+1270,Arab Revolutionary Front,0,-9
+1271,Liberation Tigers of Tamil Eelam (LTTE),0,1
+1272,Anti-Imperialist International Brigades,0,-9
+1273,Bangladesh Sarbahara Party,0,-9
+1274,A Resistance Group,0,-9
+1275,Montoneros Patria Libre,0,-9
+1276,Sudan People's Liberation Army (SPLA),0,-9
+1277,Shanti Bahini - Peace Force,0,-9
+1278,Salah al-Din Squad,0,-9
+1279,Al-Marabitun Revolutionary Committee,0,-9
+1280,Commandos of France,0,-9
+1281,M-19 (Movement of April 19),0,1
+1282,United Arab Revolution,0,-9
+1283,Feliciano Argueta Front,0,-9
+1284,Japan Socialist Youth League of the Revolutionary Workers' Association,0,-9
+1285,Black War,0,-9
+1286,Palestinian Revolution Forces,0,-9
+1287,Fatah Uprising,0,-9
+1288,Major Muhammad Zuhnyn Group,0,-9
+1289,Anti-Government Group,0,0
+1290,United Nicaraguan Opposition,0,-9
+1291,Brunswijk Jungle Commando,0,-9
+1292,United Nasirite Organizaiton,0,-9
+1293,Revolutionary Liberation Cells,0,-9
+1294,Schiedam Youth Front,0,-9
+1295,The Illegal Fisherman of the Night,0,-9
+1296,Drug-Related Terrorists,0,-9
+1297,SYS,0,-9
+1298,S. O. S. France,0,-9
+1299,Into the Blue Commando of the Revolutionary Cells,0,-9
+1300,Commander Gonzalo Southern Group,0,-9
+1301,Armed Commandos for Liberation,0,-9
+1302,Sinhalese Extremists,0,-9
+1303,Moro Islamic Liberation Front (MILF),0,-9
+1304,September 11 Commandos,0,-9
+1305,Supporters of Right and Freedom,0,-9
+1306,The Order II (Bruder Schweigen Strike Force II),0,-9
+1307,Down with Lubbers,0,-9
+1308,El Movimiento Revolucionario Independinista,0,1
+1309,Aryan Nation,0,-9
+1310,Karamyit Singh,0,-9
+1311,Maoist Communist Center (MCC),0,-9
+1312,Supreme Islamic Council,0,-9
+1313,Brazilian Democratic Mobilization Party (PMBD),0,-9
+1314,Groups Seeking Independence,0,-9
+1315,Gang separatists terrorists,0,-9
+1316,Peruvian Rebels,0,-9
+1317,Liberation Commando Rudolf Hess,0,-9
+1318,Alexander Villalon (YADO),0,-9
+1319,Angola Rebels,0,-9
+1320,Youths of Ali Movement,0,-9
+1321,Sea Shepherd Conservation Society,0,-9
+1322,The Call of Jesus Christ,0,-9
+1323,Suicide Squad,0,-9
+1324,Black Panther Group (Palestinian),0,-9
+1325,Poverty Brigade,0,-9
+1326,Greek Bulgarian Armenian Front,0,-9
+1327,Khalistan Liberation Force,0,-9
+1328,Pro-Libyan,0,-9
+1329,Arab Struggle,0,-9
+1330,Lebanese Liberation Front,0,-9
+1331,Student Radicals,0,-9
+1332,Irish People's Liberation Organization (IPLO),0,-9
+1333,Mustafa Aktas Fighting Unit,0,-9
+1334,Iranian dissident group,0,-9
+1335,Lebanese Terrorist Group,0,-9
+1336,Beirut Martyrs Forces Organization,0,-9
+1337,Condor Plan Criminals,0,-9
+1338,Khalistan Commando Force,0,-9
+1339,Animal Rights extremists,0,-9
+1340,Somali National Movement,0,-9
+1341,Islamic Holy Star,0,-9
+1342,Pro-Kabul Provocateurs,0,-9
+1343,Free Galician People's Guerrilla Army,0,-9
+1344,Filipino Communists,0,-9
+1345,Scooter Borne terrorists,0,-9
+1346,Islamist extremists,0,-9
+1347,Census Opponents,0,-9
+1348,Antonio,0,-9
+1349,Inkatha Freedom Party (IFP),0,-9
+1350,Extremist Nat'list Group,0,-9
+1351,Active Espirit de Corps of the Argentina Army,0,-9
+1352,Liberation Hawks,0,-9
+1353,Nicaraguan Resistance,0,-9
+1354,Brother Julian,0,-9
+1355,Animal Liberation Front (ALF),0,1
+1356,Aryan Nation,0,1
+1357,Jihad Brigades,0,-9
+1358,Japanese Independence Patriotic Party,0,-9
+1359,Alejo Calatayu,0,-9
+1360,South African guerrillas,0,-9
+1361,Abu Musa Group,0,-9
+1362,Guerrilla Forces for Liberation,0,-9
+1363,Guerrilla Forces for Liberation,0,1
+1364,Afghan Mujahideen,0,-9
+1365,Lebanese Secret Army,0,-9
+1366,Comuneros,0,-9
+1367,Red Army for the Liberation of Catalonia,0,-9
+1368,Gurkha National Liberation Front (GNLF),0,-9
+1369,Militant Cells,0,-9
+1370,Kurdish Separatists,0,-9
+1371,Muslim Fundamentalists,0,-9
+1372,Guardians of the Islamic Revolution,0,-9
+1373,Maximiliano Gomez Revolutionary Brigade,0,-9
+1374,Jacques de Molay Group,0,-9
+1375,Freedom Party,0,-9
+1376,People's Liberation Front (JVP),0,-9
+1377,Arab Democratic Party,0,-9
+1378,Turkish Marxist Workers Party,0,-9
+1379,Kurdistan National Union,0,-9
+1380,Latin American Anti-Fascist Command,0,-9
+1381,Evan Mecham Eco-Terrorist International Conspiracy (EMETIC),0,1
+1382,Syrian Mujahideen,0,-9
+1383,Insurgency Commune,0,-9
+1384,Tanyus Shanin Armed Unit,0,-9
+1385,Autonomen,0,-9
+1386,Liberation Battalion,0,-9
+1387,Nuclear Liberation Front,0,-9
+1388,Ecuadorian Communist Youth,0,-9
+1389,Anti-Authority Group (Greece),0,-9
+1390,Uganda Federal Army,0,-9
+1391,Pedro Albizu Campos Revolutionary Forces,0,1
+1392,Death to Drug Traffickers,0,-9
+1393,Mormon Extremist,0,0
+1394,The Extraditables,0,-9
+1395,Revolutionary Armed Organization,0,-9
+1396,9 February,0,-9
+1397,Kachin Independence Army (KIA),0,-9
+1398,Kach,0,-9
+1399,Sudanese People's Liberation Forces,0,-9
+1400,Holy Spirit Movement,0,-9
+1401,Meibion Glyndwr,0,-9
+1402,OAS-MRP,0,-9
+1403,National Socialist Civic Workers Movement,0,-9
+1404,Sinhalese Insurgents,0,-9
+1405,Hotaru (Firefly),0,-9
+1406,Organization of Arab Fedayeen Cells,0,-9
+1407,Kurdish Independence Group (name unk),0,-9
+1408,Jorge Eliecer Gaitan Nationalist Movement,0,-9
+1409,Mozambique Liberation Front (FRELIMO),0,-9
+1410,Iranian Militants,0,-9
+1411,22 May 1948,0,-9
+1412,Internationalist Cells,0,-9
+1413,Anti-Communist Vigilante Patrol,0,-9
+1414,Sudtiroler Volkspartei-south tyrol people's party,0,-9
+1415,Soldiers of Truth,0,-9
+1416,Organization Alliance of Cuban Intransigence,0,1
+1417,Burma Communist Party,0,-9
+1418,Black Hand (Colombia),0,-9
+1419,Rodrigo Franco Command,0,-9
+1420,United Liberation Front of Assam (ULFA),0,-9
+1421,Vigilante Group,0,-9
+1422,People's Liberation Organization of Tamil Eelam,0,-9
+1423,Black Friday,0,-9
+1424,Zapatista National Liberation Army,0,-9
+1425,Hizb-I-Islami,0,-9
+1426,Zarate Willka Armed Forces of Liberation,0,-9
+1427,Sekihotai,0,-9
+1428,Keshet,0,-9
+1429,Ein Tyrol (One Tyrol),0,-9
+1430,Animal Defense League,0,-9
+1431,Congolese Liberation Party (PLC),0,-9
+1432,Beirut Martyrs Battalion,0,-9
+1433,Jewish Defense Organization,0,-9
+1434,Lebanese Man,0,-9
+1435,"Up the IRS, Inc",0,1
+1436,Al-Faruo Battalion,0,-9
+1437,White Wolves,0,-9
+1438,Patriotic Morazanista Front (FPM),0,-9
+1439,Manuel Jose Arce Commando,0,-9
+1440,Anti-Capitalist Commando,0,-9
+1441,Babbar Khalsa International (BKI),0,-9
+1442,People's Liberation Organization of Tamil Eelam,0,1
+1443,Anya-Nya II Militia,0,-9
+1444,Animal Rights extremists,1,0
+1445,Afrikaner Resistance Movement (AWB),0,-9
+1446,Bhinderanwale Tiger Force of Khalistan (BTHK),0,-9
+1447,Socialist-Nationalist Front (SNF),0,-9
+1448,Mon Guerrillas,0,-9
+1449,Shaykh Subhi Al-Salih Forces,0,-9
+1450,Social Resistance,0,-9
+1451,Workers' Revolutionary Party,0,-9
+1452,Liberation Front of the Senegalese People,0,-9
+1453,Anti-Capitalist Brigades,0,-9
+1454,National Movement Against the Mahgreb Invasion,0,-9
+1455,Black Liberation Front,0,-9
+1456,Movement of Democratic Forces of Casamance,0,-9
+1457,Revolutionary Front for an Independent East Timor (FRETILIN),0,-9
+1458,Tripoli Martyrs Battalion,0,-9
+1459,Ugandan Rebels,0,-9
+1460,Socialist Revolutionary Brigade,0,-9
+1461,Death to Bazuqueros,0,-9
+1462,16 January Organization for the Liberation of Tripoli,0,-9
+1463,1 May,0,-9
+1464,Popular Resistance Front (FPR),0,-9
+1465,Earth First!,0,1
+1466,Anti-Communist Action Alliance,0,-9
+1467,People's War Group (PWG),0,-9
+1468,Anti-Imperialist Patriotic Union,0,-9
+1469,National Liberation Army (Peru),0,-9
+1470,Bodo Militants,0,-9
+1471,Revolutionary United Front Movement,0,-9
+1472,United Revolutionary Front,0,-9
+1473,Mandela Soccer Club,0,-9
+1474,Forces of the Free Arab,0,-9
+1475,Shan State Army - North (SSA-N),0,-9
+1476,Muhammed Shuqayr Group,0,-9
+1477,Workers' Forces of Liberation,0,-9
+1478,Eritrean Peoples Liberation Front,0,-9
+1479,Kachin Insurgents,0,-9
+1480,Martyr Ahmad Alishuay B Group,0,-9
+1481,Revolutionary Movement,0,-9
+1482,Sicarii,0,-9
+1483,Kampuchean Peoples National Liberation Army,0,-9
+1484,Organization of Metropolitan Proletariat and Oppressed Peoples,0,-9
+1485,Popular Liberation Resistance Force,0,-9
+1486,Armed Struggle Cells,0,-9
+1487,Mwakenya Dissident Movement,0,-9
+1488,Evan Mecham Eco-Terrorist International Conspiracy (EMETIC),0,0
+1489,Ugandan People's Democratic Army,0,-9
+1490,Arabian Peninsula Freemen,0,-9
+1491,National Revolutionary Front,0,-9
+1492,Father of the Poor,0,-9
+1493,Shaykh Hassan Khalid Forces,0,-9
+1494,Palestinian Islamic Jihad (PIJ),0,1
+1495,National League for Democracy,0,-9
+1496,Generation of Arab Fury,0,-9
+1497,Revolutionary Movement of People in Arms,0,-9
+1498,9 May People's Liberation Force,0,-9
+1499,Catalan Militia,0,-9
+1500,Rebel Socialists,0,-9
+1501,Organization of Mujahadin of Islam,0,-9
+1502,National Liberation Army (Ecuador),0,-9
+1503,Americans for a Competent Federal Judicial System,0,1
+1504,Armed People's Units,0,-9
+1505,Unidad Militar Bolivariana,0,-9
+1506,Anti-Communist Vigilante Group,0,-9
+1507,Surinamese Amerindians,0,-9
+1508,All for the Fatherland Movement,0,-9
+1509,Black Forest Command,0,-9
+1510,Fighting Proletarian Front,0,-9
+1511,Gracchus Babeuf,0,-9
+1512,Cali Narcotics Cartel,0,-9
+1513,Hamas (Islamic Resistance Movement),0,-9
+1514,Cells for Solidarity Against Authority,0,-9
+1515,Arnoldo Camu Command,0,-9
+1516,Kurdish Democratic Party-Iran (KDP),0,-9
+1517,Movement for the Supremacy of Reason,0,-9
+1518,Popular Movement for the Liberation of Angola,0,-9
+1519,National Liberation Union,0,-9
+1520,Kashmiri extremists,0,-9
+1521,The Unit of the Chemical Weapons Martyrs,0,-9
+1522,Martyr Riyad Taha Group,0,-9
+1523,Tucayana Amerindians,0,-9
+1524,Tacayana Indians,0,-9
+1525,Flying Eagles (Vigilante Group),0,-9
+1526,France's Honour,0,-9
+1527,Pro-Pakistani extremists,0,-9
+1528,Communist Party of India,0,-9
+1529,Citizens Volunteer Force,0,-9
+1530,Bougainville Revolutionary Army (BRA),0,-9
+1531,Allah's Tigers,0,-9
+1532,White Mercenaries,0,-9
+1533,Anarchist Solidarity,0,-9
+1534,Popular Militia (Colombia),0,-9
+1535,June 16 Organization,0,-9
+1536,Anti-feminist extremists,1,1
+1537,Struggle Against Misery and Exploitation of Peasants,0,-9
+1538,Reform of the Armed Forces Movement,0,-9
+1539,Survivors of Hama,0,-9
+1540,Americans for a Competent Federal Judicial System,0,-9
+1541,Continuing Struggle,0,-9
+1542,Democratic Revolutionary Party,0,-9
+1543,Omar Torrijos Commando for Latin American Dignity,0,-9
+1544,Nara Red Army,0,-9
+1545,Manuel Gonzales Patriotic Front,0,-9
+1546,Hizbul Mujahideen (HM),0,-9
+1547,Seikijuku,0,-9
+1548,Islamic Movement Organization,0,-9
+1549,Organization for the oppresed in Egypt's Prisons,0,-9
+1550,Seiji Kesha Kokuyukai,0,-9
+1551,Resistance Movement of the Union of Revolt Workers,0,-9
+1552,Dev Genc,0,-9
+1553,Albanian Separatists,0,-9
+1554,"Up the IRS, Inc",0,-9
+1555,Turkish Communist Party/Marxist (TKP-ML),0,-9
+1556,Mikhail Kaltezas Anarchist Organization,0,-9
+1557,Rwenzururu Rebels,0,-9
+1558,Turkish Islamic Commandos,0,-9
+1559,Patriotic Liberation Front,0,-9
+1560,Pakistani People's Party (PPP),0,-9
+1561,Patriotic Resistance Army (ERP),0,-9
+1562,God our Father Cult,0,-9
+1563,Armenian nationalists,0,-9
+1564,Armenian extremists,0,-9
+1565,National Patriotic Front of Liberia (NPFL),0,-9
+1566,Revolutionary Anti-Racist Action,0,-9
+1567,Revolutionary Action Organization of the Arab Resistance Front,0,-9
+1568,Revolutionary Worker Clandestine Union of the People Party (PROCUP),0,-9
+1569,Mujahideen Kashmir,0,-9
+1570,Palestinian Islamic Jihad (PIJ),0,-9
+1571,Aum Shinri Kyo,0,-9
+1572,Earth Night Action Group,0,1
+1573,Environmentalists,0,1
+1574,Islamic Front for the Liberation of Palestine (IFLP),0,-9
+1575,Liberian Rebel Group,0,-9
+1576,Islamic Struggle Front,0,-9
+1577,Anti-Environmentalists,0,0
+1578,Do-or-Die Corps for the Abolition of Anti-Public Taxation Systems,0,-9
+1579,14th of December Command,0,-9
+1580,20 December Movement (M-20),0,-9
+1581,Islamic Jihad Beit-al Maqdis Group,0,-9
+1582,Nazi Boerestat Party,0,-9
+1583,Casamance Separatists,0,-9
+1584,Chondaehyop (Radical Student Coalition),0,-9
+1585,Milicias Rodriguistas,0,-9
+1586,Armenian militants,0,-9
+1587,Muttahida Qami Movement (MQM),0,-9
+1588,Revolutionary Labor Organization,0,-9
+1589,December 13 Independent Group,0,-9
+1590,Azania People's Organization (AZAPO),0,-9
+1591,Muslim Janbaz Force,0,-9
+1592,Cleansing Hand (La Mano Que Limpia),0,-9
+1593,Dawn Forces,0,-9
+1594,Ultra Conservative Clerical Group,0,-9
+1595,Islamic Legion,0,-9
+1596,Popular Rage,0,-9
+1597,White Liberation Army,0,-9
+1598,Civil Cooperation Bureau,0,-9
+1599,Resistance Movement,0,-9
+1600,United Somali Congress,0,-9
+1601,Pakistani trained terrorists,0,-9
+1602,Anti-Monarchists,0,-9
+1603,Mozambique Rightest Rebels,0,-9
+1604,Black Tigers,0,-9
+1605,Armenian paramilitary group,0,-9
+1606,Orde Boerevoik,0,-9
+1607,Colombian Revolution,0,-9
+1608,Zulu Militants,0,-9
+1609,Revolutionary Flames,0,-9
+1610,Nestor Paz Zamora Commission (CNPZ),0,-9
+1611,Cyprus Turkish People's Movement,0,-9
+1612,Eva Peron Organization,0,-9
+1613,Ba'adi (on my own behalf),0,-9
+1614,Hubay Qah Group,0,-9
+1615,Communist Warrior's Union,0,-9
+1616,Muslim extremists,1,-9
+1617,Justice and Liberty Warriors,0,-9
+1618,First May Movement,0,-9
+1619,Free Papua Movement (OPM-Organisasi Papua Merdeka),0,-9
+1620,Sinhalese Militants,0,-9
+1621,Resistenza,0,-9
+1622,Bangladesh Nationalist Party (BNP),0,-9
+1623,Sipah-e-Sahaba/Pakistan (SSP),0,-9
+1624,Organization for Zionist Retribution,0,-9
+1625,Corsican National Liberation Front- Historic Channel,0,-9
+1626,Committee for Direct Action Against War,0,-9
+1627,Palestinian support group,0,-9
+1628,Iraqi extremists,1,0
+1629,Popular Liberation Army (Puerto Rico),0,-9
+1630,Inkotanyi,0,-9
+1631,Jamaat-E-Islami (Bangladesh),0,-9
+1632,Panthic Committee,0,-9
+1633,Avenge the Arab Nation,0,-9
+1634,Islamic Revolutionary Command,0,-9
+1635,Christian Liberation Army,0,1
+1636,Tuareg extremists,0,-9
+1637,Tontons Macoutes,0,0
+1638,Islamic Brotherhood,0,-9
+1639,Former Border Policeman,0,-9
+1640,Venceremos,0,-9
+1641,Elements Police Cobra Squadron,0,-9
+1642,Palestinian Extremists,0,-9
+1643,Dacoits,0,-9
+1644,Mong Thai Army (MTA),0,-9
+1645,Turkish Communist Workers Party,0,-9
+1646,Katsina Muslim Society,0,-9
+1647,Thomas Muenzer Wild Band,0,-9
+1648,Communist Guerilla Nuclei,0,-9
+1649,Right-Wing Rebel Military Group,0,-9
+1650,Landless Peasants' Movement (MST),0,-9
+1651,Recontras,0,-9
+1652,Hindu extremists,0,-9
+1653,Armed Falange,0,-9
+1654,Tontons Macoutes,0,-9
+1655,Somali Patriotic Movement,0,-9
+1656,Al-Gama'at al-Islamiyya (IG),0,-9
+1657,Tuareg Guerrillas,0,-9
+1658,Serbs,0,-9
+1659,Serbian rebels,0,-9
+1660,People's Information Group,0,-9
+1661,Miguel d'Escoto Brockman Community Movement,0,-9
+1662,Al-Umar Mujahideen,0,-9
+1663,Jorge Martinez Association of Combatants,0,-9
+1664,Cubans seeking escape from Cuba,0,-9
+1665,Allende Lives Commando,0,-9
+1666,Achwan-I-Mushbani,0,-9
+1667,Venezuela Cartel,0,-9
+1668,Ikhwan-ul-Muslimeen,0,-9
+1669,Kurdish Dissidents,0,-9
+1670,Kurdish Peshmerga Guerrillas,0,-9
+1671,Autonomous Manuel Rodriguez Patriotic Front,0,-9
+1672,Tupac Katari Guerrilla Army (EGTK),0,-9
+1673,Popular Liberation Army (Puerto Rico),0,0
+1674,Popular Revolutionary Commandos,0,-9
+1675,Bangladesh Communist Party,0,-9
+1676,Nahzat e Eslami,0,-9
+1677,Ittehad-i-Islami,0,-9
+1678,Guerilla Party of the Galician Poor,0,-9
+1679,Phillipine Moslems,0,-9
+1680,Serbian extremists,0,-9
+1681,Islamic Salvation Front (FIS),0,-9
+1682,Kurdish Sympathizers,0,-9
+1683,People's Rebellion,0,-9
+1684,Foibe tribe,0,-9
+1685,Banya Tribe,0,-9
+1686,May 36,0,-9
+1687,Chonson Univ. students,0,-9
+1688,"Taikosha, right wing group",0,-9
+1689,Bedouin tribesmen,0,-9
+1690,Kurdish Protestors,0,-9
+1691,Israel Militant,0,-9
+1692,Medellin Drug Cartel,0,-9
+1693,Black Berets,0,-9
+1694,Group for a Strong Revolutionary Movement,0,-9
+1695,All Nepal Free Nationalist Students Union,0,-9
+1696,Serbian guerrillas,0,-9
+1697,Afghan Guerrillas,0,-9
+1698,Iranian extremists,1,0
+1699,Organization for the Defense of Detainees Rights,0,-9
+1700,Kurdish extremists,0,-9
+1701,Awami League,0,-9
+1702,South Ossetian Extremists,0,-9
+1703,Azerbaijan Guerrillas,0,-9
+1704,Skinhead group,0,-9
+1705,All India Anna Dravida Munetra Kazgan Party,0,-9
+1706,Shonkonjuku Group,0,-9
+1707,Mohajir National Movement,0,-9
+1708,Temple Mount Faithful Movement,0,-9
+1709,Communist Party of India- Marxist,0,-9
+1710,Georgian Militants,0,-9
+1711,Kashmiri Hezbollah,0,-9
+1712,Karenni National Progressive Party,0,-9
+1713,Puerto Rican Nationalists,0,1
+1714,Anti-Immigrant extremists,1,0
+1715,Mahaz-e-Milli Islami Afghanistan,0,-9
+1716,Rebel Military Unit,0,-9
+1717,Liberation Youth Coordinating Board,0,-9
+1718,Guerrilla Movement of the Poor (MGP),0,-9
+1719,People's Guerrilla Movement,0,-9
+1720,Armed Gold Miners,0,-9
+1721,Issa and Gurgura Liberation Front,0,-9
+1722,Pathan Tribal Group,0,-9
+1723,Action Group for the Destruction of the Police State,0,-9
+1724,Coup plotters,0,-9
+1725,Iranian exiles,0,-9
+1726,Male supremacists,1,1
+1727,Pirates,0,-9
+1728,Anti-Government Demonstrators,0,-9
+1729,Turkish Islamic Jihad,0,-9
+1730,All Burma Students' Democratic Front (ABSDF),0,-9
+1731,Palestinian Liberation Command,0,-9
+1732,Issui Kai,0,-9
+1733,Kyongbuk University Dental College Students,0,-9
+1734,Al-Adl Wal Ihsane,0,-9
+1735,Lashkari-e-Adam (Army of Adam),0,-9
+1736,Free Fatherland Youth Guerrilla Army,0,-9
+1737,Arakan Rohingy Islamic Front,0,-9
+1738,Opposition Group,0,-9
+1739,Amhara tribal group,0,-9
+1740,Student Demonstrators,0,-9
+1741,Command for National Sovereignty,0,-9
+1742,Movement for Triqui Unification and Struggle,0,-9
+1743,Croatian Militia,0,-9
+1744,Mafia,0,-9
+1745,South Lebanon Army,0,-9
+1746,Former members Central Investigation Office,0,-9
+1747,Tutsi extremists,0,-9
+1748,Tayeb Al-Afghani's Islamist Group,0,-9
+1749,Anti-United States extremists,0,-9
+1750,Russian Militia,0,-9
+1751,Recompras,0,-9
+1752,Front for the Restoration of Unity and Democracy,0,-9
+1753,Movement for the Protection of Jerusalem,0,-9
+1754,Nandi Tribe,0,-9
+1755,Nordisk Rikspartiet (Nordic National Party),0,-9
+1756,Turkish separatists (probably Kurds),0,-9
+1757,Front of Resistance and National Liberation of Albanians,0,-9
+1758,People's Liberation Force,0,-9
+1759,Islamic Revenge Organization,0,-9
+1760,Supporters Opposition Leader Etienne Tshisekedi,0,-9
+1761,Najib Watan Party Faction,0,-9
+1762,Actiefront Nationalistisch Nederland,0,-9
+1763,Striking Minors Group,0,-9
+1764,Hezbollah Palestine,0,-9
+1765,Workers/Employees,0,-9
+1766,Militant Moslem Pilgrims,0,-9
+1767,Jamiat-e Islami-yi Afghanistan,0,-9
+1768,Left wing student group,0,-9
+1769,Islamic Golden Army,0,-9
+1770,Muslim Youth,0,-9
+1771,Libardo Moratoro Front,0,-9
+1772,Revolutionary Security Apparatus,0,-9
+1773,Hasmoneans (Jewish Settler Group),0,-9
+1774,Federation of Students and Scholars of Cote d'Ivoire (FESCI),0,-9
+1775,Zaghawa extremists,0,-9
+1776,Free All Political Prisoners in Holland,0,-9
+1777,Laiq Chanio Group of Dacoit Bandits,0,-9
+1778,God's Oppressed Army,0,-9
+1779,Popular Democratic Movement (MPD),0,-9
+1780,Forum for the Restoration of Democracy-Kenya,0,-9
+1781,Bangladesh National Socialist Party,0,-9
+1782,Great Japan Patriotic Party,0,-9
+1783,Yatama,0,-9
+1784,Ivorian Popular Front,0,-9
+1785,Effiat ethnic roup or Jbibio Peoples,0,-9
+1786,Air and Azawak Liberation Front,0,-9
+1787,Supporters of Ex-President Gamsakhurdial,0,-9
+1788,Rwanda Patriotic Front (RPF),0,-9
+1789,Comando Vermelho (Red Command),0,-9
+1790,Kahane Chai,0,-9
+1791,People's Guerrilla Front,0,-9
+1792,Action Front Nationalist Librium,0,-9
+1793,Hutu extremists,0,-9
+1794,Political Group,0,-9
+1795,Azerbaijan Weapons Smugglers,0,-9
+1796,Yich Telga,0,-9
+1797,Dnestr Republic Separatists,0,-9
+1798,Supporters of leftist Gana-Oikya Front,0,-9
+1799,Turkish radicals,0,-9
+1800,Cambodian guerrillas,0,-9
+1801,National Front Security Service,0,-9
+1802,Yokoku Seiwa-Kai,0,-9
+1803,People's Revolutionary Organization,0,-9
+1804,Shahin (Falcon),0,-9
+1805,Former Govt. Troops,0,-9
+1806,People's Fatherland Movement,0,-9
+1807,Jharkhand Tribal Forces,0,-9
+1808,United Liberation Movement for Democracy in Liberia (ULIMO),0,-9
+1809,Militant Movement for Madagascan Socialism (MMSM),0,-9
+1810,BZers,0,-9
+1811,Basic People's Congresses,0,-9
+1812,Baya Tribe,0,-9
+1813,Anti-Iran Government Exiles,0,-9
+1814,Mujahedin-e Khalq (MEK),0,1
+1815,Anti-govt student groups,0,-9
+1816,Party for the Liberation of the Hutu People (PALIPEHUTU),0,-9
+1817,Sabaot tribesmen,0,-9
+1818,Moslem Paramilitary Group,0,-9
+1819,Association for the Enhancement of the Justice of the Great Japan,0,-9
+1820,Russian separatists,0,-9
+1821,Ethnic Russian Separatists,0,-9
+1822,Oromo Liberation Front,0,-9
+1823,Sabaot Tribe,0,-9
+1824,Dnester region guerrilas,0,-9
+1825,Harakat-i-Inqilahi-i-Islami,0,-9
+1826,Central University students,0,-9
+1827,"Militant Islamic Group, name not stated",0,-9
+1828,Artigas Guard Commando,0,-9
+1829,Red Dawn Front (Frente Amanecer Rojo),0,-9
+1830,Juan Antonio Lavalleja Command,0,-9
+1831,Kolla Benjo Cruz Command,0,-9
+1832,Unemployed Persons,0,-9
+1833,Hamawand Tribe,0,-9
+1834,Anti-government rioters,0,-9
+1835,National Republican Movement for Democracy and Development (MRND),0,-9
+1836,Jamaat-E-Islami (India/Pakistan),0,-9
+1837,Sindhi nationalists,0,-9
+1838,Youth for Revolution,0,-9
+1839,Bodyguards of Muslim Warlord Governor Tupay Loong,0,-9
+1840,Burmese refugees,0,-9
+1841,Latvian Republic Volunteer Troops,0,-9
+1842,Lithuanian Land Guard,0,-9
+1843,Manuel Ascencio Padilla Group,0,-9
+1844,United People's Front,0,-9
+1845,National Democratic Front of Liberia,0,-9
+1846,Katap Ethic Group,0,-9
+1847,Hauso Ethnic Group,0,-9
+1848,Serbian irregulars,0,-9
+1849,Hill Students Council,0,-9
+1850,Smugglers and Elephant Poachers,0,-9
+1851,Chilean Committee of Support for the Peruvian Revolution,0,-9
+1852,Igbo tribal group,0,-9
+1853,Islamic Party of Kenya (IPK),0,-9
+1854,Heroes of Canto Grande,0,-9
+1855,Settlers at Kfar Darom,0,-9
+1856,Albanian exiles,0,-9
+1857,"Supporters, House Speaker Ramon Mitra",0,-9
+1858,Basque extremists,0,-9
+1859,Hezb-e Wahdat-e Islami-yi Afghanistan,0,-9
+1860,Algerian Mujahideen for Muslims,0,-9
+1861,Likud Political Party,0,-9
+1862,Agudat Israel Party,0,-9
+1863,Muslim Demonstrators,0,-9
+1864,Aidid Militia,0,-9
+1865,French National,0,-9
+1866,Communist Trade Union Workers,0,-9
+1867,Islam Liberation Front,0,-9
+1868,Rebels backing deposed Pres. Zviad Gamsakhurdia,0,-9
+1869,Local Residents,0,-9
+1870,Bangladesh Road Transport Workers Federation,0,-9
+1871,Comando Independiente Revolucionario,0,-9
+1872,Tribal Group,0,-9
+1873,Black Malian Group,0,-9
+1874,Opposition movement of Colon Province Unemployed,0,-9
+1875,Bandits,0,-9
+1876,Soskan tribe,0,-9
+1877,Kaitseliit Paramiltary Group,0,-9
+1878,Committee for the Elimination of Killer Collaborators,0,-9
+1879,Servants of Islam Organization,0,-9
+1880,Dnestr Rebels,0,-9
+1881,Jarrai,0,-9
+1882,Sovereign Panama Patriotic Front,0,-9
+1883,Turkish Hezbollah,0,-9
+1884,Georgian extremists,0,-9
+1885,Georgian guerrillas,0,-9
+1886,Hungarian Skin Head Group,0,-9
+1887,Togolese Peoples Rally,0,-9
+1888,Committee for a National Drive for Peace and Democracy,0,-9
+1889,Khmer Bandits,0,-9
+1890,Front for the Liberation of Cabinda / Cabinda Armed Forces (FLEC-FAC),0,-9
+1891,Japan National Youth Alliance,0,-9
+1892,Union of Young Kurdish Revolutionaries,0,-9
+1893,Faqra Tribal Group,0,-9
+1894,Kurdish demonstrators,0,-9
+1895,Somali Gang,0,-9
+1896,Chinese Pirates,0,-9
+1897,Rohingya Solidarity Organization,0,-9
+1898,Protesters,0,-9
+1899,Dissident Military Mmbrs of Northern Tribal Group,0,-9
+1900,War Veterans,0,-9
+1901,Forbid the Evil Group (Muslim Extremists),0,-9
+1902,Khasi Students Union,0,-9
+1903,Panama Defense Force,0,-9
+1904,Abkhazian Separatists,0,-9
+1905,Boz-Ok (Grey Arrow),0,-9
+1906,Somali National Alliance,0,-9
+1907,Revolutionary Bolivariano Movement 200,0,-9
+1908,Congress of Kabardian People,0,-9
+1909,Polish Skinheads,0,-9
+1910,Fuerzas Populares Jose Leonardo Chirinos,0,-9
+1911,Anti Kurdish Workers Party Iraq nationals,0,-9
+1912,All Tripura Tiger Force (ATTF),0,-9
+1913,Grupo Libertad,0,-9
+1914,Supreme Council for Islamic Revolution in Iraq (SCIRI),0,-9
+1915,Red Commandos,0,-9
+1916,National Liberation Front of Tripura (NLFT),0,-9
+1917,October 11 Group,0,-9
+1918,Armed Islamic Movement,0,-9
+1919,Punitive Leftist Front,0,-9
+1920,National Democratic Front of Bodoland (NDFB),0,-9
+1921,Chechen Rebels,0,-9
+1922,Demonstration led by French Anti-Nazi Hunters,0,-9
+1923,Nucleus of Fighting Communists,0,-9
+1924,Dioulas tribal group,0,-9
+1925,Jose Benito Escobar Workers Federation,0,-9
+1926,Moro National Liberation Front Splinter group,0,-9
+1927,Ingush Rebels,0,-9
+1928,Guajajara Tribe,0,-9
+1929,Bharatiya Janata Party,0,-9
+1930,Asylum Seekers,0,-9
+1931,Farighan,0,-9
+1932,Animal Rights extremists,0,0
+1933,Ohabi Islamic Sect,0,-9
+1934,Young Pioneers,0,-9
+1935,Militants of the National Action Party,0,-9
+1936,Bolivarian Army of Liberation,0,-9
+1937,Kenya African National Union (KANU),0,-9
+1938,Iraqi Revolutionary Forces,0,-9
+1939,Gunmen loyal to Mohammad Farah Aideed,0,-9
+1940,Boer Republikeinse Leer,0,-9
+1941,New Patriotic Party (NPP),0,-9
+1942,Greek Anarchists' Union,0,-9
+1943,February 27 Revolutionary Armed Forces,0,-9
+1944,Socialist Recovery Movement,0,-9
+1945,Mexican Revolutionary Movement,0,1
+1946,Farmers,0,-9
+1947,Fourth Reich Skinheads,0,0
+1948,Armed Forces for Liberation of East Timor (FALINTIL),0,-9
+1949,Boricua Revolutionary Front,0,1
+1950,Toposa and Dongiro Tribes,0,-9
+1951,People's Democratic Army,0,-9
+1952,Indipendenza,0,-9
+1953,Democratic Progressive Party,0,-9
+1954,Al-Ittihaad al-Islami (AIAI),0,-9
+1955,Xhosa Tribal Workers,0,-9
+1956,Abkhazian guerrillas,0,-9
+1957,Al-Qaida,0,-9
+1958,Anti-Kurdish Turks,0,-9
+1959,Kotoko Tribal Group,0,-9
+1960,Togolese Dissidents,0,-9
+1961,Maccabee Squad and the Shield of David,0,1
+1962,Kaka-Tribesmen,0,-9
+1963,Nuclei Communist Combattants,0,-9
+1964,Great Eastern Islamic Raiders Front (IBDA-C),0,-9
+1965,Bani Nawaf tribe,0,-9
+1966,Aryan Republican Army,0,0
+1967,Farm Animal Revenge Militia (FARM),0,1
+1968,Revolutionary United Front (RUF),0,-9
+1969,Armed Islamic Group (GIA),0,-9
+1970,Mousa Ismail sub-clan,0,-9
+1971,Abu Sayyaf Group (ASG),0,-9
+1972,"Rival Zulu Group, name not stated",0,-9
+1973,Khalistan Zindabad (Long Live Khalistan),0,-9
+1974,Pro-Palestinian Immigrants,0,-9
+1975,Faithful Resistance,0,-9
+1976,Uganda Democratic Christian Army (UDCA),0,-9
+1977,Anti-Semitic extremists,1,1
+1978,Moslem Activists,0,-9
+1979,Fatah Hawks,0,-9
+1980,Coca Farmers,0,-9
+1981,Manatari Brotherhood,0,-9
+1982,Jihadi-inspired extremists,0,-9
+1983,Revolutionary Front for Hatian Advancement and Progress (FRAPH),0,-9
+1984,Minority Unity Forum,0,-9
+1985,Movement for Dignity and Soverignty,0,-9
+1986,Suriname Liberation Front,0,-9
+1987,Motherland Party,0,-9
+1988,Human Rights Defence Committee,0,-9
+1989,Former Muslim Guerrillas,0,-9
+1990,Taihikai (Great Sadness),0,-9
+1991,Ningo Tribe,0,-9
+1992,Southern Sierra Peasant Organization,0,-9
+1993,The Islamic Movement,0,-9
+1994,Habr Gedir Clan,0,-9
+1995,Naga Students Federation,0,-9
+1996,Popular Liberation Front Urban Commando,0,-9
+1997,Association of Students and Pupils in Mali (AEEM),0,-9
+1998,Zulu Miners,0,-9
+1999,Anti-Fascist Action,0,-9
+2000,Furious Rebellion,0,-9
+2001,Popular Front for the Liberation of the Sahara,0,-9
+2002,Puka Inti Maoist Communist Party,0,-9
+2003,"Ultra Nationalist Group, name not given",0,-9
+2004,Francisco Villa People's Front,0,-9
+2005,Harkat ul Ansar,0,-9
+2006,Former Interior Ministry Officers,0,-9
+2007,Sandval (union) Movement,0,-9
+2008,Sammilito Sangskritik Jote (Alliance of Cultural Forums),0,-9
+2009,Afghan War Veterans,0,-9
+2010,People's National Liberation Movement,0,-9
+2011,David's Sword,0,-9
+2012,Death to the Demobilized Militias,0,-9
+2013,Rival Parts,0,-9
+2014,Mesopotamian Army (MEZOR),0,-9
+2015,Arsonists,0,-9
+2016,Corsican Farmers' Front,0,-9
+2017,Ansar Allah,0,-9
+2018,Islamic Arab Front of Azawad (FIAA),0,-9
+2019,Long-time Muslim immigrants from Bangladesh,0,-9
+2020,Al-Jehad,0,-9
+2021,Colombia Without Guerrillas,0,-9
+2022,Serbian Gangsters,0,-9
+2023,Maoist Farm Laborers Struggle Committee (MXSS),0,-9
+2024,Anti-Revolutionary Agents,0,-9
+2025,U/I Snipers,0,-9
+2026,New Indigenous Army,0,-9
+2027,Palestinian Activists,0,-9
+2028,United Students Forum,0,-9
+2029,Shop owners,0,-9
+2030,Anti-Abortion extremists,1,-9
+2031,Ganda Koi,0,-9
+2032,Movement of the Islamic State (MEI),0,-9
+2033,Korea Univ. Students,0,-9
+2034,Council for Popular Justice,0,-9
+2035,Albatros Commando,0,-9
+2036,Turks of Western Thrace,0,-9
+2037,Lord's Resistance Army (LRA),0,-9
+2038,Bosnian Serbs,0,-9
+2039,Iraqi Islamic Vanguards for National Salvation (IIVNS),0,-9
+2040,Organized Crime,0,-9
+2041,Socialist Chhatra League,0,-9
+2042,National Democratic Party,0,-9
+2043,U/I Asian Gang,0,-9
+2044,Iraqi National Congress (INC),0,-9
+2045,U/I Somali Militiamen,0,-9
+2046,Presidential Movement (MP) Militiamen,0,-9
+2047,U/I Private army of wral politician,0,-9
+2048,Bosnian Croats,0,-9
+2049,Pro-Khasbulaton Rebels,0,-9
+2050,National Liberation People's Front (FPLN),0,-9
+2051,Aristide supporters,0,-9
+2052,Devrimici Halk Kurtulus Cephesi (DHKP/C),0,-9
+2053,U/I Liberian Gunmen,0,-9
+2054,U/I Catholic Traditionalists,0,-9
+2055,Georgian Sabotage Group,0,-9
+2056,Depositers angered,0,-9
+2057,United Action Council,0,-9
+2058,Taxi Drivers,0,-9
+2059,Al-Hadid,0,-9
+2060,Paupa New Guinea Troops,0,-9
+2061,Pro-Aristade,0,-9
+2062,Kuki Tribal Militants,0,-9
+2063,Opposition Jatiya Samajtantrik Del Party,0,-9
+2064,Cleansing Squad,0,-9
+2065,Black African Vigilantes,0,-9
+2066,Fundamentalists,0,-9
+2067,Dignity Command,0,-9
+2068,Indians,0,-9
+2069,White Guard,0,-9
+2070,Army of God,0,-9
+2071,United National Party,0,-9
+2072,Timorese Students,0,-9
+2073,Jaime Bateman Cayon Group (JBC),0,-9
+2074,Union of Peaceful Citizens of Algeria,0,1
+2075,Islamist Sufi Group,0,-9
+2076,Rival Party Members,0,-9
+2077,Rival Soccer Clubs,0,-9
+2078,Squatters,0,-9
+2079,Shangytown residents,0,-9
+2080,Congress Party Activists,0,-9
+2081,Malitia-Pro Govt,0,-9
+2082,Bihar People's  Party (Hindu militants),0,-9
+2083,King Street,0,-9
+2084,Kim Pyongnil Supporters,0,-9
+2085,Alex Boncayao Brigade (ABB),0,-9
+2086,Shining Path (SL),0,1
+2087,El Mico Rebel Gray,0,-9
+2088,Krikapi Indians,0,-9
+2089,Civilians Seeking Revenge,0,-9
+2090,Attaches,0,-9
+2091,State Council of Indian and Peasant Organization,0,-9
+2092,Committee of Coordination,0,-9
+2093,Paramilitaries,0,-9
+2094,Macetos (Paramilitary Group),0,-9
+2095,Namchong-Nyon Students,0,-9
+2096,Pareci Indians,0,-9
+2097,Anti-Imperialist Cell (AIZ),0,-9
+2098,Association of Demobilized Armed Forces,0,-9
+2099,Concerned citizens,0,-9
+2100,People's Alliance,0,-9
+2101,Ninjas,0,-9
+2102,Democratic Karen Buddhist Army (DKBA),0,-9
+2103,Former Soldiers/Police,0,-9
+2104,Right-Wing Youths,0,-9
+2105,Afghan Merceneries,0,-9
+2106,Islamic Renewal Movement,0,-9
+2107,Egyptians,0,-9
+2108,Anti-Narita Extremists,0,-9
+2109,Shanty Dwellers,0,-9
+2110,Central American Movement of Solidarity (MOSCA),0,-9
+2111,Democratic Front for Renewal (FDR),0,-9
+2112,Opossition 48 hour general strikers,0,-9
+2113,Kenyan rebels from Uganda,0,-9
+2114,Right-Wing Paramilitaries,0,-9
+2115,Nomadic AFARS,0,-9
+2116,Movement for Democracy and Development (MDD),0,-9
+2117,Burmese Minority Group Pirates,0,-9
+2118,National Democratic Alliance (NDA),0,-9
+2119,Zairian Dissidents,0,-9
+2120,Hutus Former Soldiers,0,-9
+2121,Algeisk Wolves,0,-9
+2122,All-Party Students Union,0,-9
+2123,Jewish Fighting Organization (Eyal),0,0
+2124,Khun Sa Guerrillas,0,-9
+2125,Kalpar Tribesmen,0,-9
+2126,Local landlord employee,0,-9
+2127,Taliban,0,-9
+2128,Peasant Self-Defense Group (ACCU),0,-9
+2129,Hiroyuki Jo,0,-9
+2130,Mazari Tribesmen,0,-9
+2131,Liberia Peace Council,0,-9
+2132,Tulawie Clan,0,-9
+2133,Union members,0,-9
+2134,Boer Sentries,0,-9
+2135,M-19 Splinter,0,-9
+2136,Supporters of opposing candidate Abdu Sakurtan,0,-9
+2137,Kuki tribesmen,0,-9
+2138,Vietnamese Detainees,0,-9
+2139,Bavarian Liberation Army,0,-9
+2140,Belarusian Liberation Army,0,-9
+2141,Tribal Clash,0,-9
+2142,Animal Liberation Front (ALF),0,0
+2143,Pacific Popular Front,0,-9
+2144,Sandinista Protester,0,-9
+2145,United Wa State Army,0,-9
+2146,St. Kitts Nevis Labor Party,0,-9
+2147,Huria Kristen Batak Protestan (HKBP),0,-9
+2148,Professional Killers,0,-9
+2149,Rival Bangledesh Chhatra League Faction,0,-9
+2150,U/I Militia Group led by Raul Martinez,0,-9
+2151,Chinese Mafia,0,-9
+2152,National Accord Movement,0,-9
+2153,Al-Faran,0,-9
+2154,Purbo Banglar Communist Party,0,-9
+2155,Students  U of PNG,0,-9
+2156,Party for Democracy anti-nuclear-test protesters,0,-9
+2157,Armed Forces for a Federal Republic (FARF),0,-9
+2158,Israeli extremists,1,-9
+2159,Tripura Separatists,0,-9
+2160,Anti-Establishment Nucleus,0,-9
+2161,Tanzeem Ittehad - I - Ulema Qabail (Tiuq)Tribesmen,0,-9
+2162,Commandos for A Popular alternative,0,-9
+2163,Islamic Salvation Front (Palestine),0,-9
+2164,Revolutionary Voice of the People (VPR),0,-9
+2165,U/I Islamic Separatists,0,-9
+2166,Miscreants,0,-9
+2167,H-World/Heavenly Group,0,-9
+2168,Kurdish Islamic Unity Party,0,-9
+2169,Cuncolta Naziunalista,0,-9
+2170,Movement for Self-Determination,0,-9
+2171,Asbat al-Ansar,0,-9
+2172,Pro-Government Students,0,-9
+2173,Lavalas Supporters,0,-9
+2174,Peasant Squatters,0,-9
+2175,Dukhta-ran-e-Millat,0,-9
+2176,E. Timorese Youths,0,-9
+2177,Leftist youths,0,-9
+2178,Tamil Nadu Liberation Army,0,-9
+2179,Rival Activists,0,-9
+2180,Anti-Abortion extremists,1,1
+2181,Islamic Revival Movement,0,-9
+2182,Sons of the Gestapo,0,-9
+2183,Pro-Indonesia extremists,0,-9
+2184,Algerian Moslem Fundamentalists,0,-9
+2185,Slum Dwellers,0,-9
+2186,Disgruntled Petroecuador workers,0,-9
+2187,Supporters of Second Prime Minister Hun Sen,0,-9
+2188,Former Student Hostel,0,-9
+2189,leftist guerrillas-Bolivarian militia,0,-9
+2190,Dignity for Colombia,0,-9
+2191,Ethiopians,0,-9
+2192,International Justice Group (Gama'a al-Adela al-Alamiya),0,-9
+2193,Strike Enforcers,0,-9
+2194,Supporters of President J-B Aristide,0,-9
+2195,Evangelical Christians,0,-9
+2196,Jammu and Kashmir Islamic Front,0,-9
+2197,Anti - Election Demonstrators,0,-9
+2198,Civil War Veterans,0,-9
+2199,U/l men,0,-9
+2200,Charlot Jacquelin Militant Front,0,-9
+2201,Pro-State Militiamen,0,-9
+2202,Direct Action Against Drugs (DADD),0,-9
+2203,Cell for Internationalism,0,-9
+2204,Inkatha Freedom Party (IFP),0,0
+2205,Anti-Nuclear Society for a Silent Counter-Offensive (ANGST),0,-9
+2206,Chechen Lone Wolf Group,0,-9
+2207,National Council of Maubere Resistance,0,-9
+2208,Chechen Rebels,0,1
+2209,United Front for Nigeria's Liberation (UFNL),0,-9
+2210,Student Militants,0,-9
+2211,Karnataka State Farmers Association,0,-9
+2212,Rival peasant band,0,-9
+2213,Rival Afghan Group,0,-9
+2214,Kosovo Liberation Army (KLA),0,-9
+2215,Islamic Front for the Liberation of Bahrain,0,-9
+2216,U/I Liberians,0,-9
+2217,Social Christian Party (PSC),0,-9
+2218,Thavar Caste,0,-9
+2219,Palestinian Islamic Jihad (PIJ),0,0
+2220,Rival caste,0,-9
+2221,Irianese Tribesmen,0,-9
+2222,Militant Peasants (NFI),0,-9
+2223,Local Extremist,0,-9
+2224,Bani Hilal Tribe,0,-9
+2225,Phineas Priesthood,0,1
+2226,National Socialist Underground,0,0
+2227,Sudan Alliance Forces,0,-9
+2228,GN-95,0,-9
+2229,Gun runners,0,-9
+2230,Black Mambas,0,-9
+2231,Unidentified Infiltrators,0,-9
+2232,Organization 544,0,-9
+2233,Labor Union Leaders,0,-9
+2234,Islamic Movement of Martyrs,0,-9
+2235,Nihilists Faction,0,-9
+2236,West Nile Bank Front (WNBF),0,-9
+2237,Ikhwan Jammu and Kashmir,0,-9
+2238,Last Alternative Guerrilla Front,0,-9
+2239,Cambodian Gunmen,0,-9
+2240,Jagrata Towhidi Janata (Rising Faithfuls),0,-9
+2241,Saudi Hezbollah,0,-9
+2242,Viviana Gallardo Command,0,-9
+2243,Afridi Tribe,0,-9
+2244,Turkish Revenge Brigade,0,-9
+2245,Ranbir Sena,0,-9
+2246,Phineas Priesthood,0,0
+2247,Continuity Irish Republican Army (CIRA),0,-9
+2248,Popular Revolutionary Army (Mexico),0,-9
+2249,Kaingang Indians,0,-9
+2250,Uighur Separatists,0,-9
+2251,Chinese Illegal Immigrant,0,-9
+2252,Self Defense Forces,0,-9
+2253,Unarmed Algerian,0,-9
+2254,Comando Bautista B,0,-9
+2255,Lebanese male,0,-9
+2256,Peasant protesters,0,-9
+2257,Shinwari Tribe,0,-9
+2258,Hanchongryun,0,-9
+2259,Lashkar-e-Jhangvi,0,-9
+2260,Bharat Zinc Workers,0,-9
+2261,Kidnapping gang,0,-9
+2262,Sipah-I-Mohammed,0,-9
+2263,Jatav Caste,0,-9
+2264,All Karanataka Youth Council,0,-9
+2265,Ujjan Tribe,0,-9
+2266,Beja Congress,0,-9
+2267,Bahujan Samaj Party,0,-9
+2268,The Organization for the Return of Legality,0,-9
+2269,Lufa Tribesmen,0,-9
+2270,Ethiopian Dongiro tribesmen,0,-9
+2271,Anti-Bhutto demonstrators,0,-9
+2272,National Renewal Party,0,-9
+2273,Lord's Resistance Army (LRA),0,0
+2274,Vanuatu Mobile Force (VMF),0,-9
+2275,Al-Toaiman Tribesmen,0,-9
+2276,Guaycaipuro Indians,0,-9
+2277,National Council for Defense of Democracy (NCDD),0,-9
+2278,Jamiat ul-Mujahedin (JuM),0,-9
+2279,Earth Liberation Front (ELF),0,1
+2280,Earth Liberation Front (ELF),0,0
+2281,Indian Tigers,0,-9
+2282,Uganda Federal Democratic Alliance (UFEDA),0,-9
+2283,Fighting Guerrilla Formation,0,-9
+2284,Children of November,0,-9
+2285,Ticuna Indian,0,-9
+2286,Revolted Persons of the Polytech School,0,-9
+2287,Demonstrators,0,-9
+2288,"National United Front for an Independent, Neutral, Peaceful, and Cooperative Cambodia (FUNCINPEC)",0,-9
+2289,National People's Movement Coordination Committee,0,-9
+2290,Tajik Rebels,0,-9
+2291,Al-Masni Tribe,0,-9
+2292,Revolutionary Nuclei,0,-9
+2293,Lashkar-e-Taiba (LeT),0,0
+2294,Bodo Liberation Tigers (BLT),0,-9
+2295,Islamic Movement for Change,0,-9
+2296,Justice Army for Defenseless Peoples,0,-9
+2297,Boere Aanvals Troepe (BAT),0,-9
+2298,Bosnian refugee,0,-9
+2299,Islamist extremists,0,0
+2300,Danish Neo-Nazi Group,0,-9
+2301,Civil Servants and Unionists,0,-9
+2302,Kamal Boulander Group,0,-9
+2303,Pakistan Muslim League (PML),0,-9
+2304,Institutional Revolutionary Party (PRI),0,-9
+2305,Cambodian People's Party (CPP),0,-9
+2306,Revolutionary Proletarian Army,0,-9
+2307,Communist Party of Nepal- Maoist (CPN-M),0,-9
+2308,Tribesmen Murad Tribe,0,-9
+2309,Ashuar Tribe,0,-9
+2310,Death to Rustlers,0,-9
+2311,Anonima Sequestri,0,-9
+2312,Catholic E. Timurese,0,-9
+2313,Allied Democratic Forces (ADF),0,-9
+2314,Maori,0,-9
+2315,Vietnamese,0,-9
+2316,Buddhist Monks,0,-9
+2317,Koreans,0,-9
+2318,Hamas (Islamic Resistance Movement),0,1
+2319,Jihad Islamic League Front,0,-9
+2320,Muslim Rebels,0,0
+2321,Armed Islamic Group (GIA),0,0
+2322,Columbia PM,0,-9
+2323,Timorese guerrillas,0,-9
+2324,Guatemalan hired assasins,0,-9
+2325,Pataxo Indians,0,-9
+2326,Republic of Texas,0,-9
+2327,Tribal guerrillas,0,-9
+2328,Loyalist Volunteer Forces (LVF),0,-9
+2329,Tehrik al-Mojahedin,0,-9
+2330,Communist Party of Nepal- Unified Marxist-Leninist (CPN-UML),0,-9
+2331,Turkish radicals,1,1
+2332,Nepali Congress Party (NC),0,-9
+2333,Guerrilla Command Force 97,0,-9
+2334,Elos security firm,0,-9
+2335,Republican Anticlerical Group,0,-9
+2336,Massive escape,0,-9
+2337,Revolutionary Military Council,0,-9
+2338,"Raul Ernesto Cruz Leon, Salvadorian",0,-9
+2339,Sagrado Corazon Fanatic Group,0,-9
+2340,Andres Castro United Front,0,-9
+2341,Northern Diriangen Front (FND),0,-9
+2342,Al-Yemenia al-Ulia Tribesmen,0,-9
+2343,We Who Built Sweden,0,-9
+2344,Tamil Liberation Army,0,-9
+2345,Rahanwein Resistance Army (RRA),0,-9
+2346,White Legion (Georgia),0,-9
+2347,Modakeke Ethnics,0,-9
+2348,Majerten clansmen,0,-9
+2349,Korubo Tribe,0,-9
+2350,Rival clan,0,-9
+2351,Convention of Liberal Reformers (CLR),0,-9
+2352,Che Guevara Guerrillas,0,-9
+2353,Serb demonstrators,0,-9
+2354,Sa'ad Militia,0,-9
+2355,Rizvon Sadirov Group,0,-9
+2356,Filipino Soldiers for the Country,0,-9
+2357,Saharan Revolutionary Armed Front (FARS),0,-9
+2358,Jordanian Islamic Resistance,0,-9
+2359,Grupo de Combatientes Populares,0,-9
+2360,Commander Luciano Varela Antiguerrilla Group,0,-9
+2361,Bin Zabyan Tribesmen,0,-9
+2362,Shahid Khalsa Force,0,-9
+2363,Revolutionary Struggle,0,-9
+2364,Brelvi Muslims,0,-9
+2365,Islamic Jihad Organization (Yemen),0,-9
+2366,"Tribesmen, al-Itada",0,-9
+2367,Retired Soldier,0,-9
+2368,Kamajor Hunters,0,-9
+2369,National Liberation Front of Tripura (NLFT),0,0
+2370,Revolutionary Combat Brigades,0,-9
+2371,Party Unity,0,-9
+2372,Supporters of ret. Gen. Lino Oviedo,0,-9
+2373,Activists,0,-9
+2374,Youth Gang,0,-9
+2375,Modakeke Ethnic Activists,0,-9
+2376,Al-Sunni muslim sect,0,-9
+2377,Kisii Activists,0,-9
+2378,People's Militia of Dagestan,0,-9
+2379,People's Revolutionary Army (ERP),0,-9
+2380,Maasai,0,-9
+2381,National Development Party (NDP),0,-9
+2382,Hutu extremists,0,0
+2383,Loyalist Volunteer Forces (LVF),0,1
+2384,Kosovo Liberation Army (KLA),0,1
+2385,Continuity Irish Republican Army (CIRA),0,1
+2386,Fighting Guerrilla Formation,0,0
+2387,Lashkar-e-Jhangvi,0,1
+2388,Algerian Islamic Extremists,0,0
+2389,May 15,0,1
+2390,Alex Boncayao Brigade (ABB),0,1
+2391,Irish National Liberation Army (INLA),0,1
+2392,Irish National Liberation Army (INLA),0,0
+2393,Harkat ul Ansar,0,1
+2394,Continuity Irish Republican Army (CIRA),0,0
+2395,Conscientious Arsonists (CA),0,1
+2396,Revolutionary Workers' Council (Kakurokyo),0,1
+2397,United Liberation Front of Assam (ULFA),0,0
+2398,Union of Democratic Forces,0,1
+2399,Corsican National Liberation Front (FLNC),0,1
+2400,Irish Republican Army (IRA),0,0
+2401,Ninjas,0,0
+2402,Palestinian Extremists,0,0
+2403,Unknown,1,1
+2404,Pattani United Liberation Organization (PULO),0,0
+2405,Al-Ummah,0,0
+2406,Shining Path (SL),0,0
+2407,National Union for the Total Independence of Angola (UNITA),0,0
+2408,Allied Democratic Forces (ADF),0,0
+2409,Zviadists,0,1
+2410,Revolutionary Armed Forces of Colombia (FARC),0,0
+2411,Abu Sayyaf Group (ASG),0,0
+2412,Democratic Karen Buddhist Army (DKBA),0,0
+2413,November 17 Revolutionary Organization (N17RO),0,0
+2414,First of October Antifascist Resistance Group (GRAPO),0,1
+2415,Sipah-e-Sahaba/Pakistan (SSP),0,0
+2416,Al-Gama'at al-Islamiyya (IG),0,0
+2417,Revolutionary Armed Forces of Colombia (FARC),0,1
+2418,Muttahida Qami Movement (MQM),0,0
+2419,Kurdistan Workers' Party (PKK),0,0
+2420,Supporters of Ali Mahdi Mohammed,0,0
+2421,Khmer Rouge,0,0
+2422,14 K Triad,0,0
+2423,National Liberation Army of Colombia (ELN),0,0
+2424,Chechen Rebels,0,0
+2425,May 98,0,1
+2426,Popular Revolutionary Army (Mexico),0,1
+2427,Basque Fatherland and Freedom (ETA),0,1
+2428,Revolutionary Nuclei,0,1
+2429,Loyalist Volunteer Forces (LVF),0,0
+2430,Real Irish Republican Army (RIRA),0,0
+2431,Revolutionary Struggle,0,1
+2432,White Legion (Georgia),0,0
+2433,Hamas (Islamic Resistance Movement),0,0
+2434,Corsican National Liberation Front- Historic Channel,0,1
+2435,Popular Revolutionary Army (Mexico),0,0
+2436,Anti-Christian extremists,1,1
+2437,Arsonists for Social Cohesion,0,1
+2438,Bodo Liberation Tigers (BLT),0,0
+2439,Revolutionary United Front (RUF),0,0
+2440,Real Irish Republican Army (RIRA),0,1
+2441,Hizbul Mujahideen (HM),0,0
+2442,Grey Wolves,0,0
+2443,Al-Qaida,0,1
+2444,People's War Group (PWG),0,0
+2445,Kurdish Democratic Party-Iraq (KDP),0,0
+2446,Banyamulenge rebels,0,0
+2447,Kosovo Liberation Army (KLA),0,0
+2448,Muslims Against Global Oppression (MAGO),0,1
+2449,Devrimici Halk Kurtulus Cephesi (DHKP/C),0,1
+2450,Wolves of Islam,0,1
+2451,Turkish Communist Party/Marxist (TKP-ML),0,0
+2452,Abu Nidal Organization (ANO),0,1
+2453,Naxalites,0,0
+2454,Palestinian Extremists,0,1
+2455,National Democratic Front of Bodoland (NDFB),0,0
+2456,Congolese Democratic Coalition,0,1
+2457,Movement of Democratic Forces of Casamance,0,0
+2458,Popular Liberation Army (EPL),0,1
+2459,Moro Islamic Liberation Front (MILF),0,0
+2460,National Liberation Army of Colombia (ELN),0,1
+2461,Partisan Sharpshooters,0,1
+2462,Peasant Self-Defense Group (ACCU),0,0
+2463,Israeli settlers,0,1
+2464,Party for the Liberation of the Hutu People (PALIPEHUTU),0,0
+2465,Breton Liberation Front (FLB),0,1
+2466,Tribesmen,0,0
+2467,Supporters of Colonel Mahmud Khudoyberdiyev,0,0
+2468,First of October Antifascist Resistance Group (GRAPO),0,0
+2469,Orange Volunteers (OV),0,1
+2470,Robin Food,0,0
+2471,Gunmen,0,0
+2472,Tigers,0,1
+2473,Kurdistan Workers' Party (PKK),0,1
+2474,Muslim extremists,0,0
+2475,Islamic Jihad Organization (Yemen),0,1
+2476,Right-Wing Death Squad,0,0
+2477,Rebels,0,0
+2478,Fight Against Authority,0,1
+2479,Lashkar-e-Jhangvi,0,0
+2480,Mahdaviyat,0,0
+2481,Armed Forces Revolutionary Council (AFRC),0,0
+2482,Children of November,0,1
+2483,Separatists,0,0
+2484,Matan Abdulle,0,0
+2485,Vishwa Hindu Parishad (VHP),0,0
+2486,People Against Gangsterism and Drugs (PAGAD),0,0
+2487,Red Hand Defenders (RHD),0,1
+2488,Support of Ocalan-The Hawks of Thrace,0,1
+2489,Sword of Islam,0,0
+2490,Ranbir Sena,0,1
+2491,Albanian extremists,0,0
+2492,New People's Army (NPA),0,1
+2493,Sudan People's Liberation Army (SPLA),0,0
+2494,Ansar Sarallah,0,1
+2495,Salafist Group for Preaching and Fighting (GSPC),0,0
+2496,Mazdoor Kisan Sangram Samiti (MKSS),0,0
+2497,Turkish Communist Party/Marxist (TKP-ML),0,1
+2498,Harkatul Jihad-e-Islami,0,0
+2499,The Extraditables,0,0
+2500,The Front for the Liberation of the Cabinda Enclave - Renewed (FLEC),0,1
+2501,Maoists,0,0
+2502,Georgian extremists,0,0
+2503,Basque extremists,0,0
+2504,Ulster Volunteer Force (UVF),0,0
+2505,Maoist Communist Center (MCC),0,0
+2506,Comite d'Action Viticole,0,1
+2507,Anti-Environmentalists,1,0
+2508,People's Liberation Army (India),0,0
+2509,SKIF Detachment,0,1
+2510,National Democratic Alliance of Sudan,0,0
+2511,Pemuda Pancasila,0,1
+2512,New People's Army (NPA),0,0
+2513,New Revolutionary Alternative (NRA),0,1
+2514,Association of Mobil Spill Affected Communities (AMSAC),0,1
+2515,Anti-Imperialist Commando,0,1
+2516,Neo-Nazi extremists,1,1
+2517,CSS Movement,0,0
+2518,Anti-Racist Guerrilla Nuclei,0,1
+2519,Red Line,0,0
+2520,Purbo Banglar Communist Party,0,0
+2521,Jarrai,0,0
+2522,Loyalists,0,0
+2523,Aitarak Militia,0,0
+2524,Besi Merah Putih Militia,0,0
+2525,People's Liberation Organization of Tamil Eelam,0,0
+2526,Anti-Independence extremists,0,0
+2527,Red Brigades Fighting Communist Party (BR-PCC),0,1
+2528,People's Sovereignty Party (PDR),0,0
+2529,National Army for the Liberation of Uganda (NALU),0,1
+2530,Supporters of Ernest Wamba dia Wamba,0,0
+2531,Left-wing extremists,0,0
+2532,Red Hand Defenders (RHD),0,0
+2533,United Self Defense Units of Colombia (AUC),0,0
+2534,Fatherland,0,1
+2535,Mozambique National Resistance Movement (MNR),0,0
+2536,Front for the Liberation of the Enclave of Cabinda (FLEC),0,0
+2537,Guadalcanal Liberation Army,0,0
+2538,Kach,0,1
+2539,Iraqi Islamic Vanguards for National Salvation (IIVNS),0,1
+2540,Serbian extremists,0,0
+2541,Anti-Semitic extremists,1,0
+2542,Ijaw extremists,0,0
+2543,Free Aceh Movement (GAM),0,0
+2544,Karen National Union,0,0
+2545,Albanian extremists,1,0
+2546,Human Rights Renewal Movement (Renovacion por los Derechos Humanos),0,0
+2547,Ariska Brodraskapet (Aryan Brotherhood),0,0
+2548,Hells Angels,0,0
+2549,World Church of the Creator,0,0
+2550,Free Papua Movement (OPM-Organisasi Papua Merdeka),0,0
+2551,Separatists,0,1
+2552,Anti-State Proletarian Nuclei,0,1
+2553,Movement for Democracy and Justice in Chad (MDJT),0,1
+2554,Lashkar-e-Taiba (LeT),0,1
+2555,Mahidi,0,0
+2556,Supporters of Pascal Lissouba,0,0
+2557,The Northern Alliance (or United Islamic Front for Salvation of Afghanistan - UIFSA),0,0
+2558,Jaime Bateman Cayon Group (JBC),0,0
+2559,The Justice Department,0,1
+2560,Dima Halao Daoga (DHD),0,0
+2561,Irish Republican Extremists,0,0
+2562,Ulster Freedom Fighters (UFF),0,0
+2563,Khalistan Liberation Force,0,1
+2564,National Liberation Front of Tripura (NLFT),0,1
+2565,Hizbul Mujahideen (HM),0,1
+2566,Muslim extremists,0,1
+2567,National Organization of Cypriot Fighters (EOKA),0,0
+2568,Right-Wing Paramilitaries,0,0
+2569,Tupamaro Revolutionary Movement,0,1
+2570,Adan Abyan Islamic Army (AAIA),0,1
+2571,White supremacists/nationalists,1,1
+2572,Pro-Indonesia extremists,0,0
+2573,Israeli extremists,0,0
+2574,Karen National Union,0,1
+2575,Devrimici Halk Kurtulus Cephesi (DHKP/C),0,0
+2576,United Self Defense Units of Colombia (AUC),0,1
+2577,Armata di Liberazione Naziunale (ALN),0,1
+2578,Ummah Liberation Army,0,0
+2579,Free Aceh Movement (GAM),0,1
+2580,Communist Party of India- Marxist-Leninist,0,0
+2581,Armata di Liberazione Naziunale (ALN),0,0
+2582,Union of Revolutionary Communists in Turkey (TIKB),0,0
+2583,Tribal guerrillas,0,1
+2584,Harakat ul-Mujahidin (HuM),0,1
+2585,Andres Castro United Front,0,0
+2586,Vigorous Burmese Student Warriors,0,-9
+2587,Sunni Muslim extremists,0,0
+2588,All Tripura Tiger Force (ATTF),0,0
+2589,Friendly Company,0,1
+2590,Popular Liberation Army (EPL),0,0
+2591,East Turkistan Liberation Organization,0,1
+2592,Great Eastern Islamic Raiders Front (IBDA-C),0,1
+2593,Pro-Pakistani extremists,0,0
+2594,Gazteriak,0,0
+2595,Fatherland and Liberty Nationalist Front (FNPL - Frente Nacionalista Patria y Libertad FNPL),0,0
+2596,Paramilitaries,0,0
+2597,National Council for Defense of Democracy (NCDD),0,0
+2598,Supporters of Johnny Paul Koroma,0,0
+2599,Amal,0,1
+2600,The Justice Department,0,0
+2601,Mujahedin-e Khalq (MEK),0,0
+2602,Angry Brigade (Italy),0,0
+2603,Bani Jaber tribe,0,1
+2604,Armenian nationalists,1,0
+2605,Youth of Islamic Awakening,0,1
+2606,Anti-State Action,0,1
+2607,Ijaw extremists,0,1
+2608,Anti-Capitalist Action,0,1
+2609,Corsican National Liberation Front (FLNC),0,0
+2610,Al-Ittihaad al-Islami (AIAI),0,0
+2611,Ijaw extremists,0,-9
+2612,Egbesu Youths of the Bayelsa,0,0
+2613,Moro Islamic Liberation Front (MILF),0,1
+2614,Zionist Resistance Fighters,0,0
+2615,Anti-Zionist Movement,0,1
+2616,Clandestini Corsi,0,1
+2617,Anti-Zionist Movement,0,0
+2618,Militants,0,0
+2619,Al-Nawaz,0,1
+2620,National Socialist Council of Nagaland,0,0
+2621,Bengali Tiger Force (BTF),0,0
+2622,Beli Orlovi (White Eagles),0,1
+2623,Harakat ul-Mujahidin (HuM),0,0
+2624,Colombian Patriotic Resistance,0,1
+2625,Earth Liberation Front (ELF),0,-9
+2626,Tamils,0,0
+2627,Autonomous Decorators,0,0
+2628,Asbat al-Ansar,0,0
+2629,Anarchist Faction for Subversion,0,1
+2630,Al-Qaida,0,0
+2631,Anarchists,0,0
+2632,Allied Democratic Forces (ADF),0,1
+2633,Odua Peoples' Congress (OPC),0,0
+2634,Revolutionary Leninist Brigades,0,1
+2635,28s,0,0
+2636,Beja Congress,0,1
+2637,November 19 Anarchist Faction,0,1
+2638,God's Army,0,0
+2639,Insurgents,0,0
+2640,Militia Members,0,0
+2641,Guerrillas,0,0
+2642,Erotic Anti-authority Cells,0,1
+2643,National Liberation Army (Ecuador),0,0
+2644,Communist Party of Nepal- Maoist (CPN-M),0,0
+2645,National People's Party (Rashtriya Janata Dal - RJD),0,0
+2646,Grupo de Combatientes Populares,0,1
+2647,Muslim Militants,0,0
+2648,Tribesmen,0,1
+2649,Anti-White extremists,1,0
+2650,Squadrons of Terror (Katibat El Ahoual),0,0
+2651,Breton Liberation Front (FLB),0,0
+2652,Serb Radical Party,0,0
+2653,Tamil Nadu Liberation Army,0,1
+2654,Terena Indians,0,1
+2655,Shia Muslim extremists,0,0
+2656,Moro National Liberation Front (MNLF),0,0
+2657,Coalition to Save the Preserves (CSP),0,1
+2658,Last Generation,0,1
+2659,Iparretarrak (IK),0,1
+2660,Jaish-e-Mohammad (JeM),0,0
+2661,Iconoclasts,0,1
+2662,Karbi National Volunteers (KNV),0,0
+2663,Abu Sayyaf Group (ASG),0,1
+2664,Revolutionary Perspective,0,1
+2665,Revolutionary United Front (RUF),0,1
+2666,Beja Congress,0,0
+2667,Turkish Hezbollah,0,0
+2668,Revenge of the Trees,0,1
+2669,Otpor,0,0
+2670,Borana bandits,0,0
+2671,Supreme Council for Islamic Revolution in Iraq (SCIRI),0,0
+2672,Supporters of General Lino Oviedo,0,1
+2673,National Front Against Tigers (NFAT),0,1
+2674,Environmentalists,1,0
+2675,Jaish-e-Mohammad (JeM),0,1
+2676,November 17 Revolutionary Organization (N17RO),0,1
+2677,Hindu extremists,0,0
+2678,Salafist Group for Preaching and Fighting (GSPC),0,1
+2679,Fighters of Democratic Latvia,0,1
+2680,Zimbabwe African Nationalist Union (ZANU),0,0
+2681,National Front Against Tigers (NFAT),0,0
+2682,International Solidarity,0,1
+2683,Protestant extremists,0,0
+2684,Civil Defense Force (CDF),0,-9
+2685,Revolutionary Proletarian Initiative Nuclei (NIPR),0,1
+2686,Al-Ma'unah,0,0
+2687,Party for the Liberation of the Hutu People (PALIPEHUTU),0,1
+2688,Kamtapur Liberation Organization (KLO),0,0
+2689,Baby Liberation Army,0,1
+2690,Salafist Group for Preaching and Fighting (GSPC),0,-9
+2691,Jamaat-E-Islami (Bangladesh),0,0
+2692,People's War Group (PWG),0,1
+2693,Fuerzas Armadas Revolucionarias del Pueblo (FARP),0,1
+2694,Fundamentalists,0,0
+2695,Neo-Nazi extremists,1,0
+2696,Ejercito Revolucionario Guevarista (Guevarist Revolutionary Army),0,0
+2697,Anti-Government extremists,0,0
+2698,Anarchists,0,1
+2699,Bandits,0,1
+2700,Jemaah Islamiya (JI),0,0
+2701,Tribal Group,0,0
+2702,Armed People,0,0
+2703,Islamic Movement of Uzbekistan (IMU),0,0
+2704,Youths,0,0
+2705,Black Star,0,1
+2706,Armata Corsa,0,1
+2707,Anarchist Struggle,0,1
+2708,West Side Boys,0,0
+2709,Villagers,0,1
+2710,Chukakuha (Middle Core Faction),0,0
+2711,Militants,0,1
+2712,Former Soldiers/Police,0,0
+2713,Bandits,0,0
+2714,Hutus Former Soldiers,0,0
+2715,Skinheads,0,0
+2716,Ranbir Sena,0,0
+2717,National Socialist Underground,0,1
+2718,National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM),0,0
+2719,Iraqi extremists,1,1
+2720,Isatabu Freedom Movement (IFM),0,1
+2721,Miscreants,0,0
+2722,Real Irish Republican Army (RIRA),0,-9
+2723,Government Supporters,0,0
+2724,Mungiki Sect,0,-9
+2725,Uighur Liberation Organization,0,0
+2726,Ulster Volunteer Force (UVF),0,1
+2727,Anti-Communist Command (KAK),0,1
+2728,Federation of Students and Scholars of Cote d'Ivoire (FESCI),0,0
+2729,Communist Party of India- Marxist-Leninist,0,-9
+2730,Akhilesh Singh Gang,0,0
+2731,Umar al-Mukhtar Martyr Forces,0,1
+2732,Corsican Separatists,0,1
+2733,Iparretarrak (IK),0,0
+2734,United Bengali Liberation Front (UBLF),0,0
+2735,Rebel Military Unit,0,1
+2736,Al-Aqsa Martyrs Brigade,0,1
+2737,Rebel Military Unit,0,0
+2738,U/I Somali Militiamen,0,0
+2739,The Husayn Ubayyat Martyrs' Brigades,0,1
+2740,Al-Zaidi Tribe - Mareb,0,0
+2741,National Bolshevik Party (Partiya Natsionalnikh Bolshevikov - PNB),0,0
+2742,Palestinian Hezbollah,0,1
+2743,The Islamic Revolution to Liberate Palestine,0,1
+2744,Cambodian Freedom Fighters (CFF),0,0
+2745,Muslims,0,0
+2746,All Tripura Tiger Force (ATTF),0,1
+2747,U/I Liberian Gunmen,0,0
+2748,Civil War Veterans,0,0
+2749,Palestinians,0,0
+2750,Kashmiri extremists,0,0
+2751,Jordanian Islamic Resistance,0,1
+2752,Takfir wal-Hijra (Excommunication and Exodus),0,0
+2753,Allied Democratic Forces of Guinea (RDFG),0,1
+2754,Islamic Defenders' Front (FPI),0,0
+2755,Algerian Moslem Fundamentalists,0,0
+2756,Right-wing extremists,1,-9
+2757,Jamiat ul-Mujahedin (JuM),0,1
+2758,Anarchists Attack Team,0,1
+2759,Popular Resistance Committees,0,1
+2760,Intifada Martyrs,0,1
+2761,Rastas,0,1
+2762,Albanian Separatists,0,1
+2763,United Self Defense Units of Colombia (AUC),0,-9
+2764,Rahanwein Resistance Army (RRA),0,0
+2765,Muslim Separatists,0,0
+2766,Taliban,0,0
+2767,United People's Democratic Solidarity (UPDS),0,0
+2768,Free Papua Movement (OPM-Organisasi Papua Merdeka),0,1
+2769,Civic United Front (CUF),0,0
+2770,Yemenis,0,1
+2771,Armata Corsa,0,0
+2772,National Liberation Army (NLA) (Macedonia),0,1
+2773,Opposition Group,0,0
+2774,Supporters of Saddam Hussein,1,1
+2775,Chukakuha Revolutionary Army,0,1
+2776,Al-Fatah,0,1
+2777,Marhan Clan,0,-9
+2778,Democratic Front for the Liberation of Palestine (DFLP),0,1
+2779,"Civil Association for Peace in Colombia, Asocipaz",0,0
+2780,"Liberation Army for Presevo, Medvedja and Bujanovac (UCPMB)",0,0
+2781,Extremists,0,0
+2782,Forces for the Defense of Democracy (FDD),0,0
+2783,Chakma tribal group,0,-9
+2784,Tanzim,0,0
+2785,Bangladesh Sarbahara Party,0,0
+2786,Muslim Fundamentalists,0,0
+2787,Liberation War Veterans Association,0,0
+2788,Armed Islamic Group (GIA),0,1
+2789,Sudan Liberation Movement,0,0
+2790,Haika,0,0
+2791,Dissident Republicans,0,0
+2792,Angola Rebels,0,0
+2793,Kanglei Yawol Kanna Lup (KYKL),0,0
+2794,Dayak gang,0,0
+2795,Rodolfo Walsh National Command,0,1
+2796,Supporters of Muhammad Umar Habib,0,0
+2797,Supporters of Muse Sudi Yalahow,0,0
+2798,Death Squad,0,0
+2799,National Union for the Total Independence of Angola (UNITA),0,1
+2800,Special Purpose Islamic Regiment (SPIR),0,1
+2801,Croat Democratic Union,0,0
+2802,Students Islamic Movement of India (SIMI),0,0
+2803,Anti-Imperialist Territorial Nuclei (NTA),0,0
+2804,Liberians United for Reconciliation and Democracy (LURD),0,1
+2805,Revolutionary Violence Units,0,0
+2806,Afghans,0,0
+2807,Popular Front for the Liberation of Palestine (PFLP),0,1
+2808,Ethiopians,0,1
+2809,Al-Hamas Mujahideen,0,1
+2810,Hezbollah Palestine,0,1
+2811,"Liberation Army for Presevo, Medvedja and Bujanovac (UCPMB)",0,-9
+2812,Al-Aqsa Martyrs Brigade,0,0
+2813,Mayi Mayi,0,1
+2814,Fatah Hawks,0,1
+2815,Gunmen,0,1
+2816,Free Vietnam Movement,0,1
+2817,Anti-United States extremists,1,1
+2818,Supreme Council for Islamic Revolution in Iraq (SCIRI),0,1
+2819,Gilad Shalhevet Brigades,0,1
+2820,Al-Umar Mujahideen,0,1
+2821,Georgian Militants,0,0
+2822,Tutsi extremists,0,1
+2823,Anarchist Squad,0,1
+2824,Group of Carlo Giuliani,0,1
+2825,Anarchist Liberation Brigade,0,1
+2826,Sudan People's Liberation Army (SPLA),0,1
+2827,People's Revolutionary Army (ERP),0,0
+2828,National Liberation Army (NLA) (Macedonia),0,0
+2829,Nobles of Jordan,0,1
+2830,Tupamaro Revolutionary Movement,0,0
+2831,Neo-Fascist extremists,0,0
+2832,Achik National Volunteer Council (ANVC),0,0
+2833,Albanian National Army (ANA),0,0
+2834,Catholic Reaction Force,0,1
+2835,Popular Army Vanguards- Battalions of Return,0,1
+2836,South Londonderry Volunteers (SLV),0,1
+2837,Al-Fatah,0,0
+2838,Great Eastern Islamic Raiders Front (IBDA-C),0,0
+2839,Musa Sudi Yalahow Militia,0,0
+2840,Mayi Mayi,0,0
+2841,Habi's Er'roub seriat,0,0
+2842,Anti-Immigrant extremists,1,1
+2843,Association Totalement Anti-Guerre (ATAG),0,1
+2844,Naxalites,0,1
+2845,Lashkar-e-Omar,0,1
+2846,Villagers,0,0
+2847,Mujahedin Kompak,0,1
+2848,Albanian National Army (ANA),0,1
+2849,Moro National Liberation Front (MNLF),0,1
+2850,Armed Forces of the Chechen Republic of Ichkeria,0,1
+2851,Laskar Jihad,0,0
+2852,Liberians United for Reconciliation and Democracy (LURD),0,0
+2853,September 11,0,1
+2854,Movement for the Actualization of the Sovereign State of Biafra (MASSOB),0,0
+2855,People's Democratic Party (PDP),0,0
+2856,Indigenous People's Federal Army (IPFA),0,1
+2857,Armed Forces of the Chechen Republic of Ichkeria,0,0
+2858,Karenni National Progressive Party,0,0
+2859,Lashkar-e-Taiba (LeT),0,-9
+2860,Jihadi-inspired extremists,1,1
+2861,Draa El Mizan Seriat,0,0
+2862,Pentagon Kidnap Group,0,-9
+2863,Popular Front for the Liberation of Palestine (PFLP),0,0
+2864,Rebels,0,1
+2865,Harkatul Jihad-e-Islami,0,1
+2866,Anti-Israeli extremists,1,0
+2867,National Youth Service of Zimbabwe,0,-9
+2868,Karamojong Warriors,0,-9
+2869,Special Purpose Islamic Regiment (SPIR),0,-9
+2870,Habr Gedir Clan,0,1
+2871,Revolutionary Force,0,1
+2872,Scottish National Liberation Army,0,1
+2873,U/I Snipers,0,0
+2874,Avengers of the Infants,0,1
+2875,United Kuki Liberation Front (UKLF) - India,0,1
+2876,Red Brigades Fighting Communist Union (BR-UCC),0,1
+2877,Movement of Democratic Forces of Casamance,0,1
+2878,Islamic Front,0,1
+2879,Ansar al-Islam,0,0
+2880,Anti-Semitic extremists,0,1
+2881,Sympathizers of Al-Qaida Organization,0,1
+2882,Grozny Jamaat,0,0
+2883,Chin National Army,0,0
+2884,Porattom,0,1
+2885,Zimbabwe African Nationalist Union (ZANU),0,1
+2886,Fanmi Lavalas,0,0
+2887,Didier Ratsiraka's Militia,0,0
+2888,Neo-Nazi extremists,0,1
+2889,Face to Face (Face-a-Face),0,0
+2890,Jihadi-inspired extremists,1,0
+2891,People's Revolutionary Army (ERP),0,1
+2892,Taliban (Pakistan),0,0
+2893,Forces for the Defense of Democracy (FDD),0,1
+2894,Movement for Democracy and Justice in Chad (MDJT),0,-9
+2895,Kuki Revolutionary Army (KRA),0,-9
+2896,Popular Resistance (Laiki Antistasi),0,1
+2897,Movement for Democratic Change (MDC),0,-9
+2898,Barisan Revolusi Nasional (BRN),0,-9
+2899,Al-Madina,0,1
+2900,Congolese Rally for Democracy (RCD),0,0
+2901,Oromo Liberation Front,0,1
+2902,Sardinian Autonomy Movement,0,1
+2903,Mujahideen Islam Pattani,0,0
+2904,New Revolutionary Popular Struggle (NELA),0,0
+2905,Rabid Brothers of Giuliani,0,1
+2906,Jamiat ul-Mujahedin (JuM),0,0
+2907,Taliban,0,1
+2908,Palestinians,0,1
+2909,Al-Intiqami al-Pakistani,0,1
+2910,Al-Mansoorian,0,0
+2911,Ed'daoua Es'salafia Lilqadha,0,0
+2912,All Nepal National Free Student Union-Revolutionary,0,1
+2913,Al-Intiqami al-Pakistani,0,0
+2914,Army of the Republic of Ilirida,0,0
+2915,Kamtapur Liberation Organization (KLO),0,1
+2916,Democratic Iraqi Opposition of Germany,0,1
+2917,Guadalcanal Liberation Front (GLF),0,1
+2918,People's Revolutionary Militias (MRP),0,0
+2919,Front for Peace and Reconciliation (FRP),0,1
+2920,Al-Arifeen,0,1
+2921,Islamic Shashantantra Andolon (ISA),0,0
+2922,Anti-Kim Jong-il extremists,1,0
+2923,Lord's Resistance Army (LRA),0,1
+2924,Jemaah Islamiya (JI),0,-9
+2925,Tawhid and Jihad,0,0
+2926,Right-Wing Group,0,0
+2927,Al-Umar Mujahideen,0,0
+2928,Sympathizers of Al-Qaida Organization,0,0
+2929,Jerusalem Groups Hebrew (Qvutzot Yerushalayim),0,1
+2930,Maoists,0,1
+2931,Hizb-I-Islami,0,0
+2932,Al-Badr,0,1
+2933,Young Liberators of Pattani,0,0
+2934,Harakat ul-Mujahidin Al-Almi,0,0
+2935,Ramzi Nahra Martyr Organization,0,1
+2936,Al-Nasirin (India),0,1
+2937,Fulani extremists,0,0
+2938,CCCCC,0,0
+2939,CCCCC,0,1
+2940,Save Kashmir Movement,0,0
+2941,Praveen Dalam,0,0
+2942,Mungiki Sect,0,0
+2943,Resistenza Corsa,0,1
+2944,Rashtriya Swayamsevak Sangh,0,0
+2945,Jamaat-E-Islami (India/Pakistan),0,0
+2946,Movement for Democratic Change (MDC),0,0
+2947,Islamic Fateh,0,1
+2948,Shan United Revolutionary Army,0,0
+2949,Supporters of Johnny Adair,0,0
+2950,People's Revolutionary Militias (MRP),0,1
+2951,Vanguard of Red Youth (AKM),0,0
+2952,Ansar al-Islam,0,1
+2953,Jama'atul Mujahideen Bangladesh (JMB),0,0
+2954,September 11,0,0
+2955,Simon Bolivar Guerrilla Coordinating Board (CGSB),0,0
+2956,White Legion (Ecuador),0,1
+2957,United Liberation Front of Assam (ULFA),0,1
+2958,Zemun Clan,0,1
+2959,Enraged Revolutionaries,0,1
+2960,Tehrik al-Mojahedin,0,0
+2961,The War That Was Never Declared,0,1
+2962,Kuki Liberation Army (KLA),0,1
+2963,Anti-Imperialist Territorial Nuclei (NTA),0,1
+2964,Anti-United States extremists,0,0
+2965,Saif-ul-Muslimeen,0,1
+2966,Egyptians,1,1
+2967,Muslim extremists,1,0
+2968,Pokot extremists,0,0
+2969,Comando Malvinas Argentinas,0,1
+2970,Strikers,0,1
+2971,Muslim Rebels,0,1
+2972,National Council for Defense of Democracy (NCDD),0,1
+2973,Al-Mansoorian,0,1
+2974,Uighur Separatists,0,0
+2975,Al-Qaida in Saudi Arabia,0,0
+2976,Proletarian Nuclei for Communism,0,1
+2977,Muslim United Army (MUA),0,1
+2978,Salafia Jihadia,0,0
+2979,People's Revolutionary Party of Kangleipak (PREPAK),0,1
+2980,Left-Wing Guerrillas,0,0
+2981,"Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",0,1
+2982,Lendu extremists,0,0
+2983,Adan Abyan Islamic Army (AAIA),0,0
+2984,Pattani United Liberation Organization (PULO),0,1
+2985,Swaziland Youth Congress (Swayoco),0,0
+2986,Popular Revolutionary Action,0,1
+2987,Maoist Communist Center (MCC),0,1
+2988,Al-Shuda Brigade,0,1
+2989,Egbema National Front,0,1
+2990,Anti-Muslim extremists,0,0
+2991,Armed Vanguards of a Second Mohammed Army,0,1
+2992,Oromo Liberation Front,0,0
+2993,Revolutionary Cells-Animal Liberation Brigade,0,1
+2994,Cannibal Army,0,1
+2995,Red Brigades Fighting Communist Party (BR-PCC),0,0
+2996,Fedayeen Imam Mahdi,0,1
+2997,Al-Qaida in Iraq,0,1
+2998,Tawhid and Jihad,0,1
+2999,Kashmir Freedom Force,0,1
+3000,Free Democratic People's Government of Laos,0,1
+3001,United National Liberation Front (UNLF),0,0
+3002,Union of Congolese Patriots (UPC),0,0
+3003,Kuki National Front (KNF),0,1
+3004,Al-Qaida in Saudi Arabia,0,1
+3005,Loyalist Action Force,0,1
+3006,Bini-Oru,0,1
+3007,Kuki Revolutionary Army (KRA),0,0
+3008,Al-Haramayn Brigades,0,1
+3009,Informal Anarchist Federation,0,1
+3010,Baathist extremists,0,0
+3011,The Inevitables,0,1
+3012,Armed Revolutionary Left (IRA),0,1
+3013,Moroccan extremists,1,0
+3014,Mahdi Army,0,1
+3015,Mahdi Army,0,0
+3016,Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs,0,1
+3017,Anti-Government Guerrillas,0,0
+3018,Ansar al-Din,0,1
+3019,Save Kashmir Movement,0,1
+3020,Mujahedeen Brigades,0,1
+3021,Mujahedeen Group,0,1
+3022,Taliban (Pakistan),0,1
+3023,Janjaweed,0,0
+3024,Itsekiri,0,0
+3025,Jaish al-Ta'ifa al-Mansura,0,1
+3026,Resistance Cell,0,1
+3027,Al-Qaida in the Arabian Peninsula (AQAP),0,1
+3028,Khalid ibn Walid Brigade,0,1
+3029,Iraqi extremists,0,0
+3030,Jenin Martyrs Brigades,0,1
+3031,Holders of the Black Banners,0,1
+3032,Mujahedeen Corps in Iraq,0,1
+3033,Islamic Jihad Group (IJG),0,1
+3034,Islambouli Brigades of al-Qaida,0,1
+3035,Islamic Army in Iraq (al-Jaish al-Islami fi al-Iraq),0,1
+3036,Kurdistan Freedom Hawks (TAK),0,1
+3037,Ansar al-Sunna,0,1
+3038,Islambouli Brigades of al-Qaida,0,0
+3039,Al Zawahiri Loyalists,0,1
+3040,Anonymous Underground Movement (MCA),0,0
+3041,Jaish al-Muslimin (Army of the Muslims),0,1
+3042,Jama'atul Mujahideen Bangladesh (JMB),0,1
+3043,Sipah-I-Mohammed,0,0
+3044,Abdullah Azzam Brigades,0,1
+3045,French Armed Islamic Front,0,1
+3046,Al-Sunna wal Jamma,0,0
+3047,1920 Revolution Brigades,0,1
+3048,Initiative de Resistance Internationaliste,0,1
+3049,Hofstad Network,0,0
+3050,Ansar al-Jihad,0,1
+3051,Salafi Daawa Group,0,0
+3052,Mujahedeen Army,0,1
+3053,Environmentalists,0,0
+3054,Balochistan National Army,0,1
+3055,Islamic Movement of Iraqi Mujahidin,0,1
+3056,Al-Qaida in Iraq,0,0
+3057,Vigorous Burmese Student Warriors,0,1
+3058,Etnocacerista Movement,0,1
+3059,Communist Party of Nepal- Maoist (CPN-M),0,1
+3060,Liberals of Galilee,0,1
+3061,Christian extremists,0,0
+3062,Communists,0,1
+3063,Global Intifada,0,1
+3064,Communists,0,0
+3065,Islamic Jihad Brigades,0,1
+3066,Baloch Liberation Army (BLA),0,0
+3067,Purbo Banglar Communist Party,0,1
+3068,Baloch Liberation Army (BLA),0,-9
+3069,Al-Qaida in Iraq,0,-9
+3070,Brigades of Iman Hassan-al-Basri,0,1
+3071,Nationalist Integrationist Front (FNI),0,0
+3072,Mahsud Tribe,0,-9
+3073,Baloch Nationalists,0,0
+3074,Tanzim,0,1
+3075,Colonel Karuna Faction,0,0
+3076,Thai Islamic Militants,0,0
+3077,Organization of Soldiers of the Levant,0,1
+3078,Baloch Liberation Army (BLA),0,1
+3079,Protectors of Islam Brigade,0,1
+3080,Global Intifada,0,0
+3081,Colonel Karuna Faction,0,1
+3082,Al-Nasireen Group,0,1
+3083,Omar Bin Khattab Group,0,1
+3084,Barisan Revolusi Nasional (BRN),0,0
+3085,Ansar al-Islam,0,-9
+3086,Al-Shabaab al-Mu'minin,0,0
+3087,Communist Party of India - Maoist (CPI-Maoist),0,0
+3088,Mujahedeen Shura Council,0,1
+3089,Hizb-I-Islami,0,1
+3090,Patriotic Resistance Front in Ituri (FRPI),0,0
+3091,National Anti-Corruption Front (FNA),0,1
+3092,Junaid Jihadist Battalion,0,1
+3093,Badr Brigades,0,0
+3094,Tela Mohammed,0,1
+3095,Dagestani Shari'ah Jamaat,0,1
+3096,Rastas,0,0
+3097,Mariano Moreno National Liberation Commando,0,1
+3098,Arbav Martyrs of Khuzestan,0,1
+3099,Al-Ahwaz Arab People's Democratic Front,0,0
+3100,Hizb al-Tahrir al-Islami (HT),0,0
+3101,United Jihad Council,0,0
+3102,Communist Party of India - Maoist (CPI-Maoist),0,-9
+3103,People's Liberation Army (India),0,1
+3104,Imam Hussein Brigade,0,1
+3105,Tamil Makkal Viduthalai Pulikal (TMVP),0,0
+3106,Kach,0,0
+3107,Karbi Tribe,0,0
+3108,Communist Party of India - Maoist (CPI-Maoist),0,1
+3109,All Ethiopian Unity Party (AEUP),0,0
+3110,Mujahidin Ambon,0,0
+3111,Niger Delta People's Volunteer Force (NDPVF),0,1
+3112,Islamic Courts Union (ICU),0,1
+3113,Mahaz-e-Inquilab,0,1
+3114,Al-Qaida in Yemen,0,0
+3115,Abida Tribe,0,1
+3116,Jama'atul Mujahideen Bangladesh (JMB),0,-9
+3117,Al-Qaida Organization for Jihad in Sweden,0,1
+3118,Popular Resistance Committees,0,0
+3119,Anti-State Justice,0,1
+3120,Jundallah (Iran),0,1
+3121,Revenge Brigade,0,1
+3122,Fuerzas Autonómicas y Destructivas León Czolgoscz,0,1
+3123,Revolutionary Action of Liberation,0,1
+3124,People's United Democratic Movement (PUDEMO),0,0
+3125,Coalition for Unity and Democracy (CUD),0,0
+3126,Al-Ahwaz Arab People's Democratic Front,0,1
+3127,Ansar al-Tahwid wal Sunna,0,1
+3128,Mutahida Majlis-e-Amal,0,0
+3129,Supporters of Laurent Nkunda,0,0
+3130,Kawal ng Pilipinas (Soldier of the Philippines),0,1
+3131,Al-Qaida Network for Southwestern Khulna Division,0,1
+3132,Kangleipak Communist Party (KCP),0,1
+3133,Young Officer Union of the New Generation and Reformist Armed Forces of the Philippines (YOU-RAFP),0,1
+3134,Solidarity with imprisoned members of Action Directe (AD),0,1
+3135,Muslim extremists,1,1
+3136,Mujahedeen Shura Council,0,0
+3137,Kurdish Separatists,0,0
+3138,Jaish-e-Mohammad (JeM),0,-9
+3139,Skinheads,0,-9
+3140,United Front for Democratic Change (FUC),0,1
+3141,Karbi Longri North Cachar Liberation Front (KLNLF),0,0
+3142,United Front for Democratic Change (FUC),0,0
+3143,Karbi Longri North Cachar Liberation Front (KLNLF),0,-9
+3144,National Liberation Alliance of Sa Kaeo,0,1
+3145,Islamic Defenders' Front (FPI),0,-9
+3146,United Front for Democratic Change (FUC),0,-9
+3147,Houthi extremists (Ansar Allah),0,-9
+3148,Basque extremists,0,1
+3149,Movement for the Emancipation of the Niger Delta (MEND),0,1
+3150,Egyptian Tawhid and Jihad,0,0
+3151,Thai Islamic Militants,0,1
+3152,Gugama Youth Federation,0,1
+3153,Movement for the Emancipation of the Niger Delta (MEND),0,-9
+3154,Banner of Islam,0,1
+3155,Revolutionary Struggle,0,0
+3156,Sunni Supporters,0,1
+3157,Justice and Equality Movement (JEM),0,1
+3158,Aibed Er-Rahman katibet,0,0
+3159,Islamic Tendency,0,-9
+3160,Janatantrik Terai Mukti Morcha (JTMM),0,0
+3161,Tribesmen,0,-9
+3162,Kata'ib al-Khoul,0,1
+3163,Army of Islam,0,0
+3164,Jaish-e-Mohammad (Iraq),0,1
+3165,First Capital Command (PCC),0,0
+3166,Bersatu,0,0
+3167,Haqqani Network,0,1
+3168,Taliban (Pakistan),0,-9
+3169,Haqqani Network,0,-9
+3170,Martyr Sami al-Ghul Brigades,0,1
+3171,Janatantrik Terai Mukti Morcha- Goit (JTMM-G),0,1
+3172,Jund al-Sahabah Group,0,1
+3173,Oglaigh na hEireann,0,1
+3174,People's Tamil Organization,0,1
+3175,The Joint Revolutionary Council,0,1
+3176,El-Feth katibat,0,-9
+3177,Justice and Equality Movement (JEM),0,-9
+3178,Jihadist Soldiers,0,1
+3179,Janatantrik Terai Mukti Morcha (JTMM),0,1
+3180,Islamic Companies,0,1
+3181,Movement for the Emancipation of the Niger Delta (MEND),0,0
+3182,Protestant extremists,0,1
+3183,Union of Forces for Democracy and Development (UFDD),0,0
+3184,National Redemption Front,0,1
+3185,Jund al-Sham for Tawhid and Jihad,0,0
+3186,Islamic Swords of Justice in the Land of Ribat,0,1
+3187,Rally of Democratic Forces (RAFD),0,0
+3188,Niger Delta Vigilante (NDV),0,0
+3189,Salafi Abu-Bakr al-Siddiq Army,0,0
+3190,Janatantrik Terai Mukti Morcha- Jwala Singh (JTMM-J),0,1
+3191,Janatantrik Terai Mukti Morcha (JTMM),0,-9
+3192,Janatantrik Terai Mukti Morcha- Goit (JTMM-G),0,0
+3193,Janatantrik Terai Mukti Morcha- Goit (JTMM-G),0,-9
+3194,Anti-Government Group,0,1
+3195,Islamic State of Iraq (ISI),0,1
+3196,Ogaden National Liberation Front (ONLF),0,0
+3197,Al-Qaida in the Islamic Maghreb (AQIM),0,0
+3198,Bunda Dia Kongo (BDK),0,0
+3199,Janatantrik Terai Mukti Morcha- Jwala Singh (JTMM-J),0,0
+3200,Anti-Government extremists,0,1
+3201,Al-Qaida in the Islamic Maghreb (AQIM),0,1
+3202,Jundallah (Iran),0,0
+3203,Union of Forces for Democracy and Development (UFDD),0,1
+3204,Al-Aqsa Martyrs Brigade,0,-9
+3205,Afar Revolutionary Democratic Unity Front,0,1
+3206,Sudan Liberation Movement,0,-9
+3207,Democratic Front for the Liberation of Rwanda (FDLR),0,0
+3208,Army of Islam,0,1
+3209,Oglaigh na hEireann,0,0
+3210,Sabaot Land Defense Force (SLDF),0,0
+3211,Houthi extremists (Ansar Allah),0,0
+3212,Ogaden National Liberation Front (ONLF),0,1
+3213,Anti-Abortion extremists,1,0
+3214,Jadid Al-Qaida Bangladesh (JAQB),0,1
+3215,Al-Qaida Kurdish Battalions (AQKB),0,0
+3216,Tuareg Guerrillas,0,0
+3217,Muslim Fundamentalists,0,1
+3218,Harkatul Jihad-e-Islami,0,-9
+3219,Democratic Front for the Liberation of Rwanda (FDLR),0,-9
+3220,Democratic Front for the Liberation of Rwanda (FDLR),0,1
+3221,Asa'ib Ahl al-Haqq,0,1
+3222,Al-Shabaab,0,1
+3223,Jadid Al-Qaida Bangladesh (JAQB),0,0
+3224,Niger Delta People's Volunteer Force (NDPVF),0,0
+3225,Anbar Salvation Council,0,1
+3226,Karbi Longri National Liberation Front (KLNLF),0,0
+3227,Dima Halao Daoga (DHD),0,1
+3228,Anti-Apostate Movement Alliance (AGAP),0,0
+3229,Islamic State of Iraq (ISI),0,0
+3230,Diyala Salvation Council,0,0
+3231,Adivasi National Liberation Army (ANLA),0,0
+3232,Athens and Thessaloniki Arsonist Nuclei,0,1
+3233,Just Punishment Brigades,0,1
+3234,Kuki National Army (KNA),0,0
+3235,Young Communist League,0,0
+3236,Popular Army for the Restoration of Democracy (APRD),0,1
+3237,Fatah al-Islam,0,1
+3238,Madhesi People's Rights Forum (MPRF),0,0
+3239,Al-Shabaab,0,0
+3240,Movement of Niger People for Justice (MNJ),0,1
+3241,Al-Qaida in Yemen,0,1
+3242,Janatantrik Terai Mukti Morcha- Bisphot Singh (JTMM-B),0,1
+3243,Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs,0,0
+3244,Justice and Equality Movement (JEM),0,0
+3245,Amr Bil Maroof Wa Nahi Anil Munkir,0,1
+3246,Tuareg extremists,0,0
+3247,Sungu Sungu,0,0
+3248,Terai Army,0,1
+3249,Al-Khobar,0,-9
+3250,Union of Chadian Forces (UFNT),0,0
+3251,Tehrik-i-Taliban Pakistan (TTP),0,0
+3252,United Janatantrik Terai Mukti Morcha (U-JTMM),0,1
+3253,Babbar Khalsa International (BKI),0,0
+3254,Baloch Republican Army (BRA),0,1
+3255,Bhumi Uchched Pratirodh Committee (BUPC),0,0
+3256,Union Parishad,0,0
+3257,Democratic Movement for the Liberation of the Eritrean Kunamas (DMLEK),0,-9
+3258,Tehrik-e-Nafaz-e-Shariat-e-Mohammadi (TNSM),0,1
+3259,Neo-Fascist extremists,1,1
+3260,Tehrik-e-Nafaz-e-Shariat-e-Mohammadi (TNSM),0,0
+3261,Al-Fajr,0,1
+3262,Alcubar group,0,0
+3263,Islamic Courts Union (ICU),0,0
+3264,Black Widows,0,1
+3265,Supporters of Sultan Abd-al-Bagi,0,0
+3266,Tehrik-i-Taliban Pakistan (TTP),0,1
+3267,Niger Delta Vigilante (NDV),0,1
+3268,Al-Fatihin Army (AFA),0,1
+3269,Janatantrik Terai Mukti Morcha- Prithvi Singh (JTMM-P),0,1
+3270,Alex Boncayao Brigade (ABB),0,0
+3271,Mlada Bosna,0,0
+3272,Kata'ib Hezbollah,0,0
+3273,Conspiracy of Cells of Fire,0,1
+3274,Armed Revolutionary Action (ENEDRA),0,1
+3275,United Democratic Terai Liberation Front (UDTLF),0,1
+3276,People's Revolutionary Party of Kangleipak (PREPAK),0,-9
+3277,Bharatiya Janata Party,0,1
+3278,Nepal Defense Army,0,1
+3279,United National Liberation Front (UNLF),0,-9
+3280,The United Revolutionary Front of Bhutan,0,1
+3281,Munadil al-Jumalyi Brigade,0,1
+3282,The Jean Marc Rouillan Armed and Heartless Columns,0,1
+3283,Ahrar Al-Jalil (Free People of the Galilee),0,1
+3284,Iraq's Jihadist Leagues,0,1
+3285,Black Widows,0,0
+3286,Jaish Al-Umma (Army of the Nation),0,1
+3287,Mahdi Army,0,-9
+3288,Haqqani Network,0,0
+3289,The Nation's Army,0,1
+3290,Samyukta Janatantrik Terai Mukti Morcha (SJTMM),0,1
+3291,People's Revolutionary Party of Kangleipak (PREPAK),0,0
+3292,National Socialist Council of Nagaland-Khaplang (NSCN-K),0,0
+3293,Jihadi Movement of the Sunna People of Iran,0,1
+3294,Shan State Army - South (SSA-S),0,0
+3295,Caucasus Emirate,0,0
+3296,Forbidden Blockade (Greece),0,1
+3297,National Liberation Front (FNL) (Burundi),0,0
+3298,Young Communist League,0,1
+3299,Caucasus Emirate,0,1
+3300,Anti-Democratic Struggle,0,1
+3301,LW,0,0
+3302,Terai Cobra,0,1
+3303,Jharkhand Liberation Tigers (JLT),0,0
+3304,Hmar People's Convention-Democracy (HPC-D),0,1
+3305,Al-Mujahedin Brigades (Palestine),0,1
+3306,Madhesi Mukti Tigers (MMT),0,1
+3307,Runda Kumpulan Kecil (RKK),0,0
+3308,Eastern Turkistan Islamic Movement (ETIM),0,1
+3309,Janatantrik Terai Mukti Morcha- Rajan Mukti (JTMM-R),0,0
+3310,Future movement (Lebanon),0,0
+3311,Syrian Social Nationalist Party,0,0
+3312,Amal,0,0
+3313,Progressive Socialist Party (PSP),0,0
+3314,Indian Mujahideen,0,1
+3315,Conqueror Army,0,1
+3316,Farmer's Movement of the Philippines (KMP),0,0
+3317,Gangs of Conscience,0,1
+3318,People's United Liberation Front (PULF),0,1
+3319,Naga People's Council (NPC),0,0
+3320,Akhil Terai Mukti Morcha (ATMM),0,1
+3321,Kangleipak Communist Party (KCP),0,0
+3322,People's United Liberation Front (PULF),0,0
+3323,Ku Klux Klan,1,0
+3324,Somali Islamic Front,0,1
+3325,Kirat Janabadi Workers Party,0,0
+3326,Red Sea Afar Democratic Organization (RSADO),0,1
+3327,Movement of Niger People for Justice (MNJ),0,0
+3328,Kuki Liberation Army (KLA),0,0
+3329,Hynniewtrep National Liberation Council (HNLC),0,0
+3330,National Alliance (Chad),0,1
+3331,Madhesi Virus Killers,0,0
+3332,Niger Delta Freedom Fighters (NDDF),0,1
+3333,People's Liberation Front of India,0,0
+3334,Popular Will (Greece),0,1
+3335,Kanglei Yawol Kanna Lup (KYKL),0,1
+3336,All Kamatapur Liberation Force,0,0
+3337,National Socialist Council of Nagaland-Khaplang (NSCN-K),0,1
+3338,South Ossetian Separatists,0,0
+3339,Abkhazian Separatists,0,0
+3340,14 March Coalition,0,0
+3341,National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM),0,1
+3342,Janatantrik Terai Mukti Morcha- Rajan Mukti (JTMM-R),0,1
+3343,Islamic Courts Union (ICU),0,-9
+3344,Juarez Cartel (Carrillo-Fuentes / Mexico),0,1
+3345,Turkestan Islamic Party,0,1
+3346,Anti-Liberal extremists,1,1
+3347,Baloch Republican Army (BRA),0,0
+3348,Umbane People's Liberation Army (Swaziland),0,1
+3349,Pirates,0,0
+3350,Eastern Turkistan Islamic Movement (ETIM),0,0
+3351,Janatantrik Terai Mukti Morcha- Ranbir Singh (JTMM-RS),0,1
+3352,Karamojong Warriors,0,0
+3353,National Liberation Army (Nepal),0,1
+3354,Hizbul al Islam (Somalia),0,0
+3355,Forest Brothers,0,0
+3356,Sudan Liberation Movement,0,1
+3357,Jundallah (Pakistan),0,0
+3358,Gulf Cartel,0,1
+3359,Samyukta Janatantrik Terai Mukti Morcha (SJTMM),0,0
+3360,Army of State Liberators,0,1
+3361,Madhesi Mukti Tigers (MMT),0,0
+3362,Forces for the Unification of the Central African Republic (FIRCA),0,0
+3363,Madhesi People's Rights Forum (MPRF),0,1
+3364,Kurdistan Free Life Party,0,0
+3365,Jharkhand Liberation Tigers (JLT),0,1
+3366,National Congress for the Defense of the People (CNDP),0,1
+3367,National Congress for the Defense of the People (CNDP),0,0
+3368,Mahaz Fedai Tahrik Islami Afghanistan,0,1
+3369,Incendiary Committee of Solidarity for Detainees,0,1
+3370,Deccan Mujahideen,0,1
+3371,Dagestani Shari'ah Jamaat,0,0
+3372,Communist Party of Nepal- Unified Marxist-Leninist (CPN-UML),0,0
+3373,Terai Cobra,0,0
+3374,Kata'ib al-Khoul,0,0
+3375,Deccan Mujahideen,0,0
+3376,Rastriya Janashakti Party (RJP),0,0
+3377,Militant Organization of Russian Nationalists,0,1
+3378,Kuki National Front (KNF),0,0
+3379,Afghan Revolutionary Front,0,1
+3380,Ahlu-sunah Wal-jamea (Somalia),0,0
+3381,Ansar Wa Mohajir (Pakistan),0,1
+3382,Tehrik-i-Taliban Pakistan (TTP),0,-9
+3383,Al-Khobar,0,0
+3384,Somali Islamic Front,0,0
+3385,23 May Democratic Alliance (Algeria),0,0
+3386,Congolese Patriotic Resistence-Patriotic Armed Forces (Pareco/FAP),0,0
+3387,Madhesh Rastra Janatantrik Revolutionary (RJR) - Nepal,0,1
+3388,United National Liberation Front (UNLF),0,1
+3389,Baloch Liberation Front (BLF),0,1
+3390,Mahan Madhesh Janakantri Party (MMJP)- Nepal,0,1
+3391,Hushaysh Tribal Members,0,0
+3392,Mongolian Mukti Morcha,0,1
+3393,Salafi Extremists,0,0
+3394,Supreme Command for Jihad and Liberation,0,1
+3395,Bhisan Himali Bag,0,1
+3396,Himali Tigers,0,0
+3397,Sect of Revolutionaries (Greece),0,1
+3398,Macedonian nationalists,0,0
+3399,National United Front of Democracy Against Dictatorship (UDD),0,1
+3400,Ahrar Al-Jalil (Free People of the Galilee),0,0
+3401,Tritiya Prastuti Committee (TPC),0,0
+3402,Revolutionary Liberation Action (Epanastatiki Apelevtherotiki Drasi) - Greece,0,1
+3403,Tibetan separatists,0,0
+3404,All Burma Students' Democratic Front (ABSDF),0,0
+3405,Asa'ib Ahl al-Haqq,0,0
+3406,Nihilists Faction,0,1
+3407,Popular Front for Justice in the Congo,0,0
+3408,Tharuhat Joint Struggle Committee (TJSC),0,0
+3409,Revolutionary Headquarters (Turkey),0,0
+3410,Citizen's Rights Protection Volunteers,0,0
+3411,Citizen's Rights Protection Volunteers,0,1
+3412,Basque Separatists,0,0
+3413,All India Anna Dravida Munetra Kazgan Party,0,0
+3414,Bangladesh Nationalist Party (BNP),0,0
+3415,Terai Rastriya Mukti Sena (TRMS),0,1
+3416,Tehrik-e-Galba Islam,0,1
+3417,Islamic Jihad Union (Uzbekistan),0,1
+3418,Baloch Liberation Front (BLF),0,0
+3419,Minutemen American Defense,0,0
+3420,Jihadi-inspired extremists,0,1
+3421,Students Islamic Movement of India (SIMI),0,1
+3422,Alexandros Grigoropoulos Anarchist Attack Group,0,1
+3423,Balochistan Liberation United Front (BLUF),0,0
+3424,Kara clan,0,0
+3425,United People's Democratic Front (UPDF) - Bangladesh,0,0
+3426,Bodo People's Front (BPF),0,0
+3427,Tribal Group,0,1
+3428,People's Committee against Police Atrocities (PCPA),0,0
+3429,Naga People,0,0
+3430,Conspiracy of Cells of Fire,0,0
+3431,Gono Bahini (GB),0,1
+3432,Lashkar-e-Islam (Pakistan),0,1
+3433,Attack Teams for the Dissolution of the Nation (Greece),0,1
+3434,Jemaah Islamiya (JI),0,1
+3435,Iraqi Sunni Extremists,0,-9
+3436,Deniers of Holidays,0,1
+3437,NVF,0,0
+3438,Boko Haram,0,0
+3439,Zero Tolerance,0,1
+3440,Al-Qaida in the Islamic Maghreb (AQIM),0,-9
+3441,Illuminating Paths of Solidarity,0,1
+3442,Militant Forces Against Huntingdon,0,1
+3443,Revolutionary Cells (Argentina),0,1
+3444,Incel extremists,1,1
+3445,Black Eagles,0,0
+3446,Urhobo Revolutionary Army,0,1
+3447,Lashkar-e-Balochistan,0,1
+3448,Lashkar-e-Islam (Pakistan),0,0
+3449,The Black Sun,0,1
+3450,Balochistan Liberation United Front (BLUF),0,1
+3451,Al-Qaida in the Arabian Peninsula (AQAP),0,0
+3452,Kirat Janabadi Workers Party,0,1
+3453,Kokang,0,0
+3454,Parbatya Chattagram Jana Sanghati Samity (PCJSS) - Bangladesh,0,0
+3455,Ansar Al Sunnah (Palestine),0,0
+3456,Al-Shabaab,0,-9
+3457,Gholam Yahya Akbar,0,0
+3458,National Democratic Front of Bodoland (NDFB),0,1
+3459,Bangsamoro National Liberation Army,0,1
+3460,Arauco Malleco Coordinating Group (CAM) - Chile,0,0
+3461,Abkhazian guerrillas,0,0
+3462,Council for the Destruction of Order,0,1
+3463,People's Committee against Police Atrocities (PCPA),0,1
+3464,Muslim Separatists,0,1
+3465,Islamic Party (Somalia),0,0
+3466,Freedom Eagles of Africa,0,1
+3467,Al-Jub Tribe,0,1
+3468,Convention of Patriots for Justice and Peace,0,1
+3469,Hoodie Wearers,0,1
+3470,Al-Nasirin (India),0,0
+3471,Anarchist Action (CA / United States),0,1
+3472,Black and Red Anarchist and Anti-Authoritarians Initiative (Greece),0,1
+3473,Front for the Liberation of the Enclave of Cabinda (FLEC),0,1
+3474,Khalistan Liberation Force,0,0
+3475,Merille Militia,0,0
+3476,Terai Janatantrik Party,0,1
+3477,Jacinto Araujo Internationalist Rebel Insurrectionist Brigade,0,1
+3478,Combat 18,0,1
+3479,Akhil Terai Mukti Morcha (ATMM),0,0
+3480,United Liberation Front of Barak Valley (ULFBV) - India,0,0
+3481,Shield of Islam Brigade,0,1
+3482,Red Sea Afar Democratic Organization (RSADO),0,0
+3483,Revolutionary Continuity,0,1
+3484,National League for Democracy,0,0
+3485,Ansarul Islam (Pakistan),0,0
+3486,Anti-Government extremists,1,0
+3487,Southern Yemen Separatists,0,0
+3488,United Front for Democracy Against Dictatorship,0,0
+3489,Terai Janatantrik Madhes Party,0,1
+3490,Ansar Al Sunnah (Palestine),0,1
+3491,Africa Marine Commando,0,1
+3492,Zapatista National Liberation Army,0,0
+3493,Sisters in Arms,0,1
+3494,Janatantrik Terai Madhesh Mukti Morcha (JTMMM),0,0
+3495,Rebellious Group Lambros Foundas,0,1
+3496,Africa Marine Commando,0,0
+3497,Enyele Militia,0,0
+3498,People's Democratic Struggle Movement,0,0
+3499,Samyukta Jatiya Mukti Morcha (SJMM),0,1
+3500,Kurdistan Free Life Party,0,1
+3501,People's Liberation Front of India,0,1
+3502,Hizbul al Islam (Somalia),0,1
+3503,Tehrik-e-Galba Islam,0,0
+3504,Aqmur,0,0
+3505,Anti-United States extremists,1,0
+3506,Southern Mobility Movement (Yemen),0,0
+3507,Fighting For Freedom Coalition (FFFC-Ottawa),0,1
+3508,Dynamic Youth Forum,0,1
+3509,Baloch Militant Defense Army,0,1
+3510,Revolutionary Cells (Argentina),0,0
+3511,Swatantra Nepal Dal,0,1
+3512,Paraguayan People's Army (EPP),0,0
+3513,Salafi Abu-Bakr al-Siddiq Army,0,1
+3514,Aniban ng Ayaw sa Komunista (ANAK),0,1
+3515,Bedouin tribesmen,0,0
+3516,Wahhabi Movement,0,0
+3517,Groups for Dissemination of Revolutionary Theory and Action,0,1
+3518,Houthi extremists (Ansar Allah),0,1
+3519,Popular Front of India,0,1
+3520,Tehrik-e-Tuhafaz (Pakistan),0,1
+3521,Sect of Revolutionaries (Greece),0,0
+3522,Anti-Arab extremists,1,1
+3523,Janatantrik Terai Madhesh Mukti Morcha (JTMMM),0,1
+3524,Real Ulster Freedom Fighters (UFF) - Northern Ireland,0,1
+3525,Real Ulster Freedom Fighters (UFF) - Northern Ireland,0,0
+3526,Karabulak Gang,0,0
+3527,Mouhajiroune Brigade,0,0
+3528,Al-Bakazim,0,0
+3529,Friends of Freedom,0,1
+3530,Boko Haram,0,1
+3531,Vandalicia Teodoro Suarez,0,1
+3532,United Democratic Liberation Army (UDLA),0,0
+3533,Terai Madheshi Mukti Morcha (TMMM),0,1
+3534,Jund Al-Tawid,0,1
+3535,Volunteers of Innocent People of Nagas (VIPN),0,0
+3536,Garo National Liberation Army,0,0
+3537,Anti-Government Group,1,1
+3538,Sindhu Desh Liberation Army (SDLA),0,1
+3539,Al-Khobar,0,1
+3540,"Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",0,0
+3541,United Kuki Liberation Front (UKLF) - India,0,0
+3542,Iraqi extremists,0,1
+3543,Animal Rights Militia,0,1
+3544,Niger Delta Liberation Force (NDLF)-Nigeria,0,1
+3545,Anarkista Jorge Banos Front of the Everyone For The Homeland Movement (MTP),0,0
+3546,Amr Bil Maroof Wa Nahi Anil Munkir,0,0
+3547,Informal Anarchist Federation,0,0
+3548,Delta Democratic Militia,0,1
+3549,Turkish radicals,1,0
+3550,Misseriya Arab Tribesmen,0,0
+3551,Karbi People's Liberation Tigers (KPLT),0,0
+3552,Paraguayan People's Army (EPP),0,1
+3553,Black Hawks (Anti-Wahhabists),0,0
+3554,Baloch Mussalah Diffah Tanzim (BMDT),0,1
+3555,Madhesh Mukti Sangram (MMS),0,0
+3556,Tawhid and Jihad (Palestine),0,1
+3557,Jamaah Ansharut Tauhid (JAT),0,0
+3558,Arab People's Group,0,0
+3559,United Democratic Liberation Army (UDLA),0,1
+3560,South Sudan Liberation Army (SSLA),0,0
+3561,Khumbuwan Mukti Morcha,0,0
+3562,Sanghiya Limbuwan Committee (SLC),0,0
+3563,Ansaru (Jama'atu Ansarul Muslimina Fi Biladis Sudan),0,0
+3564,Ansarul Islam (Pakistan),0,1
+3565,Naga National Council (NNC),0,0
+3566,Kata'ib Hezbollah,0,1
+3567,Arab Socialist Baath Party of Iraq,0,0
+3568,Joint Meeting Parties (JMP),0,0
+3569,National Front for the Revolution in Burundi (FRONABU-Tabara),0,1
+3570,Provisional RSPCA,0,1
+3571,Adivasi People's Army (APA),0,1
+3572,Indian Mujahideen,0,0
+3573,Khorasan jihadi group,0,1
+3574,Right-wing extremists,1,1
+3575,Baloch Liberation Tigers (BLT),0,1
+3576,Ansar Bayt al-Maqdis (Ansar Jerusalem),0,1
+3577,Kuki National Liberation Front (KNLF),0,1
+3578,Yimchunger Liberation Front (YLF),0,0
+3579,Muslim United Liberation Tigers of Assam (MULTA),0,0
+3580,Zeliangrong United Front,0,1
+3581,Democratic Front for the Liberation of Palestine (DFLP),0,0
+3582,Hekla Reception Committee-Initiative for More Social Eruptions,0,0
+3583,Hekla Reception Committee-Initiative for More Social Eruptions,0,1
+3584,Hill Tiger Force (HTF),0,1
+3585,Movement for Oneness and Jihad in West Africa (MUJAO),0,1
+3586,Liberation and Justice Movement (LJM),0,0
+3587,Hill Tiger Force (HTF),0,0
+3588,Soldiers of the Caliphate,0,1
+3589,Comando Autónomo Voltaire Argandoña,0,1
+3590,United Baloch Army (UBA),0,1
+3591,Adivasi People's Army (APA),0,0
+3592,Free Syrian Army,0,1
+3593,Garo National Liberation Army,0,1
+3594,Revolutionary Insurgent Armed Forces of Ecuador (FAIRE),0,1
+3595,Eritrean Salvation Front (ESF),0,1
+3596,Ansar al-Sunna,0,0
+3597,Islamic Movement of Kashmir,0,1
+3598,Al-Qaida in the Arabian Peninsula (AQAP),0,-9
+3599,Individuals Tending Toward Savagery,0,1
+3600,Zintani Militia,0,0
+3601,Core Conspirators for the Extension of Chaos (Núcleo de Conspiradores por la Extensión de Kaos),0,1
+3602,Adivasi Cobra Militants of Assam (ACMA),0,0
+3603,Arauco Malleco Coordinating Group (CAM) - Chile,0,1
+3604,Shabelle Valley militia,0,1
+3605,Anti-Muslim extremists,1,1
+3606,Nepal Defense Army,0,0
+3607,Al-Nusrah Front,0,0
+3608,Free Syrian Army,0,0
+3609,Janatantrik Terai Madhes Mukti Party- Bhagat Singh (JTMMP),0,1
+3610,Azawad National Liberation Movement (MNLA),0,1
+3611,Qari Kamran Group,0,0
+3612,Dissident Republicans,0,1
+3613,Samyukta Terai Madhes Mukti Party,0,1
+3614,Zeliangrong United Front,0,0
+3615,Sudan People's Liberation Movement - North,0,0
+3616,Syrian Army deserters,0,0
+3617,Bedouin tribesmen,0,1
+3618,Shabelle Valley militia,0,0
+3619,Al-Nusrah Front,0,1
+3620,Tehrik-e-Taliban Islami (TTI),0,1
+3621,Sudan Liberation Army-Minni Minawi (SLA-MM),0,1
+3622,Samyukta Jatiya Mukti Morcha (SJMM),0,0
+3623,Urban Guerrilla War,0,1
+3624,Revolutionary Front,0,1
+3625,Communist Party of India- Marxist,0,0
+3626,Coordination Committee (CORCOM),0,1
+3627,Coordination Committee (CORCOM),0,0
+3628,Bhittani tribe,0,0
+3629,Sunni Muslim extremists,1,1
+3630,Zetas,0,1
+3631,Jharkhand Janmukti Parishad (JJP),0,0
+3632,Sindhudesh Revolutionary Army (SRA),0,1
+3633,National Committee for the Restoration of Democracy and State (CNRDR),0,1
+3634,Jundallah (Pakistan),0,1
+3635,People's Revolutionary Party of Kangleipak-Progressive (PREPAK-P),0,1
+3636,Communist Party of Nepal (People's War Group),0,1
+3637,Supporters of Ali Abdullah Saleh,0,0
+3638,Civilian Defense,0,0
+3639,Secessionists,0,0
+3640,Azawad National Liberation Movement (MNLA),0,0
+3641,Al-Naqshabandiya Army,0,0
+3642,Ansar al-Dine (Mali),0,0
+3643,Sudanese Rebels,0,0
+3644,South Sudan Democratic Army,0,0
+3645,Kachin Independence Army (KIA),0,0
+3646,Pro Hartal Activists,0,0
+3647,Mai Mai Simba Militia,0,0
+3648,Ansar al-Dine (Mali),0,1
+3649,Force Etudiante Critique,0,0
+3650,Mahaz Fedai Tahrik Islami Afghanistan,0,0
+3651,Shiv Sena,0,1
+3652,Friends of Loukanikos,0,0
+3653,Telangana Separatists,0,1
+3654,Islami Jamiat-e-Talaba (IJT),0,0
+3655,Mullah Dadullah Front,0,0
+3656,Brigades of Imprisoned Sheikh Omar Abdel-Rahman,0,1
+3657,Nepalbad Party,0,1
+3658,Knights Templar (Caballeros Templarios),0,1
+3659,Republican Action Against Drugs (RAAD),0,1
+3660,Gbagbo Loyalists,0,0
+3661,Ingush Rebels,0,1
+3662,Karbi People's Liberation Tigers (KPLT),0,1
+3663,Golden Dawn,0,0
+3664,People's Amn Committee,0,0
+3665,Mujahedeen Shura Council in the Environs of Jerusalem,0,1
+3666,Sovereign Citizen,0,0
+3667,International Revolutionary Front,0,1
+3668,Izberbash Gang,0,0
+3669,Partido Marxista-Leninista ng Pilipinas (PMLP),0,1
+3670,Sindh Liberation Front,0,1
+3671,Hynniewtrep National Liberation Council (HNLC),0,1
+3672,Kuki National Liberation Front (KNLF),0,0
+3673,Tolib Ayombekov loyalists,0,0
+3674,Brigade of al-Mukhtar al-Thaqafi,0,1
+3675,People's Protection Units (YPG),0,0
+3676,Jaljala Army,0,0
+3677,Bangsamoro Islamic Freedom Movement (BIFM),0,0
+3678,Bangsamoro Islamic Freedom Movement (BIFM),0,1
+3679,Pakistani People's Party (PPP),0,0
+3680,Kilafah Islamic Movement,0,0
+3681,Proletariat Self-defense Groups,0,0
+3682,Liberation and Justice Movement (LJM),0,1
+3683,Dissident Republican Guard,0,0
+3684,Pro-LGBT Rights extremists,1,1
+3685,Jaish-e-Islam,0,1
+3686,Qaddafi loyalists,0,1
+3687,David Yau Yau Militia,0,0
+3688,Lashkar-e-Balochistan,0,0
+3689,Ansar al-Sharia (Libya),0,1
+3690,Ansar al-Sharia (Tunisia),0,0
+3691,Kurdish extremists,0,0
+3692,Resistencia Galega,0,0
+3693,Jaish Usama,0,1
+3694,Yakariya Bango Insurgent Group,0,0
+3695,Tajamo Ansar al-Islam,0,1
+3696,Kuki Tribal Militants,0,0
+3697,Mombasa Republican Council (MRC),0,0
+3698,National Freedom Party,0,0
+3699,Zomi Revolutionary Army (ZRA),0,1
+3700,Sudan People's Liberation Movement - North,0,1
+3701,Movement for Oneness and Jihad in West Africa (MUJAO),0,0
+3702,Mujahidin Indonesia Timur (MIT),0,0
+3703,Bengali Sangram Mukti Bahini,0,1
+3704,Harakat Ansar Iran (HAI),0,0
+3705,The New Irish Republican Army,0,1
+3706,Sudurpaschim Janata Dal,0,1
+3707,Rohingya Solidarity Organization,0,0
+3708,Convention of Patriots for Justice and Peace,0,0
+3709,M23,0,1
+3710,Diraa al-Shahbaa Rebel Brigade,0,0
+3711,Israeli settlers,0,0
+3712,Tawheedul Islam,0,1
+3713,Popular Front for Recovery (FPR),0,0
+3714,Militant Minority (Greece),0,1
+3715,Abida Tribe,0,0
+3716,Punjabi Taliban,0,0
+3717,Biswabhumi Sena Bishal Nepal,0,1
+3718,The New Irish Republican Army,0,0
+3719,Ansaru (Jama'atu Ansarul Muslimina Fi Biladis Sudan),0,1
+3720,Mapuche extremists,0,1
+3721,Mapuche extremists,0,0
+3722,Shiv Sena,0,0
+3723,Ansar Bayt al-Maqdis (Ansar Jerusalem),0,0
+3724,Mujahideen Ansar,0,1
+3725,Ansarullah Bangla Team,0,0
+3726,Group of Popular Fighters,0,1
+3727,Jaish al-Muhajireen wal-Ansar (Muhajireen Army),0,1
+3728,Al-Mua'qi'oon Biddam Brigade (Those who Sign with Blood),0,1
+3729,Golden Dawn,0,1
+3730,Wild Freedom,0,1
+3731,National Liberation Front of Provence (FLNP),0,1
+3732,Bedouin Movement (Sudan),0,0
+3733,United Baloch Army (UBA),0,0
+3734,Bedouin Movement (Sudan),0,1
+3735,Anti-Police extremists,1,1
+3736,Mateo Morral Insurrectionist Commandos,0,1
+3737,Mukhtar Army,0,1
+3738,Angry Brigade,0,1
+3739,Ansarullah Bangla Team,0,1
+3740,Muslim Renewal,0,1
+3741,February 14th Movement,0,1
+3742,Liwa al-Islam,0,1
+3743,Communist Party of Nepal-Maoist (Baidya),0,1
+3744,Yarmouk Martyrs Brigade,0,1
+3745,Al-Herak Al-Tihami Movement,0,0
+3746,United Bengali Liberation Front (UBLF),0,1
+3747,Overall Deniers of Joining the Existing,0,1
+3748,Islamic State of Iraq and the Levant (ISIL),0,1
+3749,February 14th Movement,0,0
+3750,Buddhist Monks,0,0
+3751,Epanastatiki Anatropi (Revolutionary Overthrow),0,1
+3752,Terai Communist Party,0,1
+3753,Jamaat Tauhid Wal Jihad (Pakistan),0,1
+3754,Communist Party of Nepal-Maoist (Baidya),0,0
+3755,National Democratic Front-Bicol (NDF-Bicol),0,1
+3756,Hassan Mabkhut Group,0,0
+3757,Islamic State of Iraq and the Levant (ISIL),0,0
+3758,Anti-Clerical Pro-Sex Toys Group,0,1
+3759,Maoist Communist Party of Manipur,0,1
+3760,Colonel Albert Kahasha Militia,0,0
+3761,Sayfullakh,0,1
+3762,Balakhani Group,0,0
+3763,Zehri Youth Force (ZYF),0,1
+3764,Pattali Makkal Katchi (PMK),0,1
+3765,Pattali Makkal Katchi (PMK),0,0
+3766,Jumuiya ya Taasisi za Kiislam (Community of Muslim Organizations),0,0
+3767,Abdul Qader Husseini Battalions of the Free Palestine movement,0,1
+3768,Anti-Gentrification Front,0,1
+3769,Egyptian Tawhid and Jihad,0,1
+3770,M23,0,0
+3771,Anti-Gun Control extremists,1,1
+3772,Anti-Muslim extremists,0,1
+3773,Al-Toaiman Tribesmen,0,0
+3774,Pattani United Liberation Organization-MKP (PULO-MKP),0,1
+3775,Armed Group for the Defence of the People,0,1
+3776,Al-Ashtar Brigades,0,1
+3777,Sudan Revolutionary Front (SRF),0,1
+3778,Proletariat Self-defense Groups,0,1
+3779,Southern Mobility Movement (Yemen),0,1
+3780,English Defense League (EDL),0,0
+3781,Syrian Mujahideen,0,1
+3782,Borderless Solidarity Cell (BSC),0,1
+3783,Ahrar al-Sham,0,1
+3784,United Achik Liberation Army (UALA),0,0
+3785,313 Brigade (Syria),0,1
+3786,Liwa al-Sham,0,1
+3787,Civilian Joint Task Force (JTF),0,0
+3788,Al-Ummah,0,1
+3789,Detonators of Social Uprisings,0,1
+3790,Sudan Liberation Army-Minni Minawi (SLA-MM),0,0
+3791,Muslim Brotherhood,0,1
+3792,Unsubordinated Desires,0,1
+3793,Jammu and Kashmir Islamic Front,0,1
+3794,Pahadi Cheetah,0,1
+3795,Sudan Revolutionary Front (SRF),0,0
+3796,Barisan Revolusi Nasional (BRN),0,1
+3797,Muslim Brotherhood,0,0
+3798,Okba Ibn Nafaa Brigade,0,0
+3799,Liwa al-Haqq,0,1
+3800,Kuki Revolutionary Army (KRA),0,1
+3801,Students For Insurrection,0,1
+3802,Zuwar al-Imam Rida,0,1
+3803,Four Martyrs Brigade,0,1
+3804,The Mujahadeen Room in Latakia Countryside,0,1
+3805,Aisha Umm-al Mouemeneen (Brigades of Aisha),0,1
+3806,Sindhu Desh Liberation Army (SDLA),0,0
+3807,Popular Resistance Brigade,0,1
+3808,Amazigh Islamic Front,0,1
+3809,National Liberation Force of Bengalis (Bangali Janamukti Bahini),0,1
+3810,Sanatan Sanstha,0,0
+3811,Veterans United for Non-Religious Memorials,0,1
+3812,Islamic Unification Movement,0,0
+3813,Angry Foxes Cell,0,1
+3814,Al-Furqan Brigades,0,1
+3815,Makhachkala Gang,0,0
+3816,Defenders of the Nation's Sovereignty,0,1
+3817,Mapuche Ancestral Resistance (RAM),0,1
+3818,Ombatse Cult,0,0
+3819,Vanguards of the Caliphate,0,1
+3820,Caspian Group,0,0
+3821,Bru National Liberation Front (BNLF),0,0
+3822,Powers of the Revolutionary Arc,0,1
+3823,Moro Ghuraba,0,1
+3824,Liwa al-Tawhid,0,0
+3825,Aba Cheali Group,0,0
+3826,Khasi Students Union,0,0
+3827,Al-Qaida in the Indian Subcontinent,0,1
+3828,Libya Revolutionaries Operations Room (LROR),0,1
+3829,Ayesha bint al-Sadiq Brigade,0,1
+3830,Mozambique National Resistance Movement (MNR),0,1
+3831,Jaish al-Adl,0,1
+3832,Militant People's Revolutionary Forces,0,1
+3833,Ansaru ash-Sharia (Russia),0,1
+3834,Achik National Volunteer Council-B (ANVC-B),0,0
+3835,Israeli extremists,0,1
+3836,Manipur Naga People's Army (MNPA),0,1
+3837,Seleka,0,0
+3838,Bangladesh Nationalist Party (BNP),0,1
+3839,Jaish al-Mukhtar,0,1
+3840,Ansar al-Sharia (Libya),0,0
+3841,Anti-Balaka Militia,0,0
+3842,Corsican Nationalists,0,0
+3843,Baloch National Liberation Front,0,1
+3844,Unification Army Sons Brigade,0,1
+3845,National Democratic Alliance Army (NDAA-ESSA),0,0
+3846,Tehrik-e-Nifaz-e-Aman Balochistan-Jhalawan Brigade (TNAB-Jhalawan Brigade),0,1
+3847,Zwai Tribe,0,0
+3848,Libya Shield Force,0,0
+3849,Anti-Balaka Militia,0,1
+3850,Jund al-Islam,0,1
+3851,Abu Jaafar al-Mansur Brigades,0,1
+3852,Hadramawt Tribes Alliance,0,0
+3853,Achik National Volunteer Council-B (ANVC-B),0,1
+3854,Punjabi Taliban,0,1
+3855,Tabu Tribe,0,0
+3856,Achik Tiger Force,0,1
+3857,Abu Bakr Unis Jabr Brigade,0,0
+3858,Abu Tira (Central Reserve Forces),0,0
+3859,Tehama Movement,0,0
+3860,United Revolutionary Front,0,1
+3861,Sudan People's Liberation Movement in Opposition (SPLM-IO),0,0
+3862,National Liberation Council of Taniland,0,1
+3863,Ajnad Misr,0,1
+3864,Achik National Liberation Army (ANLA),0,0
+3865,National Liberation Front (FNL) (Burundi),0,1
+3866,Al-Qaqa Brigade,0,0
+3867,Islamic Front (Syria),0,1
+3868,Tarok Militia,0,0
+3869,Anti-Yanukovych extremists,1,1
+3870,Baloch Waja Liberation Army (BWLA),0,1
+3871,Hadramawt Tribes Alliance,0,1
+3872,Mai Mai Bakata Katanga Militia,0,0
+3873,Tehrik-e-Khilafat,0,1
+3874,Right Sector,0,0
+3875,Mustafa al-Hujairi Group,0,0
+3876,Manipur Naga People's Army (MNPA),0,0
+3877,Jaish as-Saiyouf (Army of Swords),0,1
+3878,The Association for Islamic Mobilisation and Propagation (UAMSHO),0,0
+3879,Pro-Russia Militia,0,0
+3880,Uighur Separatists,0,1
+3881,Libya Revolutionaries Operations Room (LROR),0,0
+3882,Biafra Zionist Movement (BZM),0,1
+3883,Russian Unity,0,0
+3884,Cyrenaica Self-Defense Force,0,0
+3885,United Tribal Liberation Army (UTLA),0,0
+3886,Al-Islah Party,0,0
+3887,Ansar al-Sharia (Tunisia),0,1
+3888,Raskamboni Movement,0,0
+3889,Liwa Ahrar al-Sunna,0,1
+3890,Tiv Militia,0,0
+3891,Al-Mus'abi Tribe,0,0
+3892,Zomi Revolutionary Army (ZRA),0,0
+3893,Achik Songna An'pachakgipa Kotok (ASAK),0,0
+3894,National Santhali Liberation Army (NSLA),0,1
+3895,Military Council of the Tribal Revolutionaries (MCTR),0,1
+3896,Orakzai Freedom Movement,0,1
+3897,Donetsk People's Republic,0,1
+3898,Donetsk People's Republic,0,0
+3899,Ses'khona Peoples' Rights Movement,0,0
+3900,Sudanese People's Front,0,1
+3901,Kachin Independence Army (KIA),0,1
+3902,Jaish Tahkim al-Din,0,1
+3903,Luhansk People's Republic,0,1
+3904,Luhansk People's Republic,0,0
+3905,Alliance of Patriots for a Free and Sovereign Congo (APCLS),0,0
+3906,Democratic Front of the Central African People (FDPC),0,0
+3907,Military Council of the Tribal Revolutionaries (MCTR),0,0
+3908,Tanzeem al-Islami al-Furqan,0,1
+3909,Haftar Militia,0,1
+3910,Haftar Militia,0,0
+3911,Student Network of Mandalay,0,1
+3912,Jaish al-Islam (Libya),0,1
+3913,Baloch Republican Guards (BRG),0,1
+3914,Rafallah al-Sahati Brigade,0,0
+3915,Jharkhand Bachao Aandolan,0,0
+3916,Right Sector,0,1
+3917,Organization for Revolutionary Self Defense,0,1
+3918,Biafra Zionist Movement (BZM),0,0
+3919,United Karbi Liberation Army (UKLA),0,1
+3920,Ingush Rebels,0,0
+3921,Ukrainian nationalists,0,0
+3922,Bodu Bala Sena,0,0
+3923,Dima Hasao National Army,0,0
+3924,Rafallah al-Sahati Brigade,0,1
+3925,Southern Front,0,0
+3926,Russian separatists,0,0
+3927,Mitiga Militia,0,0
+3928,Saraya al-Mukhtar,0,1
+3929,Bangalee Somo Odhikar Andolon,0,0
+3930,Janjaweed,0,1
+3931,Libyan Militia,0,0
+3932,Sinai Province of the Islamic State,0,0
+3933,Okba Ibn Nafaa Brigade,0,1
+3934,Barq al-Nasser Brigade,0,0
+3935,Hamza Combat Group against Atheism and Heresy,0,1
+3936,Armed Forces for National Salvation - Army of the People (FASN-EP),0,1
+3937,Sudan People's Liberation Movement in Opposition (SPLM-IO),0,1
+3938,National Socialist Council of Nagaland-Khole-Kitovi (NSCN-KK),0,0
+3939,Islamic Youth Shura Council,0,1
+3940,February 17 Martyrs Brigade,0,0
+3941,Achik National Cooperative Army (ANCA),0,0
+3942,Misrata Brigades,0,0
+3943,Turkestan Islamic Party,0,0
+3944,Al-Madani Brigade,0,1
+3945,Rabha National Security Force,0,0
+3946,Achik National Cooperative Army (ANCA),0,1
+3947,National Socialist Council of Nagaland-Khole-Kitovi (NSCN-KK),0,1
+3948,Greater Damascus Operations Room,0,0
+3949,Mabanese Defence Forces,0,0
+3950,Knights of Janzour,0,0
+3951,Armenian extremists,1,0
+3952,Orfei Harsha'am,0,0
+3953,Abu Obaida bin Jarrah Brigade,0,0
+3954,Islamic Youth Shura Council,0,0
+3955,Jaish-e-Khorasan (JeK),0,1
+3956,Al-Naqshabandiya Army,0,1
+3957,Unified Communist Party of Nepal (Maoist),0,0
+3958,German Resistance Movement,0,1
+3959,Tanzeem al-Islami al-Furqan,0,0
+3960,Halqa-e-Mehsud,0,0
+3961,Jamaat-ul-Ahrar,0,1
+3962,Left-wing extremists,0,1
+3963,Random Anarchists,0,1
+3964,Proletarian Solidarity,0,1
+3965,Al-Jihad (Pakistan),0,1
+3966,Shura Council of Benghazi Revolutionaries,0,0
+3967,Jamaat-E-Islami (Bangladesh),0,1
+3968,Anarchists,1,1
+3969,Jund al-Khilafa,0,1
+3970,Nduma Defense of Congo (NDC),0,0
+3971,Jharkhand Prastuti Committee (JPC),0,0
+3972,Manipur Nationalist Revolutionary Party (MNRP),0,0
+3973,Mujahidin Indonesia Timur (MIT),0,1
+3974,Democratic Front of the Central African People (FDPC),0,1
+3975,The Irish Volunteers,0,1
+3976,Basque Separatists,0,1
+3977,Shura Council of Benghazi Revolutionaries,0,1
+3978,Economic Freedom Fighters,0,0
+3979,Cossack Separatists,0,0
+3980,Army of the Tribes,0,0
+3981,Al-Zintan Revolutionaries' Military Council,0,1
+3982,Yazidi extremists,0,1
+3983,Donskoy Army,0,0
+3984,February 17 Martyrs Brigade,0,1
+3985,Ukrainian nationalists,0,1
+3986,Al-Sawaiq Brigade,0,0
+3987,Mawlawi and Mansour Group,0,0
+3988,Zawiya Martyrs Brigade,0,0
+3989,Tuareg extremists,0,1
+3990,Barqa Province of the Islamic State,0,0
+3991,Anarchist Anti-Capitalist Action Group,0,1
+3992,Kharkiv Partisans,0,0
+3993,Sinai Province of the Islamic State,0,1
+3994,Youth of the Land of Egypt,0,1
+3995,Tripoli Province of the Islamic State,0,1
+3996,Proletarian Assault Group,0,1
+3997,Hafiz Gul Bahadur Group,0,1
+3998,Free Balochistan Army (FBA),0,1
+3999,Supporters of the Islamic State in the Land of the Two Holy Mosques,0,1
+4000,United Aryan Empire,0,0
+4001,Al-Faruq Militia,0,0
+4002,Yekbun,0,0
+4003,Abu Obaida bin Jarrah Brigade,0,1
+4004,Lehava,0,0
+4005,Khorasan Chapter of the Islamic State,0,1
+4006,Ta'ang National Liberation Army (TNLA),0,1
+4007,Anarchist Attack Consortium,0,1
+4008,Islamic Front (Syria),0,0
+4009,Jund Ansar Allah,0,1
+4010,Free Network South (Freies Netz Sued),0,0
+4011,Arab Movement of Azawad (MAA),0,1
+4012,United Revolutionary Front,0,0
+4013,Arab Movement of Azawad (MAA),0,0
+4014,Barqa Province of the Islamic State,0,1
+4015,Shura Council of Mujahideen in Derna,0,1
+4016,Shamiya Front,0,1
+4017,Fezzan Province of the Islamic State,0,1
+4018,Popular Resistance Movement (Egypt),0,1
+4019,Revenge Movement,0,1
+4020,Marwan Al-Qawasimi and Amir Abu-Ayshah Group,0,1
+4021,Tripoli Province of the Islamic State,0,0
+4022,Pro-Russia Militia,0,1
+4023,Anarchist Commando Nestor Makhno Group,0,1
+4024,Seleka,0,1
+4025,Revolutionary Movement for National Salvation (REMNASA),0,0
+4026,Self-Defense Group of Imghad Tuaregs and Allies (GATIA),0,0
+4027,Revolutionary Punishment Movement,0,1
+4028,Barak Valley Tiger Force (BVTF),0,0
+4029,Bru Democratic Front of Mizoram (BDFM),0,0
+4030,Murle Tribe,0,0
+4031,Algeria Province of the Islamic State,0,1
+4032,Animal Rights extremists,0,1
+4033,Anti-Immigrant extremists,0,1
+4034,Maoist Communist Party (MKP),0,1
+4035,Al-Saadawi Militia,0,0
+4036,Al-Sham Legion,0,1
+4037,Ansar al-Din Front,0,1
+4038,Ahle Sunnat Wal Jamaat (ASWJ-Pakistan),0,1
+4039,Gathering to Aid the Oppressed,0,0
+4040,Khorasan Chapter of the Islamic State,0,0
+4041,Islamic Movement of Uzbekistan (IMU),0,1
+4042,National Democratic Alliance Army (NDAA-ESSA),0,1
+4043,Kouweikhat Group,0,1
+4044,A'chik Matgrik Elite Force (AMEF),0,0
+4045,Patriotic Europeans against the Islamization of the West (PEGIDA),0,0
+4046,Hmar People's Convention-Democracy (HPC-D),0,0
+4047,Fezzan Province of the Islamic State,0,0
+4048,United Front for Democracy Against Dictatorship,0,1
+4049,Supporters of Abd Rabbuh Mansur Hadi,0,0
+4050,Hindu Illaignar Sena,0,1
+4051,Jund al-Khilafah (Tunisia),0,1
+4052,Sanaa Province of the Islamic State,0,1
+4053,Lahij Province of the Islamic State,0,1
+4054,Jaysh al-Islam (Syria),0,1
+4055,West Indonesia Mujahideen,0,0
+4056,Nihilistic Patrol and Neighborhood Arsonists,0,1
+4057,Pro-choice extremists,1,1
+4058,People's Defense Unit (Turkey),0,1
+4059,Jamaah Ansharut Daulah,0,1
+4060,Jharkhand Sangharsh Jan Mukti Morcha,0,1
+4061,Urhobo Gbagbako,0,1
+4062,Revolutionary Movement for National Salvation (REMNASA),0,1
+4063,Popular Resistance Committees (Yemen),0,0
+4064,Shabwah Province of the Islamic State,0,1
+4065,Ukrainian Insurgent Army,0,1
+4066,Supporters of Abd Rabbuh Mansur Hadi,0,1
+4067,Ta'ang National Liberation Army (TNLA),0,0
+4068,Dravidar Viduthalai Kazhagam (DVK),0,0
+4069,Execution Squad (Egypt),0,1
+4070,Communist Party of Nepal - Maoist (CPN-Maoist-Chand),0,1
+4071,Right-wing extremists,0,1
+4072,Ahrar al-Sham,0,0
+4073,Macina Liberation Front (FLM),0,0
+4074,Self-Defense Group of Imghad Tuaregs and Allies (GATIA),0,1
+4075,Coordination of Azawad Movements (CMA),0,1
+4076,Revolutionary Army,0,1
+4077,Nyatura Militia,0,0
+4078,Hadramawt Province of the Islamic State,0,1
+4079,Abdul Ghani Kikli Militia,0,0
+4080,Coordination of Azawad Movements (CMA),0,0
+4081,United National Liberation Front of WESEA (UNLFW),0,1
+4082,Halqa-e-Mehsud,0,1
+4083,Supporters of the Islamic State in Jerusalem,0,1
+4084,Achik Songna An'pachakgipa Kotok (ASAK),0,1
+4085,Supporters of the Islamic State in Jerusalem,0,0
+4086,Najd Province of the Islamic State,0,1
+4087,Popular Resistance Committees (Yemen),0,1
+4088,Lashkar-e-Islam (India),0,1
+4089,Lama Group,0,0
+4090,Sanaa Province of the Islamic State,0,0
+4091,Fatah al-Islam,0,0
+4092,Lashkar-e-Islam (India),0,0
+4093,Southern Front,0,1
+4094,Medfaiyah Wal-Sewarigh Brigade,0,0
+4095,Revolutionary Cells Network (SRN),0,1
+4096,Jaysh al-Islam (Syria),0,0
+4097,Moro Ghuraba,0,0
+4098,The Revolt,0,0
+4099,Shura Council of Mujahideen in Derna,0,0
+4100,Odessa Underground,0,1
+4101,Ansar al-Sharia Operations Room (Syria),0,1
+4102,Jaish al-Fatah (Syria),0,0
+4103,Jaish-e-Islam,0,0
+4104,Islamic State in Egypt,0,1
+4105,National Liberation Front (Ecuador),0,1
+4106,The Third Way (Der III. Weg),0,0
+4107,Jaish al-Fatah (Syria),0,1
+4108,Group of the Fatima Church Attack,0,1
+4109,Aleppo Fatah Operations Room,0,1
+4110,Puratchi Puligal,0,0
+4111,Urhobo Gbagbako,0,0
+4112,Communist Party of Nepal - Maoist (CPN-Maoist-Chand),0,0
+4113,Freital Group,0,0
+4114,Saraya Waad Allah,0,1
+4115,Tehrik al-Mojahedin,0,1
+4116,Hijaz Province of the Islamic State,0,1
+4117,Free and Democratic Society of Eastern Kurdistan (KODAR),0,1
+4118,Macina Liberation Front (FLM),0,1
+4119,Adan-Abyan Province of the Islamic State,0,0
+4120,Anti-Nuclear extremists,1,1
+4121,Islamic State in Egypt,0,0
+4122,Arakan Army (AA),0,0
+4123,Magahat Militia,0,1
+4124,Sheikh Omar Hadid Brigade,0,1
+4125,Baloch Young Tigers (BYT),0,1
+4126,Death Squad (Iraq),0,1
+4127,Al-Haydariyah Battalion,0,1
+4128,Hindu Morcha Nepal,0,1
+4129,Rubicon (Rouvikonas),0,1
+4130,Adan-Abyan Province of the Islamic State,0,1
+4131,Bangladesh Tiger Force,0,1
+4132,Anti-Immigrant extremists,0,0
+4133,Islamic State in Bangladesh,0,1
+4134,United Garo Security Force (UGSF),0,0
+4135,Shura Council of Ajdabiya Revolutionaries,0,0
+4136,Insurrectionals from the Frontier,0,1
+4137,Arakan Liberation Party (ALP),0,1
+4138,Sunni Resistance Committees in Lebanon (SRCL),0,1
+4139,Awdal Regional Administration Army (ARAA),0,0
+4140,Al-Furqan (Tunisia),0,0
+4141,Tepi Youth,0,1
+4142,Jai Shri Ram Hindu Bhai Group,0,0
+4143,Free Libya Martyrs Brigade,0,1
+4144,Aceh Singkil Islamic Care Youth Students Association (PPI),0,0
+4145,Free Libya Martyrs Brigade,0,0
+4146,Bahrain Province of the Islamic State,0,1
+4147,Maute Group,0,0
+4148,Arakan Liberation Party (ALP),0,0
+4149,Shan State Army - North (SSA-N),0,0
+4150,Anti-Semitic extremists,0,0
+4151,Majlis-e-Askari,0,1
+4152,Pagan Sect of the Mountain,0,1
+4153,Anti-Sikh extremists,1,1
+4154,Baba Ladla Gang,0,0
+4155,Abu Salim Martyr's Brigade,0,0
+4156,United Democratic Madhesi Front (UDMF),0,1
+4157,Ahle Sunnat Wal Jamaat (ASWJ-Pakistan),0,0
+4158,United Gorkha People's Organization (UGPO),0,1
+4159,United Democratic Madhesi Front (UDMF),0,0
+4160,White supremacists/nationalists,0,1
+4161,Ansar Al-Khilafa (Philippines),0,1
+4162,Revolutionaries Army (Jaysh al-Thowwar),0,0
+4163,Hadramawt Province of the Islamic State,0,0
+4164,South Sudan Armed Forces (SSAF),0,1
+4165,Berom Militants,0,0
+4166,Ansar al-Imam Musa al-Sadr,0,0
+4167,Islamic Movement (Nigeria),0,0
+4168,Patriotic Ginbot 7 Movement for Unity and Democracy (PGMUD),0,1
+4169,Kata'ib al-Imam Ali,0,1
+4170,Supporters of Ali Abdullah Saleh,0,1
+4171,Anarchist Cell Acca (C.A.A.),0,1
+4172,Raia Mutomboki Militia,0,0
+4173,Ramiro Ledesma Social Centre,0,0
+4174,Lekagak Tenggamati,0,0
+4175,Kilafah Islamic Movement,0,1
+4176,Caucasus Province of the Islamic State,0,1
+4177,United Jihad Council,0,1
+4178,Citizens for Constitutional Freedom,0,1
+4179,Harakat al-Nujaba,0,0
+4180,Kuki Tribal Militants,0,1
+4181,Achik Matgrik Army (AMA),0,1
+4182,Misrata Brigades,0,1
+4183,Mutassim Billah Gaddafi Battalion,0,1
+4184,Al-Qaida in the Indian Subcontinent,0,0
+4185,Maute Group,0,1
+4186,Democratic Youth Federation of India (DYFI),0,0
+4187,Mozambique Liberation Front (FRELIMO),0,0
+4188,Weichan Auka Mapu,0,1
+4189,Muttahida Qami Movement (MQM),0,1
+4190,Lahij Province of the Islamic State,0,0
+4191,United Reformation Protest of India,0,0
+4192,Moran Tiger Force (MTF),0,1
+4193,Janatantrik Tiger Janashakti Party,0,1
+4194,Union of Patriots for the Defense of Innocents (UPDI),0,0
+4195,Antagonistic Nuclei of the New Urban Guerrilla,0,1
+4196,A'chik Matgrik Elite Force (AMEF),0,1
+4197,Niger Delta Avengers (NDA),0,1
+4198,Jihadi-inspired extremists,0,0
+4199,Youth Movement for the Total Liberation of Azawad,0,1
+4200,Separatists,1,1
+4201,Kuki Independent Organization (KIO/KIA),0,1
+4202,Wampis extremists,0,1
+4203,Nyatura Militia,0,1
+4204,Tawheed Militia,0,0
+4205,Republican Forces of Burundi (FOREBU),0,1
+4206,Civil Protection Units (YPS),0,0
+4207,Mai Mai Karakara Militia,0,0
+4208,Ramiro Ledesma Social Centre,0,1
+4209,Court Reform extremists,1,1
+4210,Tripoli Revolutionaries Battalion,0,0
+4211,Tripoli Revolutionaries Battalion,0,1
+4212,Liberation of Achik Elite Force (LAEF),0,0
+4213,Base Movement,0,1
+4214,Jaish al-Umar (JaU),0,1
+4215,Jundul Khilafah (Philippines),0,1
+4216,Syrian Turkmen Brigades,0,0
+4217,Gunib Group,0,0
+4218,Tripura Group,0,0
+4219,Jund al-Aqsa,0,1
+4220,South Group (Russia),0,0
+4221,Jabha East Africa,0,1
+4222,Tribal Revolutionary Army (TRA),0,1
+4223,Kani Brigade,0,0
+4224,Omar Mukhtar Militia,0,0
+4225,Nur-al-Din al-Zinki Movement,0,0
+4226,Kizilyurtovskiy Group,0,0
+4227,National Socialist Council of Nagaland-Unification (NSCN-U),0,0
+4228,Revolutionary Communist Centre (RCC),0,0
+4229,Rohingya extremists,0,1
+4230,Abu Amarah Battalion,0,1
+4231,Red Egbesu Water Lions,0,1
+4232,Tiwa Liberation Army,0,1
+4233,Niger Delta Avengers (NDA),0,0
+4234,South East Antrim Brigade,0,0
+4235,Niger Delta extremists,0,0
+4236,Concerned Militant Leaders (CML),0,1
+4237,Kazakhstan Liberation Army,0,1
+4238,Ghniwah Militia,0,0
+4239,Suqour al-Ahvaz,0,1
+4240,National Democratic Alliance (NDA),0,1
+4241,Ansar al-Furqan,0,1
+4242,Jaish al-Sunnah,0,1
+4243,Islamic Movement for the Liberation of Raja,0,0
+4244,Hizb al-Tahrir al-Islami (HT),0,1
+4245,Benghazi Defense Brigades (BDB),0,1
+4246,Anti-Trump extremists,1,1
+4247,Ansar Al-Khilafa (Philippines),0,0
+4248,National Revolutionary Front of Manipur (NRFM),0,1
+4249,Shamil Group,0,0
+4250,Les Casseurs,0,1
+4251,Red Scorpion,0,1
+4252,Ahfad al-Sahaba-Aknaf Bayt al-Maqdis,0,1
+4253,Bru National Liberation Front (BNLF),0,1
+4254,Black Hebrew Israelites,0,0
+4255,Anti-White extremists,1,1
+4256,Islamic State in Bangladesh,0,0
+4257,Peace at Home Council,0,1
+4258,Ecosocialist Forces,0,1
+4259,Mai Mai Manu Militia,0,0
+4260,Hasam Movement,0,1
+4261,Sasna Tsrer,0,1
+4262,Anti-Police extremists,0,1
+4263,Mai Mai Mazembe Militia,0,0
+4264,Al-Nasir Army (Syria),0,1
+4265,Jaish al-Mujahideen (Syria),0,1
+4266,Ahmad Luebaesa Group,0,0
+4267,League of Damascus for Special Tasks,0,1
+4268,Opponents of disabled people,1,1
+4269,Movimiento Revolucionario Alfarista (MRA) - Comuneros Montanas del Ecuador,0,1
+4270,New Indigenous People's Army,0,0
+4271,Front for the Liberation of Cabinda / Cabinda Armed Forces (FLEC-FAC),0,1
+4272,Peoples' United Revolutionary Movement (HBDH),0,1
+4273,Sociedade Secreta Silvestre (ITS-Brazil),0,1
+4274,Niger Delta Justice Defense Group (NDJDG),0,1
+4275,Kuki Unification Frontal Organization (KUFO),0,0
+4276,Vetevendosje,0,1
+4277,Dashmesh Regiment,0,1
+4278,All Assam Revolutionary Army (AARA),0,1
+4279,Unrepentant Anarchists,0,1
+4280,Benghazi Defense Brigades (BDB),0,0
+4281,Niger Delta Greenland Justice Mandate (NDGJM),0,1
+4282,Runda Kumpulan Kecil (RKK),0,1
+4283,Syrian Democratic Forces (SDF),0,0
+4284,Nuer White Army,0,0
+4285,Revolution's Brigade,0,1
+4286,Rugovasit Group,0,1
+4287,"Lone Wolves of Radical, Autonomous, Militant National Socialism",0,1
+4288,Tigray Peoples Liberation Front (TPLF),0,0
+4289,Chama Pueblo en Rebelion,0,1
+4290,Jund al-Aqsa,0,0
+4291,Islamic State in the Greater Sahara (ISGS),0,1
+4292,The 78 Unemployed,0,0
+4293,Authenticity and Development Front,0,1
+4294,Cossack Separatists,0,1
+4295,Thanthai Periyar Dravidar Kazhagam (TPDK),0,1
+4296,Kamwina Nsapu Militia,0,0
+4297,Patriotic Europeans against the Islamization of the West (PEGIDA),0,1
+4298,Fulani extremists,0,1
+4299,"Return, Reclamation, Rehabilitation (3R)",0,0
+4300,Martyr al-Nimr Battalion,0,1
+4301,Tehrik-e-Hurriyat (TeH),0,0
+4302,Al-Yakin Mujahidin,0,1
+4303,Hijaz Province of the Islamic State,0,0
+4304,Mariscal Lopez Army (EML),0,0
+4305,Agwelek Forces,0,1
+4306,Abbala extremists,0,0
+4307,Alde Hemendik Movement,0,0
+4308,No Borders Group,0,0
+4309,Popular Mobilization Forces (Iraq),0,0
+4310,Union for Peace in Central Africa (UPC),0,0
+4311,Ajnad al-Sham,0,1
+4312,Nur-al-Din al-Zinki Movement,0,1
+4313,Bharatiya Janata Party,0,0
+4314,Jharkhand Prastuti Committee (JPC),0,1
+4315,Bahoz,0,0
+4316,Rohingya extremists,0,0
+4317,Islamic State in the Greater Sahara (ISGS),0,0
+4318,Environmentalists,1,1
+4319,Nordic Resistance Movement,0,0
+4320,Jamaah Ansharut Daulah,0,0
+4321,Al Bayda Province of the Islamic State,0,0
+4322,Popular Front for the Renaissance of the Central African Republic (FPRC),0,0
+4323,Shuar extremists,0,1
+4324,Ma'sadat al-Mujahideen,0,1
+4325,Khaled Ibn al-Walid Army,0,0
+4326,Anti-Park extremists,1,1
+4327,Jharkhand Kranti Raksha Dal (Utari Chotanagpur),0,1
+4328,Jabha East Africa,0,0
+4329,Conspiracy theory extremists,1,1
+4330,Shuar extremists,0,0
+4331,Ansar al-Islam (Burkina Faso),0,1
+4332,The Independent Military Wing of the Syrian Revolution Abroad,0,1
+4333,Haji Fateh,0,0
+4334,Al-Fateh Al-Jadid,0,1
+4335,Hasam Movement,0,0
+4336,Arab-Israeli extremists,0,1
+4337,Groups of Martyr Baha Eleyan,0,1
+4338,Al-Zawiya Syndicates Council,0,1
+4339,Misanthropic Division,0,1
+4340,Hay Andalus Defense Operations Room,0,0
+4341,Fajr al-Umma Brigade,0,0
+4342,People's Revolutionary Movement (MRP),0,1
+4343,Anti-LGBT extremists,0,1
+4344,Abu Abbas Brigade,0,0
+4345,Ansar al-Islam (Burkina Faso),0,0
+4346,Right-wing extremists,1,0
+4347,Caucasus Province of the Islamic State,0,0
+4348,Twa Militia,0,0
+4349,Rubicon (Rouvikonas),0,0
+4350,Hay'at Tahrir al-Sham,0,0
+4351,Revolutionary Armed Forces of Colombia (FARC) dissidents,0,0
+4352,Thadou People's Liberation Army (TPLA),0,0
+4353,Kamwina Nsapu Militia,0,1
+4354,Front for the Liberation of Cabinda / Cabinda Armed Forces (FLEC-FAC),0,0
+4355,Hay'at Tahrir al-Sham,0,1
+4356,Al Bayda Province of the Islamic State,0,1
+4357,All Nepal National Free Student Union-Revolutionary,0,0
+4358,Quit Kashmir Movement (QKM),0,1
+4359,Algeria Province of the Islamic State,0,0
+4360,Cells of Direct Attack - Living Waste Group,0,1
+4361,Conspiracy of Vengeful Arsonists,0,1
+4362,Raia Mutomboki Militia,0,1
+4363,United Achik National Front (UANF),0,0
+4364,Benishangul Gumuz People's Liberation Movement,0,0
+4365,Jamaat Nusrat al-Islam wal Muslimin (JNIM),0,1
+4366,Council for Justice in Azawad,0,0
+4367,Nikhil Bharat Bangali Udbastu Samannay Samiti (NBBUSS),0,0
+4368,Naga extremists,0,0
+4369,Jund al-Khilafah (Tunisia),0,0
+4370,Albanian extremists,1,1
+4371,Rajput extremists,0,0
+4372,Fire and Flame for the Police (FFdP),0,1
+4373,Misurata Rebels,0,1
+4374,Zagros Eagles,0,1
+4375,Wild Individualities,0,1
+4376,Good Vision Party (India),0,1
+4377,Nazhdak Radical Public Organization,0,0
+4378,Imam Shamil Battalion,0,1
+4379,Jamaat Nusrat al-Islam wal Muslimin (JNIM),0,0
+4380,Tritiya Prastuti Committee (TPC),0,1
+4381,Bilal Badr Group,0,0
+4382,Provisional National Government of Vietnam,0,1
+4383,Nalut Group,0,0
+4384,Bab Tajura Brigade,0,0
+4385,Fight Xenophobia,0,1
+4386,Corsican Nationalists,0,1
+4387,South Sudanese extremists,0,1
+4388,Patriotic Ginbot 7 Movement for Unity and Democracy (PGMUD),0,0
+4389,Patria Grande Ejercito del Pueblo,0,0
+4390,National Council for Revival and Democracy (CNRD),0,0
+4391,Revolutionary Armed Forces of Colombia (FARC) dissidents,0,1
+4392,Jordanian extremists,0,0
+4393,National Socialist Council of Nagaland-Reformation (NSCN-R),0,1
+4394,Neo-Fascist extremists,0,1
+4395,Anti-Police extremists,1,0
+4396,Anti-Coup extremists,1,1
+4397,Niger Delta Forest Army (NDFA),0,1
+4398,Anti-LGBT extremists,1,0
+4399,Irrintzi,0,1
+4400,Niger Delta extremists,0,1
+4401,Birsa Commando Force (BCF),0,0
+4402,Mai Mai Charles Militia,0,0
+4403,Union of Peoples and Organizations of the State of Guerrero (UPOEG),0,0
+4404,Gorkha Janmukti Morcha (GJM),0,0
+4405,Al-Yakin Mujahidin,0,0
+4406,Anti-Republican extremists,1,0
+4407,People's Revolutionary Movement (MRP),0,0
+4408,Vishwa Hindu Parishad (VHP),0,1
+4409,Shutdown G20: Take Hamburg offline!,0,1
+4410,National Movement of Revolutionaries (MNR),0,1
+4411,Ansar al-Sharia (Pakistan),0,1
+4412,National Movement of Revolutionaries (MNR),0,0
+4413,Liberal Democratic Council for Missing Land,0,0
+4414,Front for the Restoration of Unity and Democracy,0,0
+4415,Equilibrio Nacional,0,1
+4416,Hizballah-Iraq,0,1
+4417,United Party for National Development (UPND),0,0
+4418,Anti-LGBT extremists,0,0
+4419,United Tribal Liberation Army (UTLA),0,1
+4420,Justicieros de la Frontera,0,1
+4421,Arab-Israeli extremists,0,0
+4422,Black Masked Winners (BMW),0,1
+4423,Nawasi Brigade,0,0
+4424,Informal Feminist Commando for Anti-authoritarian Action,0,1
+4425,Residents and regulars of Exarchia,0,1
+4426,Arakan Rohingya Salvation Army (ARSA),0,0
+4427,White Rabbit Three Percent Illinois Patriot Freedom Fighters Militia,0,1
+4428,Pragatishil Tarai Mukti Morcha,0,1
+4429,Gorkha Liberation Army (GLA),0,1
+4430,Arakan Rohingya Salvation Army (ARSA),0,1
+4431,Anti-Fascist Activists,0,0
+4432,Ansar al-Sharia (Pakistan),0,0
+4433,Apella,0,0
+4434,Tutsi extremists,0,0
+4435,Mai Mai Yakutumba Militia,0,0
+4436,Hindu extremists,0,1
+4437,Ambazonia Defense Forces (ADF),0,1
+4438,Indigenous People of Biafra (IPOB),0,1
+4439,Christian State-Holy Rus,0,1
+4440,Najd Province of the Islamic State,0,0
+4441,The Defense Command of the French People and the Motherland (CDPPF),0,1
+4442,Indigenous People of Biafra (IPOB),0,0
+4443,Islamic State of Iraq and the Levant (ISIL),1,1
+4444,Ahneish Militia,0,0
+4445,Anarchist Revolt Against Exiled Gendarmes,0,1
+4446,Indigenous People's Front of Tripura (IPFT),0,0
+4447,Torpedy Group,0,0
+4448,The Nocturnals,0,1
+4449,Sinhale Jathika Balamuluwa,0,0
+4450,Mai Mai Yakutumba Militia,0,1
+4451,Anas al-Dabbashi Brigade,0,1
+4452,Anas al-Dabbashi Brigade,0,0
+4453,Ansar al-Sunna (Mozambique),0,0
+4454,Mai Mai Malaika Militia,0,0
+4455,Jharkhand Janmukti Parishad (JJP),0,1
+4456,Pro-Government extremists,0,0
+4457,Anarchist Collective of Kallithea-Moschato,0,1
+4458,Ansar al-Islam (Egypt),0,1
+4459,Feminist extremists,0,1
+4460,Movement for the Restoration of the Independence of Southern Cameroons,0,0
+4461,Sikh Extremists,0,0
+4462,Arm na Poblachta' (Army of the Republic),0,1
+4463,Crypteia,0,1
+4464,White Rabbit Three Percent Illinois Patriot Freedom Fighters Militia,0,0
+4465,Hafeez Brohi Group,0,0
+4466,Pro-LGBT Rights extremists,0,1
+4467,Bachama extremists,0,0
+4468,Nepali Congress Party (NC),0,0
+4469,Bedouin Israeli extremists,0,1
+4470,Afar Revolutionary Democratic Unity Front,0,0
+4471,Ansar Ghazwat-ul-Hind,0,0
+4472,The Owners of the White Flags,0,0
+4473,High Council for the Unity of Azawad (HCUA),0,0
+4474,Fatoni Warriors,0,1
+4475,Ambazonia Defense Forces (ADF),0,0
+4476,Minorities of Metropolitan Attacks,0,1
+4477,Baloch Republican Party,0,0
+4478,Crypteia,0,0
+4479,Room of the Neighbourhoods Youths,0,0
+4480,Popular Front of India (PFI),0,0
+4481,Free Alawite Movement,0,1
+4482,Volunteers of Innocent People of Nagas (VIPN),0,1
+4483,Bashir al-Baqarah militia,0,0
+4484,Jabal al-Islam Brigade,0,1
+4485,Southern Resistance Forces (SRF),0,0
+4486,Women's Protection Units (YPJ),0,1
+4487,Arakan Army (AA),0,1
+4488,Ambazonia Tigers,0,0
+4489,Falanga,0,0
+4490,People's Protection Units (YPG),0,1
+4491,Sawaid Al-Khayr,0,0
+4492,Ansar Ghazwat-ul-Hind,0,1
+4493,Zaghawa extremists,0,0
+4494,Arm na Poblachta' (Army of the Republic),0,0
+4495,Kata'ib Sayyid al-Shuhada,0,0
+4496,Syrian Democratic Forces (SDF),0,1
+4497,Pumba and Tata Cartel,0,1
+4498,Armed Revolutionary Forces,0,1
+4499,Irigwe Militia,0,0
+4500,Anti-Fascist Activists,0,1
+4501,Jaish al-Adl,0,0
+4502,Action Cell Haukur Hilmarsson,0,1
+4503,Khaled Ibn al-Walid Army,0,1
+4504,Hizb-ul-Ahrar (HuA),0,1
+4505,Dravidar Kazhagam,0,0
+4506,Vulkangruppe NetzHerrschaft zerreissen,0,1
+4507,Bastards & Blasphems,0,1
+4508,Mai Mai Mazembe Militia,0,1
+4509,Polisario Front,0,0
+4510,S14,0,1
+4511,Siriri,0,0
+4512,Sons of Zouari,0,1
+4513,Tehreek-e-Labbaik Pakistan (TLP),0,1
+4514,South Sudan United Front (SSUF),0,0
+4515,Resistance to the Rule of Law in Burundi (Red-Tabara),0,1
+4516,Negara Islam Indonesia (NII),0,1
+4517,Pro-Palestinian extremists,0,1
+4518,Saraya al-Jihad Fi Bilad al-Sham,0,1
+4519,Ambazonia Restoration Forces (ARF),0,1
+4520,Derna Protection Force (DPF),0,0
+4521,Mullah Nazir Group,0,0
+4522,Natsionalnyi Druzhiny,0,1
+4523,Militarized Communist Party of Peru (MPCP),0,0
+4524,Trieu Dai Viet,0,0
+4525,Sober and Evil Youth,0,1
+4526,Dogon extremists,0,0
+4527,Pathalgadi Movement,0,0
+4528,Afrin Falcons,0,1
+4529,Anti-Israeli extremists,0,0
+4530,Nyandan militia,0,0
+4531,Republican Forces of Burundi (FOREBU),0,0
+4532,Catholic extremists,0,0
+4533,Ambazonia Restoration Forces (ARF),0,0
+4534,Baloch Nationalists,0,1
+4535,Social Patriot Movement,0,1
+4536,Revenge of the Martyrs (Tha'ir al-Shuhada),0,1
+4537,Juwa Party,0,0
+4538,National Movement of Soldiers in Shirts,0,1
+4539,Dozo militia,0,0
+4540,Military Command Council for the Salvation of the Republic (CCSMR),0,1
+4541,Cellula Haris Hatzimihelakis/Internazionale nera,0,1
+4542,Mai Mai Hapa Na Pale,0,0
+4543,Peaceful Resistance Group of Mataquescuintla,0,0
+4544,Peaceful Resistance Group of Mataquescuintla,0,1
+4545,East Asia Division of the Islamic State,0,1
+4546,Democratic Progressive Party (Malawi),0,0
+4547,National Liberation Front (NLF-Syria),0,0
+4548,Omar Abdel Rahman Brigade,0,1
+4549,Popular Front for the Renaissance of the Central African Republic (FPRC),0,1
+4550,Anti-Republican extremists,1,1
+4551,Ansar al-Tawhid,0,1
+4552,SERB Group (Russian Liberation Movement),0,0
+4553,United Wa State Army,0,1
+4554,United Wa State Army,0,0
+4555,Movement of the youth in Tripoli,0,1
+4556,Bhinderanwale Tiger Force of Khalistan (BTHK),0,1
+4557,Revolution Chemnitz,0,0
+4558,Sumud Brigade,0,0
+4559,CasaPound,0,0
+4560,Furqa 23,0,0
+4561,Arab Liberation of Al-Ahvaz,0,1
+4562,Ambazonia Tigers,0,1
+4563,Movement for the Salvation of Azawad (MSA),0,1
+4564,Savane Pistache gang,0,0
+4565,Tariq Bin Ziyad militia,0,0
+4566,Incite the Believers,0,1
+4567,Pro-Trump extremists,1,0
+4568,Chavistas,0,0
+4569,Incel extremists,1,0
+4570,Bassa Kwomu extremists,0,0
+4571,Sundar Shanta Nepal,0,1
+4572,Central Africa Province of the Islamic State,0,1
+4573,Jeay Sindh Muttahida Mahaz (JSMM),0,0
+4574,Hurras al-Din,0,0
+4575,Lendu militia,0,0
+4576,Wampis extremists,0,0
+4577,All (Baksa District) B.F.D.N Sangodan,0,1
+4578,Jalisco New Generation Cartel (CJNG),0,0
+4579,Anger of Fezzan movement,0,1
+4580,Sham Liberation Army,0,0
+4581,Wrath of Olives,0,1
+4582,People's Revolutionary Party of Kangleipak-Progressive (PREPAK-P),0,0
+4583,South Sudan National Movement for Change (SSNMC-Unvuas),0,0
+4584,Gaitanista Self-Defense Forces of Colombia (AGC),0,0
+4585,Iconoclastic Sect,0,1
+4586,National Salvation Front (NAS),0,0
+4587,Koluama Seven Brothers,0,1
+4588,Patriotic Youth Movement of the Gabonese Defence and Security Forces,0,1
+4589,Anti-Fascist Spring Bremen,0,1
+4590,Popular Resistance Committees in Daraa,0,1
+4591,Conspiracy theory extremists,1,0
+4592,Narco-Terrorists,0,1
+4593,Popular Mobilization Forces (Iraq),0,1
+4594,Martyr Ciyager and Martyr Zeryan Revenge Units,0,1
+4595,Mai Mai Portuguais Militia,0,0
+4596,Baloch Raji Ajoi Sangar (BRAS),0,1
+4597,Free Joseon,0,1
+4598,Supporters of Nicolas Maduro,0,0
+4599,Al-Khums Revolutionaries' Union,0,0
+4600,National Socialist Council of Nagaland-Reformation (NSCN-R),0,0
+4601,Twigwaneho militia,0,0
+4602,National Thowheeth Jama'ath,0,0
+4603,Anti-Christian extremists,0,0
+4604,Pro-choice extremists,1,0
+4605,Pro-migration extremists,1,1
+4606,Dan Na Ambassagou,0,0
+4607,Anti-Trump extremists,0,0
+4608,L'Asilo,0,0
+4609,Arunachal Pradesh Deprived People's Front (APDPF),0,0
+4610,Al-Amaliqah Brigades,0,0
+4611,Ansar al-Tawhid,0,0
+4612,Dimasa National Liberation Army (DNLA),0,0
+4613,United Constitutional Patriots,0,1
+4614,Ngumino militia,0,0
+4615,National Liberation Front (NLF-Syria),0,1
+4616,Chaotic Harmony,0,1
+4617,Moles,0,1
+4618,Operations of Martyr Ali Mansour,0,1
+4619,National People's Party (India),0,0
+4620,Durruti Brigades,0,1
+4621,Anti-Roma extremists,0,1
+4622,People's Democratic Council of Karbi Longri (PDCK),0,1
+4623,Afrin Liberation Forces (HRE),0,1
+4624,Iran-backed militia,0,0
+4625,Jukun militia,0,0
+4626,Shield Wall Network (SWN),0,1
+4627,Kurdish Democratic Party-Iran (KDP),0,0
+4628,The Children of the Fire Initiative,0,1
+4629,Anti-Fascist Activists,1,1
+4630,Awliya al-Dam,0,1
+4631,Complices Sediciosos/Fraccion por la Venganza,0,1
+4632,Southern Resistance Forces (SRF),0,1
+4633,High Council of the Islamic Emirate,0,1
+4634,Renamo Military Junta,0,0
+4635,Imbonerakure militia,0,0
+4636,Turkish-backed militia,0,0
+4637,Resistance to the Rule of Law in Burundi (Red-Tabara),0,0
+4638,Mog Liberation Party,0,0
+4639,Renamo Military Junta,0,1
+4640,St Patrick's Survivors group,0,1
+4641,Nicaraguan Patriotic Alliance (APN),0,1
+4642,Marxist-Leninist Communist Party (Turkey-MLKP),0,0
+4643,Feuerkrieg Division (FKD),0,1
+4644,The Resistance Front (TRF),0,1
+4645,Ahrar al-Sharqiya,0,1
+4646,Takam Mising Porin Kebang (TMPK),0,1
+4647,Cooperative for the Development of the Congo (CODECO) militia,0,0
+4648,Central Africa Province of the Islamic State,0,0
+4649,Ahrar al-Sharqiya,0,0
+4650,Conspiracy theory extremists,0,0
+4651,Anti-CAB activists,0,0
+4652,Mayhem Squads,0,1
+4653,Mai Mai Kyandenga Militia,0,0
+4654,Iconoclastic Sect,0,0
+4655,Popular Nationalist Insurgency Command of the Large Brazilian Integralist Family,0,1
+4656,Ulster Freedom Fighters (UFF),0,1
+4657,Hind Province of the Islamic State,0,0
+4658,Pakistan Province of the Islamic State,0,1
+4659,Anarchist Night Raid Teams,0,1
+4660,Thanthai Periyar Dravidar Kazhagam (TPDK),0,0
+4661,Hindu extremists,1,1
+4662,Lions of Khilafah in the Maldives,0,1
+4663,Hind Province of the Islamic State,0,1
+4664,Saraya al-Salam,0,0
+4665,Saraya Thorat Aleshreen,0,1
+4666,Anti-Religion extremists,1,1
+4667,Pakistan Province of the Islamic State,0,0
+4668,Armed Affinities in Revolt,0,1
+4669,RADA Special Deterrence Forces,0,0
+4670,Sadrist Movement,0,0
+4671,Syrian Resistance Forces to Liberate Golan Heights,0,0
+4672,Venezuelan Patriotic Front,0,1
+4673,Koglweogo,0,0
+4674,Sudanese Islamic Youth Movement,0,1
+4675,Revolutionary League,0,1
+4676,Incite the Believers,0,0
+4677,Intelligence Force of Oku,0,1
+4678,Conspiracy theory extremists,0,1
+4679,Boogaloo movement,0,1
+4680,Mapuche Lavkenche Resistance (RML),0,1
+4681,Anti-Asian extremists,0,0
+4682,Hafiz Gul Bahadur Group,0,0
