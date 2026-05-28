@@ -17,6 +17,15 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+
+# Generated data outputs
+*.csv
+*.xlsx
+*.xls
+*.sqlite
+*.sqlite3
+*.db
+
 ml/models/*.pkl
 ml/models/*.onnx
 !ml/models/.gitkeep
