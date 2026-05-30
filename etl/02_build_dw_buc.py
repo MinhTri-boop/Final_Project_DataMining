@@ -1,16 +1,10 @@
 """
 Task T02-A — Star Schema Data Warehouse & Iceberg Cube with optimized BUC-style pruning
-Input : data/processed/gtd_cleaned.csv
-Output: data/processed/ SQLite star schema database + Iceberg cube CSV/table
+Input : gtd_cleaned.csv
+Output: SQLite star schema database + Iceberg cube CSV/table
 
 Run:
-    python etl/02_build_dw_buc.py --input data/processed/gtd_cleaned.csv --outdir data/processed --min_sup 100
-
-Fixes compared with the earlier version:
-1. Builds the Iceberg Cube using vectorized cuboid aggregation over all 2^d cuboids.
-   With d=7 dimensions, this is equivalent to the generated BUC cube and is much faster.
-2. Creates SQLite tables from explicit SQL schema, so PRIMARY KEY and FOREIGN KEY constraints
-   are actually present in the .sqlite database.
+    python etl/02_build_dw_buc.py --input ../data/processed/outputs_t01/gtd_cleaned.csv --outdir ../data/processed/outputs_t02 --min_sup 100
 """
 
 from __future__ import annotations
@@ -47,7 +41,8 @@ def add_surrogate_key(df: pd.DataFrame, key_name: str) -> pd.DataFrame:
 def build_star_schema(df: pd.DataFrame) -> tuple[dict[str, pd.DataFrame], pd.DataFrame]:
     date_dim = df[DATE_KEYS].drop_duplicates().reset_index(drop=True).copy()
     date_dt = pd.to_datetime(date_dim["event_date"], errors="coerce")
-    date_dim.insert(0, "date_id", date_dt.dt.strftime("%Y%m%d").astype("int64"))
+    # Fix NaT to int64 crash: fill invalid/missing dates with 19700101
+    date_dim.insert(0, "date_id", date_dt.dt.strftime("%Y%m%d").fillna("19700101").astype("int64"))
     date_dim = date_dim.drop_duplicates(subset=["date_id"]).reset_index(drop=True)
 
     loc_dim = add_surrogate_key(df[LOCATION_KEYS], "location_id")
@@ -56,11 +51,15 @@ def build_star_schema(df: pd.DataFrame) -> tuple[dict[str, pd.DataFrame], pd.Dat
     outcome_dim = add_surrogate_key(df[OUTCOME_KEYS], "outcome_id")
 
     fact = df[["eventid"] + DATE_KEYS + LOCATION_KEYS + ATTACK_KEYS + ACTOR_KEYS + OUTCOME_KEYS + FACT_MEASURES].copy()
-    fact["date_id"] = pd.to_datetime(fact["event_date"], errors="coerce").dt.strftime("%Y%m%d").astype("int64")
+    fact["date_id"] = pd.to_datetime(fact["event_date"], errors="coerce").dt.strftime("%Y%m%d").fillna("19700101").astype("int64")
     fact = fact.merge(loc_dim, on=LOCATION_KEYS, how="left")
     fact = fact.merge(attack_dim, on=ATTACK_KEYS, how="left")
     fact = fact.merge(actor_dim, on=ACTOR_KEYS, how="left")
     fact = fact.merge(outcome_dim, on=OUTCOME_KEYS, how="left")
+
+    # Safety to avoid NaNs propagating to required FKs if merges fail (though inner columns shouldn't be null)
+    for fk in ["location_id", "attack_id", "actor_id", "outcome_id"]:
+        fact[fk] = fact[fk].fillna(0).astype("int64")
 
     fact_cols = ["eventid", "date_id", "location_id", "attack_id", "actor_id", "outcome_id"] + FACT_MEASURES
     fact = fact[fact_cols].copy()
@@ -75,8 +74,8 @@ def build_star_schema(df: pd.DataFrame) -> tuple[dict[str, pd.DataFrame], pd.Dat
     return dims, fact
 
 
-def schema_sql() -> str:
-    return """
+def schema_sql(min_sup: int) -> str:
+    return f"""
 PRAGMA foreign_keys = ON;
 
 CREATE TABLE dim_date (
@@ -159,7 +158,7 @@ CREATE TABLE fact_events (
     FOREIGN KEY(outcome_id) REFERENCES dim_outcome(outcome_id)
 );
 
-CREATE TABLE iceberg_cube_min_sup_100 (
+CREATE TABLE iceberg_cube_min_sup_{min_sup} (
     decade TEXT,
     region_txt TEXT,
     country_txt TEXT,
@@ -183,32 +182,35 @@ CREATE INDEX idx_fact_outcome ON fact_events(outcome_id);
 """.strip()
 
 
-def write_schema_sql(path: Path) -> None:
-    path.write_text(schema_sql(), encoding="utf-8")
+def write_schema_sql(path: Path, min_sup: int) -> None:
+    path.write_text(schema_sql(min_sup), encoding="utf-8")
 
 
-def write_to_sqlite(db_path: Path, dims: dict[str, pd.DataFrame], fact: pd.DataFrame, cube: pd.DataFrame) -> None:
+def write_to_sqlite(db_path: Path, dims: dict[str, pd.DataFrame], fact: pd.DataFrame, cube: pd.DataFrame, min_sup: int) -> None:
     if db_path.exists():
         db_path.unlink()
     with sqlite3.connect(db_path) as conn:
-        conn.executescript(schema_sql())
+        conn.executescript(schema_sql(min_sup))
         for name, table in dims.items():
             table.to_sql(name, conn, if_exists="append", index=False)
         fact.to_sql("fact_events", conn, if_exists="append", index=False)
-        cube.to_sql("iceberg_cube_min_sup_100", conn, if_exists="append", index=False)
-        conn.execute("PRAGMA foreign_key_check")
+        cube.to_sql(f"iceberg_cube_min_sup_{min_sup}", conn, if_exists="append", index=False)
+        
+        # Real foreign key check
+        violations = conn.execute("PRAGMA foreign_key_check").fetchall()
+        if violations:
+            raise ValueError(f"Dữ liệu vi phạm khóa ngoại! Chi tiết: {violations}")
+            
         conn.commit()
 
 
 def buc_iceberg_cube_fast(df: pd.DataFrame, dims: list[str], min_sup: int) -> pd.DataFrame:
-    """Fast BUC-equivalent Iceberg Cube for a small number of dimensions.
-
-    For 7 dimensions, enumerating all cuboids has only 2^7 = 128 group-bys.
-    Each aggregate is filtered by support > min_sup, which is the iceberg condition.
-    """
     data = df[dims + CUBE_MEASURES].copy()
     for d in dims:
         data[d] = data[d].fillna("Unknown").astype(str).str.strip().replace({"": "Unknown", "nan": "Unknown"})
+
+    for m in CUBE_MEASURES:
+        data[m] = pd.to_numeric(data[m], errors="coerce").fillna(0)
 
     output_parts: list[pd.DataFrame] = []
 
@@ -270,31 +272,39 @@ def save_metadata(outdir: Path, dims: dict[str, pd.DataFrame], fact: pd.DataFram
     lines.append("## Main files")
     lines.append("- `gtd_star_schema.sqlite`")
     lines.append("- `schema_star.sql`")
-    lines.append("- `iceberg_cube_min_sup_100.csv`")
+    lines.append(f"- `iceberg_cube_min_sup_{min_sup}.csv`")
     (outdir / "DW_Cube_Report.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--input",
-        default="data/processed/gtd_cleaned.csv"
-    )
-    parser.add_argument(
-        "--outdir",
-        default="data/processed"
-    )
+    parser.add_argument("--input", default="../data/processed/outputs_t01/gtd_cleaned.csv")
+    parser.add_argument("--outdir", default="../data/processed/outputs_t02")
     parser.add_argument("--min_sup", type=int, default=100)
     args = parser.parse_args()
 
     start = time.time()
-    outdir = Path(args.outdir)
+    
+    # Paths resolved relative to the script location (in etl/)
+    base_dir = Path(__file__).parent
+    input_path = (base_dir / args.input).resolve()
+    outdir = (base_dir / args.outdir).resolve()
     outdir.mkdir(parents=True, exist_ok=True)
 
-    df = pd.read_csv(args.input, low_memory=False)
+    if not input_path.exists():
+        print(f"Error: Input file {input_path} does not exist. Please run 01_preprocess_eda.py first.")
+        return
+
+    # Use dtype=str to avoid low_memory=False and guessing overhead
+    df = pd.read_csv(input_path, dtype=str)
     for c in CUBE_DIMS + ["provstate", "city", "gname", "weapsubtype1_txt"]:
         if c in df.columns:
-            df[c] = df[c].fillna("Unknown").astype(str).str.strip().replace({"": "Unknown", "nan": "Unknown"})
+            df[c] = df[c].fillna("Unknown").astype(str).str.strip().replace({"": "Unknown", "nan": "Unknown", "None": "Unknown"})
+
+    # Convert known numeric columns
+    for c in FACT_MEASURES + ["iyear", "imonth", "iday", "country", "region", "success", "suicide", "extended", "multiple", "property", "ishostkid", "ransom", "attacktype1", "targtype1", "weaptype1", "weapsubtype1", "individual", "claimed"]:
+        if c in df.columns:
+            df[c] = pd.to_numeric(df[c], errors="coerce")
 
     print("Building star schema...")
     dims, fact = build_star_schema(df)
@@ -305,10 +315,10 @@ def main() -> None:
     for name, table in dims.items():
         table.to_csv(outdir / f"{name}.csv", index=False, encoding="utf-8-sig")
     fact.to_csv(outdir / "fact_events.csv", index=False, encoding="utf-8-sig")
-    cube.to_csv(outdir / "iceberg_cube_min_sup_100.csv", index=False, encoding="utf-8-sig")
+    cube.to_csv(outdir / f"iceberg_cube_min_sup_{args.min_sup}.csv", index=False, encoding="utf-8-sig")
 
-    write_schema_sql(outdir / "schema_star.sql")
-    write_to_sqlite(outdir / "gtd_star_schema.sqlite", dims, fact, cube)
+    write_schema_sql(outdir / "schema_star.sql", args.min_sup)
+    write_to_sqlite(outdir / "gtd_star_schema.sqlite", dims, fact, cube, args.min_sup)
     save_metadata(outdir, dims, fact, cube, args.min_sup)
 
     print(f"Done in {time.time() - start:.1f}s")

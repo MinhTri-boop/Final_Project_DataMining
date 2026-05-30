@@ -4,7 +4,7 @@ Input : globalterrorismdb_0522dist.xlsx
 Output: cleaned data + EDA reports/plots
 
 Run:
-    python etl/01_preprocess_eda.py --input data/raw/globalterrorismdb_0522dist.xlsx --outdir data/processed
+    python etl/01_preprocess_eda.py --input ../data/raw/globalterrorismdb_0522dist.xlsx --outdir ../data/processed/outputs_t01
 
 Notes:
 - The script only keeps columns useful for EDA, mining, star schema and cube.
@@ -84,7 +84,10 @@ def get_cell_value(cell, shared_strings: list[str]) -> str:
         return ""
     raw = v.text or ""
     if cell_type == "s":
-        return shared_strings[int(raw)] if raw else ""
+        try:
+            return shared_strings[int(raw)] if raw else ""
+        except (ValueError, IndexError):
+            return ""
     return raw
 
 
@@ -138,17 +141,29 @@ def extract_selected_xlsx_to_csv(xlsx_path: Path, csv_path: Path, keep_cols: lis
 def make_lat_band(x) -> str:
     if pd.isna(x):
         return "Unknown"
-    lower = int(np.floor(float(x) / 10) * 10)
-    lower = max(-90, min(80, lower))
-    return f"[{lower},{lower + 10})"
+    try:
+        val = float(x)
+        if math.isnan(val):
+            return "Unknown"
+        lower = int(np.floor(val / 10) * 10)
+        lower = max(-90, min(80, lower))
+        return f"[{lower},{lower + 10})"
+    except (ValueError, TypeError):
+        return "Unknown"
 
 
 def make_lon_band(x) -> str:
     if pd.isna(x):
         return "Unknown"
-    lower = int(np.floor(float(x) / 10) * 10)
-    lower = max(-180, min(170, lower))
-    return f"[{lower},{lower + 10})"
+    try:
+        val = float(x)
+        if math.isnan(val):
+            return "Unknown"
+        lower = int(np.floor(val / 10) * 10)
+        lower = max(-180, min(170, lower))
+        return f"[{lower},{lower + 10})"
+    except (ValueError, TypeError):
+        return "Unknown"
 
 
 def make_day_period(day) -> str:
@@ -175,7 +190,8 @@ def make_casualty_level(x) -> str:
 
 
 def clean_data(raw_csv: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
-    df = pd.read_csv(raw_csv, low_memory=False)
+    # Use dtype=str to avoid low_memory=False and guessing overhead
+    df = pd.read_csv(raw_csv, dtype=str)
     df = df.drop_duplicates(subset=["eventid"]).copy()
 
     # Convert numeric columns safely.
@@ -191,7 +207,7 @@ def clean_data(raw_csv: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
                 .fillna("Unknown")
                 .astype(str)
                 .str.strip()
-                .replace({"": "Unknown", "nan": "Unknown"})
+                .replace({"": "Unknown", "nan": "Unknown", "None": "Unknown"})
             )
 
     # Flags before imputation.
@@ -214,11 +230,11 @@ def clean_data(raw_csv: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
     df["month_safe"] = df["imonth"].where(df["month_known"].eq(1), 1).astype(int)
     df["day_safe"] = df["iday"].where(df["day_known"].eq(1), 1).astype(int)
     df["event_date"] = pd.to_datetime(
-        dict(year=df["iyear"].astype(int), month=df["month_safe"], day=df["day_safe"]),
+        dict(year=df["iyear"].astype(float).fillna(1970).astype(int), month=df["month_safe"], day=df["day_safe"]),
         errors="coerce",
     )
-    df["quarter"] = np.where(df["month_known"].eq(1), "Q" + (((df["imonth"] - 1) // 3) + 1).astype(int).astype(str), "Unknown")
-    df["decade"] = (df["iyear"] // 10 * 10).astype(int).astype(str) + "s"
+    df["quarter"] = np.where(df["month_known"].eq(1), "Q" + (((df["imonth"] - 1) // 3) + 1).astype(float).fillna(1).astype(int).astype(str), "Unknown")
+    df["decade"] = (df["iyear"].fillna(1970) // 10 * 10).astype(int).astype(str) + "s"
     df["day_period"] = df["iday"].apply(make_day_period)
     df["date_precision"] = np.select(
         [df["month_known"].eq(1) & df["day_known"].eq(1), df["month_known"].eq(1)],
@@ -335,7 +351,7 @@ def save_eda(df: pd.DataFrame, missing_report: pd.DataFrame, outdir: Path) -> No
 ## Dataset size
 - Rows after de-duplication by eventid: {len(df):,}
 - Columns in cleaned output: {df.shape[1]}
-- Year range: {int(df['iyear'].min())}–{int(df['iyear'].max())}
+- Year range: {int(df['iyear'].min(skipna=True))}–{int(df['iyear'].max(skipna=True))}
 
 ## Cleaning decisions
 1. Dropped very sparse/repeated/free-text fields by only keeping {len(KEEP_COLS)} core columns useful for mining and cube construction.
@@ -358,29 +374,30 @@ def save_eda(df: pd.DataFrame, missing_report: pd.DataFrame, outdir: Path) -> No
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--input",
-        default="data/raw/globalterrorismdb_0522dist.xlsx",
-        help="Path to GTD xlsx file"
-    )
-    parser.add_argument(
-        "--outdir",
-        default="data/processed",
-        help="Output folder"
-    )
+    parser.add_argument("--input", default="../data/raw/globalterrorismdb_0522dist.xlsx", help="Path to GTD xlsx file")
+    parser.add_argument("--outdir", default="../data/processed/outputs_t01", help="Output folder")
     args = parser.parse_args()
 
-    input_path = Path(args.input)
-    outdir = Path(args.outdir)
+    # Paths resolved relative to the script location (in etl/)
+    base_dir = Path(__file__).parent
+    input_path = (base_dir / args.input).resolve()
+    outdir = (base_dir / args.outdir).resolve()
     outdir.mkdir(parents=True, exist_ok=True)
 
     raw_csv = outdir / "gtd_selected_raw.csv"
     cleaned_csv = outdir / "gtd_cleaned.csv"
 
     if input_path.suffix.lower() == ".xlsx":
+        if not input_path.exists():
+            print(f"Error: Input file {input_path} does not exist.")
+            return
         extract_selected_xlsx_to_csv(input_path, raw_csv, KEEP_COLS)
     else:
         raw_csv = input_path
+
+    if not raw_csv.exists():
+        print(f"Error: Raw CSV {raw_csv} does not exist.")
+        return
 
     cleaned_df, missing_report = clean_data(raw_csv)
     cleaned_df.to_csv(cleaned_csv, index=False, encoding="utf-8-sig")
