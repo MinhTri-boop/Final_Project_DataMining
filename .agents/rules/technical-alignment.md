@@ -29,9 +29,11 @@ Toàn bộ dự án sẽ sử dụng các công nghệ sau để đảm bảo t�
 
 * **Data Engineering & ML:** Python 3.10+, `pandas`, `scikit-learn`, `mlxtend` (cho FP-Growth), `xgboost`.
 * **Database:** PostgreSQL (Lý do: Hỗ trợ tốt cho Star Schema và các truy vấn phân tích).
-* **Backend:** Python FastAPI (Lý do: Tốc độ cao, dễ dàng load model Machine Learning `.pkl` hoặc `.onnx` và tự động sinh Swagger UI/Docs).
+* **Backend:** Kiến trúc Microservices gồm 2 phần:
+  * **Core Backend:** Java 17+ (Spring Boot) (Lý do: Scale tốt, chuẩn enterprise, quản lý nghiệp vụ và gọi database).
+  * **ML Inference Service:** Python FastAPI (Lý do: Tốc độ cao, dễ dàng load model Machine Learning `.pkl` và giao tiếp nội bộ với Core Backend).
 * **Frontend:** React.js (hoặc Vue.js), sử dụng `Chart.js` hoặc `D3.js` để vẽ biểu đồ, `TailwindCSS` cho UI.
-* **Cloud Infrastructure (AWS):** VPC, 01 EC2 t2.micro (Bastion Host), 01 EC2 t3.medium (Backend + DB), S3 (Host Frontend tĩnh).
+* **Cloud Infrastructure (Azure):** VNet, 01 Azure VM B1s (Bastion Host), 01 Azure VM B2ms hoặc cao hơn (Java Core Backend + Python ML Service + DB), Azure Blob Storage (Host Frontend tĩnh).
 
 ---
 
@@ -39,10 +41,10 @@ Toàn bộ dự án sẽ sử dụng các công nghệ sau để đảm bảo t�
 
 ### 2.1. Quy tắc Hạ tầng Cloud & Bảo mật (Strict Security)
 
-* **VPC & Subnet:** Frontend nằm ở Public Subnet. Backend và Database nằm ở Private Subnet.
+* **VNet & Subnet:** Frontend nằm ở Public Subnet. Backend và Database nằm ở Private Subnet.
 * **Database Port (5432):** TUYỆT ĐỐI KHÔNG mở port 5432 ra Internet.
 * **Bastion Host (Jump Box):** Mọi thành viên muốn SSH vào server Backend/DB bắt buộc phải SSH qua Bastion Host.
-* **Logging:** Backend phải có middleware ghi log toàn bộ request (Time, IP, Endpoint, Status Code) vào file `/var/log/app/server.log` trên EC2.
+* **Logging:** Backend phải có middleware ghi log toàn bộ request (Time, IP, Endpoint, Status Code) vào file `/var/log/app/server.log` trên VM.
 
 ### 2.2. Quy tắc Data Warehouse & Iceberg Cube
 
@@ -58,9 +60,10 @@ Toàn bộ dự án sẽ sử dụng các công nghệ sau để đảm bảo t�
 * **Classification Metrics:** TUYỆT ĐỐI KHÔNG dùng `Accuracy` làm thước đo duy nhất. Bắt buộc báo cáo `Precision`, `Recall`, `F1-Score` và `ROC-AUC` (vì dữ liệu GTD có tính mất cân bằng class).
 * **Model Export:** Model sau khi train xong phải được dump ra file `.pkl` (thông qua `joblib` hoặc `pickle`) và đặt trong thư mục `/models` của Backend.
 
-### 2.4. Quy tắc Backend API
+### 2.4. Quy tắc Backend API & Microservices
 
-* **RESTful Standard:** API endpoint phải dùng danh từ số nhiều (VD: `GET /api/v1/attacks`, `POST /api/v1/predictions`).
+* **Core Backend (Java):** Chịu trách nhiệm giao tiếp trực tiếp với Frontend, expose API theo chuẩn RESTful (dùng danh từ số nhiều VD: `GET /api/v1/attacks`, `POST /api/v1/predictions`).
+* **ML Service (Python):** Chỉ mở port chạy nội bộ (localhost/private IP), tuyệt đối KHÔNG public ra Internet. Core Backend Java sẽ gọi sang ML Service qua giao thức HTTP REST.
 * **Response Format:** Mọi API trả về cho Frontend phải tuân thủ đúng 1 format JSON duy nhất:
 ```json
 {
@@ -80,13 +83,13 @@ Toàn bộ dự án sẽ sử dụng các công nghệ sau để đảm bảo t�
 ### 3.1. Git & Version Control
 
 * Dùng mô hình **GitHub Flow** đơn giản.
-* Nhánh chính là `main` (mã nguồn chạy trên Production/AWS).
+* Nhánh chính là `main` (mã nguồn chạy trên Production/Azure).
 * Khi code tính năng mới, tạo nhánh từ `main`: `feature/<tên-tính-năng>_`<tên-bạn> (VD: `feature/iceberg-cube_John`).
 * Commit message rõ ràng (VD: `feat: Add API for prediction`, `fix: Resolve null value in weapon column`).
 
 ### 3.2. Quản lý Môi trường (Environment Variables)
 
-* **KHÔNG** push các thông tin nhạy cảm (DB Password, AWS Keys) lên GitHub.
+* **KHÔNG** push các thông tin nhạy cảm (DB Password, Azure Keys) lên GitHub.
 * Mọi file code gọi biến môi trường phải dùng `.env` (Frontend dùng `.env.local`, Backend dùng `.env`).
 * Phải tạo một file `.env.example` chứa key rỗng để các thành viên biết cần cấu hình những gì.
 
@@ -95,8 +98,8 @@ Toàn bộ dự án sẽ sử dụng các công nghệ sau để đảm bảo t�
 ## 🎯 4. CAM KẾT KỸ THUẬT CỦA CÁC VAI TRÒ (ROLE COMMITMENTS)
 
 * **Data Engineer (A):** Cam kết xử lý sạch missing data. File script ETL phải chạy độc lập được từ đầu đến cuối. Bảng Iceberg Cube phải sẵn sàng trong DB trước khi BE viết API.
-* **Data Scientist (B):** Cam kết model giao cho BE phải kèm theo đoạn code mẫu `inference.py` hướng dẫn cách load model và parse JSON input từ FE thành ma trận data để dự đoán.
-* **Backend (C):** Cam kết API cho Frontend query dữ liệu Iceberg Cube phải phản hồi dưới **300ms**. Đảm bảo Server không crash khi load file model nặng.
+* **Data Scientist (B):** Cam kết model giao cho BE phải được đóng gói sẵn thành một Inference API (hoặc Docker Image) bằng Python. Phải cung cấp tài liệu (API spec) để team Java biết đường gọi HTTP request.
+* **Backend (C):** Cam kết xử lý tốt giao tiếp gọi API chéo từ Java sang Python (xử lý Timeout, Fallback nếu ML Service sập). Đảm bảo API cho Frontend query dữ liệu Iceberg Cube phản hồi dưới **300ms**.
 * **Frontend (D):** Cam kết xử lý tốt các trạng thái `Loading`, `Success`, `Error` trên UI khi gọi API. Validate form đầu vào trước khi bắn request dự đoán rủi ro xuống Backend.
 
 ---
