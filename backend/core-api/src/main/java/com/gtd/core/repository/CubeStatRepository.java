@@ -10,7 +10,9 @@ import org.springframework.stereotype.Repository;
 public interface CubeStatRepository extends JpaRepository<CubeStat, Long> {
     
     // Add simple query methods if filtering is needed
-    Page<CubeStat> findByRegionTxt(String regionTxt, Pageable pageable);
+    Page<CubeStat> findByRegionTxtContainingIgnoreCase(String regionTxt, Pageable pageable);
     
-    Page<CubeStat> findByRegionTxtAndCountryTxt(String regionTxt, String countryTxt, Pageable pageable);
+    Page<CubeStat> findByRegionTxtContainingIgnoreCaseAndCountryTxtContainingIgnoreCase(String regionTxt, String countryTxt, Pageable pageable);
+
+    Page<CubeStat> findByCountryTxtContainingIgnoreCase(String countryTxt, Pageable pageable);
 }

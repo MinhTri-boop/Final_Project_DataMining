@@ -16,10 +16,12 @@ public class CubeStatService {
 
     @Cacheable(value = "cubeStats", key = "#pageable.pageNumber + '-' + #pageable.pageSize + '-' + (#regionTxt != null ? #regionTxt : 'all') + '-' + (#countryTxt != null ? #countryTxt : 'all')")
     public Page<CubeStat> getCubeStats(String regionTxt, String countryTxt, Pageable pageable) {
-        if (regionTxt != null && countryTxt != null) {
-            return cubeStatRepository.findByRegionTxtAndCountryTxt(regionTxt, countryTxt, pageable);
-        } else if (regionTxt != null) {
-            return cubeStatRepository.findByRegionTxt(regionTxt, pageable);
+        if (regionTxt != null && !regionTxt.isEmpty() && countryTxt != null && !countryTxt.isEmpty()) {
+            return cubeStatRepository.findByRegionTxtContainingIgnoreCaseAndCountryTxtContainingIgnoreCase(regionTxt, countryTxt, pageable);
+        } else if (regionTxt != null && !regionTxt.isEmpty()) {
+            return cubeStatRepository.findByRegionTxtContainingIgnoreCase(regionTxt, pageable);
+        } else if (countryTxt != null && !countryTxt.isEmpty()) {
+            return cubeStatRepository.findByCountryTxtContainingIgnoreCase(countryTxt, pageable);
         }
         return cubeStatRepository.findAll(pageable);
     }
