@@ -34,7 +34,7 @@ const Dashboard = () => {
       if (regionTxt) params.append('regionTxt', regionTxt);
       if (countryTxt) params.append('countryTxt', countryTxt);
       params.append('page', 0);
-      params.append('size', 100);
+      params.append('size', 500);
 
       const response = await dashboardService.getCubeStats(params);
       
@@ -67,7 +67,13 @@ const Dashboard = () => {
   const regionChartData = useMemo(() => {
     const map = {};
     cubeData.forEach(item => {
-      const region = item.region_txt || 'Unknown';
+      // Backend Java trả về camelCase: regionTxt, support
+      const region = item.regionTxt || item.region_txt || 'Unknown';
+      if (region === 'ALL' || region === 'Unknown') return; // Bỏ qua dòng tổng 'ALL'
+      
+      // CHỐNG DOUBLE-COUNTING: Chỉ lấy các dòng tổng quát nhất cho Region/Country
+      if (item.decade !== 'ALL' || item.attacktype1Txt !== 'ALL' || item.targtype1Txt !== 'ALL' || item.weaptype1Txt !== 'ALL') return;
+
       map[region] = (map[region] || 0) + (item.support || item.event_count || 0);
     });
     return Object.keys(map)
@@ -79,9 +85,14 @@ const Dashboard = () => {
   const trendChartData = useMemo(() => {
     const map = {};
     cubeData.forEach(item => {
+      // Backend trả về camelCase: decade, totalCasualties
       const time = item.decade || item.iyear || 'Unknown';
-      if (time === 'Unknown') return;
-      map[time] = (map[time] || 0) + (item.total_casualties || 0);
+      if (time === 'ALL' || time === 'Unknown') return; // Bỏ qua dòng tổng 'ALL'
+
+      // CHỐNG DOUBLE-COUNTING: Chỉ lấy các dòng tổng quát nhất cho Decade
+      if (item.attacktype1Txt !== 'ALL' || item.targtype1Txt !== 'ALL' || item.weaptype1Txt !== 'ALL') return;
+
+      map[time] = (map[time] || 0) + (item.totalCasualties || item.total_casualties || 0);
     });
     return Object.keys(map)
       .sort()
@@ -138,16 +149,20 @@ const Dashboard = () => {
               <h3 className="text-lg font-semibold text-slate-800">Total Incidents by Region</h3>
               <p className="text-sm text-slate-500">Comparing historical attack volumes across top territories.</p>
             </div>
-            <div className="flex-1 w-full h-[350px]">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={regionChartData} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
-                  <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
-                  <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} tickFormatter={(val) => val.length > 10 ? val.substring(0, 10) + '...' : val} />
-                  <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} tickFormatter={(val) => `${val / 1000}k`} />
-                  <RechartsTooltip content={<CustomTooltip />} cursor={{ fill: '#f8fafc' }} />
-                  <Bar dataKey="events" name="Incidents" fill="#2563eb" radius={[4, 4, 0, 0]} barSize={32} />
-                </BarChart>
-              </ResponsiveContainer>
+            <div className="flex-1 w-full h-[350px] min-h-[350px]">
+              {regionChartData.length > 0 ? (
+                <ResponsiveContainer width="100%" height="100%">
+                  <BarChart data={regionChartData} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
+                    <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
+                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} tickFormatter={(val) => val.length > 10 ? val.substring(0, 10) + '...' : val} />
+                    <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} tickFormatter={(val) => `${val / 1000}k`} />
+                    <RechartsTooltip content={<CustomTooltip />} cursor={{ fill: '#f8fafc' }} />
+                    <Bar dataKey="events" name="Incidents" fill="#2563eb" radius={[4, 4, 0, 0]} barSize={32} />
+                  </BarChart>
+                </ResponsiveContainer>
+              ) : (
+                <div className="flex items-center justify-center h-full text-slate-400">No data available to display</div>
+              )}
             </div>
           </div>
 
@@ -157,22 +172,26 @@ const Dashboard = () => {
               <h3 className="text-lg font-semibold text-slate-800">Global Casualty Trends</h3>
               <p className="text-sm text-slate-500">Historical progression of total casualties (killed + wounded).</p>
             </div>
-            <div className="flex-1 w-full h-[350px]">
-              <ResponsiveContainer width="100%" height="100%">
-                <AreaChart data={trendChartData} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
-                  <defs>
-                    <linearGradient id="colorCasualties" x1="0" y1="0" x2="0" y2="1">
-                      <stop offset="5%" stopColor="#10b981" stopOpacity={0.3}/>
-                      <stop offset="95%" stopColor="#10b981" stopOpacity={0}/>
-                    </linearGradient>
-                  </defs>
-                  <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
-                  <XAxis dataKey="time" axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} />
-                  <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} tickFormatter={(val) => `${val / 1000}k`} />
-                  <RechartsTooltip content={<CustomTooltip />} />
-                  <Area type="monotone" dataKey="casualties" name="Casualties" stroke="#10b981" strokeWidth={3} fillOpacity={1} fill="url(#colorCasualties)" />
-                </AreaChart>
-              </ResponsiveContainer>
+            <div className="flex-1 w-full h-[350px] min-h-[350px]">
+              {trendChartData.length > 0 ? (
+                <ResponsiveContainer width="100%" height="100%">
+                  <AreaChart data={trendChartData} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
+                    <defs>
+                      <linearGradient id="colorCasualties" x1="0" y1="0" x2="0" y2="1">
+                        <stop offset="5%" stopColor="#10b981" stopOpacity={0.3}/>
+                        <stop offset="95%" stopColor="#10b981" stopOpacity={0}/>
+                      </linearGradient>
+                    </defs>
+                    <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
+                    <XAxis dataKey="time" axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} />
+                    <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} tickFormatter={(val) => `${val / 1000}k`} />
+                    <RechartsTooltip content={<CustomTooltip />} />
+                    <Area type="monotone" dataKey="casualties" name="Casualties" stroke="#10b981" strokeWidth={3} fillOpacity={1} fill="url(#colorCasualties)" />
+                  </AreaChart>
+                </ResponsiveContainer>
+              ) : (
+                <div className="flex items-center justify-center h-full text-slate-400">No data available to display</div>
+              )}
             </div>
           </div>
 

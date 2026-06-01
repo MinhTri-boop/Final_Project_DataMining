@@ -3,6 +3,47 @@ import { useForm } from 'react-hook-form';
 // import axiosClient from '../api/axiosClient';
 import predictionService from '../services/predictionService';
 
+const REGIONS = [
+  { value: "10", label: "Middle East & North Africa" },
+  { value: "6", label: "South Asia" },
+  { value: "11", label: "Sub-Saharan Africa" },
+  { value: "8", label: "Western Europe" },
+  { value: "1", label: "North America" },
+];
+
+const COUNTRIES = [
+  { value: "217", label: "United States" },
+  { value: "95", label: "Iraq" },
+  { value: "4", label: "Afghanistan" },
+  { value: "153", label: "Pakistan" },
+  { value: "160", label: "Philippines" },
+  { value: "92", label: "India" },
+  { value: "45", label: "Colombia" },
+];
+
+const ATTACK_TYPES = [
+  { value: "3", label: "Bombing/Explosion" },
+  { value: "2", label: "Armed Assault" },
+  { value: "1", label: "Assassination" },
+  { value: "6", label: "Hostage Taking (Kidnapping)" },
+  { value: "7", label: "Facility/Infrastructure Attack" },
+];
+
+const TARGET_TYPES = [
+  { value: "14", label: "Private Citizens & Property" },
+  { value: "4", label: "Military" },
+  { value: "3", label: "Police" },
+  { value: "2", label: "Government (General)" },
+  { value: "1", label: "Business" },
+];
+
+const WEAPON_TYPES = [
+  { value: "6", label: "Explosives" },
+  { value: "5", label: "Firearms" },
+  { value: "8", label: "Incendiary" },
+  { value: "9", label: "Melee" },
+];
+
 const RiskSimulator = () => {
   const { register, handleSubmit, formState: { errors } } = useForm();
   const [loading, setLoading] = useState(false);
@@ -71,61 +112,76 @@ const RiskSimulator = () => {
 
                 {/* Region */}
                 <div className="flex flex-col">
-                  <label className="text-sm font-medium text-slate-700 mb-1">Region Code</label>
-                  <input
-                    type="number"
-                    placeholder="e.g., 10"
+                  <label className="text-sm font-medium text-slate-700 mb-1">Region</label>
+                  <select
                     className={`bg-slate-50 border px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors ${errors.region ? 'border-red-400' : 'border-slate-200'}`}
                     {...register("region", { required: true })}
-                  />
+                  >
+                    <option value="">Select a region...</option>
+                    {REGIONS.map(r => (
+                      <option key={r.value} value={r.value}>{r.label}</option>
+                    ))}
+                  </select>
                   {errors.region && <span className="text-red-500 text-xs mt-1">This field is required</span>}
                 </div>
 
                 {/* Country */}
                 <div className="flex flex-col">
-                  <label className="text-sm font-medium text-slate-700 mb-1">Country Code</label>
-                  <input
-                    type="number"
-                    placeholder="e.g., 215"
+                  <label className="text-sm font-medium text-slate-700 mb-1">Country</label>
+                  <select
                     className={`bg-slate-50 border px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors ${errors.country ? 'border-red-400' : 'border-slate-200'}`}
                     {...register("country", { required: true })}
-                  />
+                  >
+                    <option value="">Select a country...</option>
+                    {COUNTRIES.map(c => (
+                      <option key={c.value} value={c.value}>{c.label}</option>
+                    ))}
+                  </select>
                   {errors.country && <span className="text-red-500 text-xs mt-1">This field is required</span>}
                 </div>
 
                 {/* Attack Type */}
                 <div className="flex flex-col">
-                  <label className="text-sm font-medium text-slate-700 mb-1">Attack Type Code</label>
-                  <input
-                    type="number"
-                    placeholder="e.g., 3"
+                  <label className="text-sm font-medium text-slate-700 mb-1">Attack Type</label>
+                  <select
                     className={`bg-slate-50 border px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors ${errors.attacktype1 ? 'border-red-400' : 'border-slate-200'}`}
                     {...register("attacktype1", { required: true })}
-                  />
+                  >
+                    <option value="">Select an attack type...</option>
+                    {ATTACK_TYPES.map(a => (
+                      <option key={a.value} value={a.value}>{a.label}</option>
+                    ))}
+                  </select>
                   {errors.attacktype1 && <span className="text-red-500 text-xs mt-1">This field is required</span>}
                 </div>
 
                 {/* Target Type */}
                 <div className="flex flex-col">
-                  <label className="text-sm font-medium text-slate-700 mb-1">Target Type Code</label>
-                  <input
-                    type="number"
-                    placeholder="e.g., 14"
+                  <label className="text-sm font-medium text-slate-700 mb-1">Target Type</label>
+                  <select
                     className={`bg-slate-50 border px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors ${errors.targtype1 ? 'border-red-400' : 'border-slate-200'}`}
                     {...register("targtype1", { required: true })}
-                  />
+                  >
+                    <option value="">Select a target type...</option>
+                    {TARGET_TYPES.map(t => (
+                      <option key={t.value} value={t.value}>{t.label}</option>
+                    ))}
+                  </select>
                   {errors.targtype1 && <span className="text-red-500 text-xs mt-1">This field is required</span>}
                 </div>
 
                 {/* Weapon Type */}
                 <div className="flex flex-col">
-                  <label className="text-sm font-medium text-slate-700 mb-1">Weapon Type Code</label>
-                  <input
-                    type="number"
-                    placeholder="e.g., 6"
+                  <label className="text-sm font-medium text-slate-700 mb-1">Weapon Type</label>
+                  <select
                     className={`bg-slate-50 border px-4 py-2.5 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors ${errors.weaptype1 ? 'border-red-400' : 'border-slate-200'}`}
                     {...register("weaptype1", { required: true })}
-                  />
+                  >
+                    <option value="">Select a weapon type...</option>
+                    {WEAPON_TYPES.map(w => (
+                      <option key={w.value} value={w.value}>{w.label}</option>
+                    ))}
+                  </select>
                   {errors.weaptype1 && <span className="text-red-500 text-xs mt-1">This field is required</span>}
                 </div>
 
