@@ -1,0 +1,101 @@
+eventid,region_txt,attacktype1_txt,weaptype1_txt,targtype1_txt,assigned_cluster
+197000000001,Central America & Caribbean,Assassination,Unknown,Private Citizens & Property,0
+197000000002,North America,Hostage Taking (Kidnapping),Unknown,Government (Diplomatic),0
+197001000001,Southeast Asia,Assassination,Unknown,Journalists & Media,0
+197001000002,Western Europe,Bombing/Explosion,Explosives,Government (Diplomatic),2
+197001000003,East Asia,Facility/Infrastructure Attack,Incendiary,Government (Diplomatic),0
+197001010002,North America,Armed Assault,Firearms,Police,3
+197001020001,South America,Assassination,Firearms,Police,3
+197001020002,North America,Bombing/Explosion,Explosives,Utilities,2
+197001020003,North America,Facility/Infrastructure Attack,Incendiary,Military,0
+197001030001,North America,Facility/Infrastructure Attack,Incendiary,Government (General),0
+197001050001,North America,Bombing/Explosion,Explosives,Military,2
+197001060001,North America,Facility/Infrastructure Attack,Incendiary,Military,0
+197001080001,Western Europe,Hijacking,Firearms,Airports & Aircraft,3
+197001090001,North America,Facility/Infrastructure Attack,Incendiary,Government (General),0
+197001090002,North America,Facility/Infrastructure Attack,Incendiary,Business,0
+197001100001,Eastern Europe,Bombing/Explosion,Explosives,Government (General),2
+197001110001,Sub-Saharan Africa,Unknown,Unknown,Military,0
+197001120001,North America,Bombing/Explosion,Explosives,Educational Institution,2
+197001120002,North America,Bombing/Explosion,Explosives,Business,2
+197001130001,North America,Facility/Infrastructure Attack,Incendiary,Business,0
+197001140001,North America,Facility/Infrastructure Attack,Incendiary,Police,0
+197001150001,South America,Armed Assault,Firearms,Educational Institution,3
+197001190002,North America,Bombing/Explosion,Explosives,Educational Institution,2
+197001190003,North America,Bombing/Explosion,Explosives,Military,2
+197001190004,North America,Facility/Infrastructure Attack,Incendiary,Violent Political Party,0
+197001200001,Central America & Caribbean,Assassination,Unknown,Government (Diplomatic),0
+197001210001,Southeast Asia,Bombing/Explosion,Explosives,Government (Diplomatic),2
+197001220001,South America,Hostage Taking (Kidnapping),Unknown,Business,0
+197001220002,North America,Bombing/Explosion,Explosives,Private Citizens & Property,2
+197001250001,North America,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,0
+197001250002,North America,Armed Assault,Firearms,Police,3
+197001260001,North America,Bombing/Explosion,Explosives,Government (General),2
+197001260003,North America,Armed Assault,Firearms,Police,3
+197001270002,North America,Facility/Infrastructure Attack,Incendiary,Government (General),0
+197001280001,Eastern Europe,Facility/Infrastructure Attack,Incendiary,Police,0
+197001280002,North America,Bombing/Explosion,Explosives,Religious Figures/Institutions,2
+197001300001,North America,Bombing/Explosion,Explosives,Unknown,2
+197001300002,North America,Bombing/Explosion,Explosives,Business,2
+197001300003,North America,Facility/Infrastructure Attack,Incendiary,Military,0
+197001310001,Southeast Asia,Unknown,Unknown,Military,0
+197001310002,North America,Bombing/Explosion,Explosives,Police,2
+197002010001,North America,Facility/Infrastructure Attack,Incendiary,Government (General),0
+197002010002,North America,Armed Assault,Firearms,Police,3
+197002020001,North America,Facility/Infrastructure Attack,Incendiary,Business,0
+197002030001,North America,Facility/Infrastructure Attack,Incendiary,Business,0
+197002030002,North America,Facility/Infrastructure Attack,Incendiary,Business,0
+197002040001,North America,Bombing/Explosion,Explosives,Private Citizens & Property,2
+197002060001,North America,Bombing/Explosion,Explosives,Transportation,2
+197002060002,North America,Bombing/Explosion,Explosives,Government (General),2
+197002060003,North America,Bombing/Explosion,Explosives,Religious Figures/Institutions,2
+197002060004,North America,Facility/Infrastructure Attack,Incendiary,Government (General),0
+197002060005,North America,Facility/Infrastructure Attack,Incendiary,Utilities,0
+197002060006,North America,Facility/Infrastructure Attack,Incendiary,Business,0
+197002060007,North America,Facility/Infrastructure Attack,Incendiary,Military,0
+197002070003,North America,Facility/Infrastructure Attack,Incendiary,Educational Institution,0
+197002080001,North America,Bombing/Explosion,Explosives,Business,2
+197002080002,North America,Bombing/Explosion,Explosives,Business,2
+197002090003,North America,Bombing/Explosion,Explosives,Business,2
+197002090004,North America,Bombing/Explosion,Explosives,Private Citizens & Property,2
+197002100001,Western Europe,Armed Assault,Firearms,Airports & Aircraft,3
+197002110001,North America,Facility/Infrastructure Attack,Incendiary,Educational Institution,0
+197002130001,North America,Bombing/Explosion,Explosives,Police,2
+197002130002,Western Europe,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,0
+197002130003,North America,Bombing/Explosion,Explosives,Police,2
+197002150001,North America,Bombing/Explosion,Explosives,Business,2
+197002150002,North America,Facility/Infrastructure Attack,Incendiary,Military,0
+197002160001,North America,Bombing/Explosion,Explosives,Police,2
+197002160002,North America,Bombing/Explosion,Explosives,Business,2
+197002160003,North America,Bombing/Explosion,Explosives,Business,2
+197002160004,North America,Armed Assault,Firearms,Police,3
+197002170001,North America,Bombing/Explosion,Explosives,Business,2
+197002170002,North America,Bombing/Explosion,Explosives,Utilities,2
+197002170003,North America,Bombing/Explosion,Explosives,Educational Institution,2
+197002170004,North America,Bombing/Explosion,Explosives,Military,2
+197002180002,North America,Bombing/Explosion,Explosives,Police,2
+197002180003,North America,Bombing/Explosion,Explosives,Police,2
+197002200001,North America,Facility/Infrastructure Attack,Incendiary,Government (General),0
+197002200002,North America,Facility/Infrastructure Attack,Incendiary,Educational Institution,0
+197002200003,North America,Bombing/Explosion,Explosives,Educational Institution,2
+197002210001,Western Europe,Bombing/Explosion,Explosives,Airports & Aircraft,2
+197002210002,Western Europe,Bombing/Explosion,Explosives,Airports & Aircraft,2
+197002210003,North America,Facility/Infrastructure Attack,Incendiary,Police,0
+197002210004,North America,Facility/Infrastructure Attack,Incendiary,Military,0
+197002210005,North America,Bombing/Explosion,Explosives,Private Citizens & Property,2
+197002210006,North America,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,0
+197002220001,North America,Facility/Infrastructure Attack,Incendiary,Educational Institution,0
+197002220002,North America,Bombing/Explosion,Explosives,Utilities,2
+197002230001,North America,Bombing/Explosion,Explosives,Utilities,2
+197002230002,North America,Bombing/Explosion,Explosives,Utilities,2
+197002230003,North America,Bombing/Explosion,Explosives,Utilities,2
+197002230004,North America,Bombing/Explosion,Explosives,Utilities,2
+197002230005,North America,Bombing/Explosion,Explosives,Military,2
+197002240002,North America,Bombing/Explosion,Explosives,Private Citizens & Property,2
+197002240003,North America,Facility/Infrastructure Attack,Incendiary,Military,0
+197002270001,North America,Bombing/Explosion,Explosives,Educational Institution,2
+197002280001,Middle East & North Africa,Armed Assault,Firearms,Tourists,3
+197003000001,Southeast Asia,Bombing/Explosion,Explosives,Government (Diplomatic),2
+197003010001,Western Europe,Bombing/Explosion,Explosives,Airports & Aircraft,2
+197003010005,North America,Bombing/Explosion,Explosives,Military,2
+197003010006,North America,Facility/Infrastructure Attack,Incendiary,Military,0
