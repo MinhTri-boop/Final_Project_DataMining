@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "message": "Predicted successfully",
+  "data": {
+    "success_probability": 0.85,
+    "risk_level": "High Risk"
+  }
+}

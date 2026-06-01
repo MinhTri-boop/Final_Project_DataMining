@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "message": "Fetched successfully",
+  "data": {
+    "content": [
+      { "region_txt": "Middle East", "support": 50340, "decade": "1970s", "total_casualties": 12000 },
+      { "region_txt": "Middle East", "support": 50340, "decade": "1980s", "total_casualties": 25000 },
+      { "region_txt": "Middle East", "support": 50340, "decade": "1990s", "total_casualties": 40000 },
+      { "region_txt": "Middle East", "support": 50340, "decade": "2000s", "total_casualties": 85000 },
+      { "region_txt": "Middle East", "support": 50340, "decade": "2010s", "total_casualties": 152000 },
+      { "region_txt": "South Asia", "support": 44974, "decade": "1980s", "total_casualties": 15000 },
+      { "region_txt": "South Asia", "support": 44974, "decade": "1990s", "total_casualties": 28000 },
+      { "region_txt": "South Asia", "support": 44974, "decade": "2000s", "total_casualties": 55000 },
+      { "region_txt": "South Asia", "support": 44974, "decade": "2010s", "total_casualties": 95000 },
+      { "region_txt": "South America", "support": 18978, "decade": "1980s", "total_casualties": 22000 },
+      { "region_txt": "South America", "support": 18978, "decade": "1990s", "total_casualties": 31000 },
+      { "region_txt": "Western Europe", "support": 16639, "decade": "1970s", "total_casualties": 10000 },
+      { "region_txt": "Western Europe", "support": 16639, "decade": "1980s", "total_casualties": 15000 },
+      { "region_txt": "Sub-Saharan Africa", "support": 17550, "decade": "2000s", "total_casualties": 35000 },
+      { "region_txt": "Sub-Saharan Africa", "support": 17550, "decade": "2010s", "total_casualties": 68000 }
+    ]
+  }
+}
