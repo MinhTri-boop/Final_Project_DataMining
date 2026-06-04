@@ -1,0 +1,30 @@
+flowchart TD
+    %% Define Styles
+    classDef datasource fill:#fcd34d,stroke:#b45309,stroke-width:2px,color:#000
+    classDef process fill:#60a5fa,stroke:#1d4ed8,stroke-width:2px,color:#fff
+    classDef subproc fill:#93c5fd,stroke:#2563eb,stroke-width:2px,color:#000
+    classDef output fill:#34d399,stroke:#047857,stroke-width:2px,color:#fff
+
+    Raw[/"Raw GTD Dataset\n(.xlsx / .csv)"/]:::datasource --> Ext["1. Trích xuất Cột (Column Extraction)\n(Lọc lấy ~50 cột cốt lõi)"]:::process
+    
+    Ext --> TextProc["2. Xử lý Text\n(Fill 'Unknown', Xóa khoảng trắng)"]:::subproc
+    Ext --> NumProc["3. Xử lý Numeric\n(Ép kiểu số, xử lý lỗi parse)"]:::subproc
+    Ext --> DateProc["4. Trích xuất Thời gian\n(Year, Month, Quarter, Decade)"]:::subproc
+    
+    TextProc --> Discretize["5. Rời rạc hóa (Discretization & Binning)"]:::process
+    NumProc --> Discretize
+    DateProc --> Discretize
+    
+    Discretize -.-> LatLon["Lat/Lon -> Lưới tọa độ 10 độ\n(lat_bin_10, lon_bin_10)"]
+    Discretize -.-> CasLevel["Casualties -> Phân cấp thương vong\n(Low, Medium, High, Mass)"]
+    Discretize -.-> DatePrec["Dates -> Độ chính xác thời gian\n(Đầu/Giữa/Cuối tháng)"]
+    
+    LatLon --> Flag["6. Xử lý Dữ liệu khuyết (Missing Values)"]:::process
+    CasLevel --> Flag
+    DatePrec --> Flag
+    
+    Flag -.-> CasFlag["Casualty missing -> Impute bằng 0\nTạo thêm cột cờ (flag) *_missing"]
+    Flag -.-> BinFlag["Biến nhị phân Unknown -> Gán -9"]
+    
+    CasFlag --> Cleaned[/"gtd_cleaned.csv\n(Dữ liệu sạch sẵn sàng cho DW & Mining)"/]:::output
+    BinFlag --> Cleaned

@@ -1,0 +1,12 @@
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\service\CubeStatService.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\config\CorsConfig.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\dto\PredictionRequestDTO.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\controller\CubeStatController.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\service\PredictionService.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\repository\CubeStatRepository.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\dto\ApiResponse.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\dto\PredictionResponseDTO.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\entity\CubeStat.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\filter\LoggingFilter.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\CoreApiApplication.java
+F:\Data_Mining_Final\backend\core-api\src\main\java\com\gtd\core\controller\PredictionController.java

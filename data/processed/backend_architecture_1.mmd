@@ -1,0 +1,46 @@
+graph TD
+    %% Define Styles
+    classDef frontend fill:#3b82f6,stroke:#1d4ed8,stroke-width:2px,color:#fff
+    classDef spring fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
+    classDef python fill:#f59e0b,stroke:#b45309,stroke-width:2px,color:#fff
+    classDef db fill:#8b5cf6,stroke:#5b21b6,stroke-width:2px,color:#fff
+
+    %% Components
+    Client["💻 React Frontend Dashboard"]:::frontend
+    
+    subgraph Backend [Java Spring Boot Core API]
+        Controller["🛣️ Controllers (REST API)"]:::spring
+        Service["⚙️ Services (Business Logic)"]:::spring
+        Repository["🗄️ Repositories (Spring Data JPA)"]:::spring
+        RestTemplate["🌐 REST Client (HTTP)"]:::spring
+    end
+    
+    subgraph ML_Service [Python ML Prediction Service]
+        FastAPI["🚀 FastAPI Server (Port 8000)"]:::python
+        Model["🧠 Trained ML Model (Scikit-Learn/XGBoost)"]:::python
+    end
+    
+    subgraph Database [PostgreSQL Data Warehouse]
+        PG[("🐘 PostgreSQL (gtd_db)")]:::db
+        Cube["🧊 iceberg_cube (BUC Data Cube)"]:::db
+        StarSchema["⭐ Star Schema (Fact & Dims)"]:::db
+    end
+
+    %% Flow/Connections
+    Client -->|"1. GET /api/v1/cube-stats<br/>(Fetch Dashboard Data)"| Controller
+    Client -->|"2. POST /api/v1/predictions<br/>(Predict Risk)"| Controller
+    
+    Controller --> Service
+    
+    %% DB Flow
+    Service -->|"Queries Data"| Repository
+    Repository -->|"JDBC / JPA"| PG
+    PG --- Cube
+    PG --- StarSchema
+    
+    %% ML Flow
+    Service -.->|"Proxy Prediction Request"| RestTemplate
+    RestTemplate -->|"POST /predict"| FastAPI
+    FastAPI -->|"Load & Run Inference"| Model
+    Model -->|"Return Risk Probability"| FastAPI
+    FastAPI -->|"Return JSON"| RestTemplate

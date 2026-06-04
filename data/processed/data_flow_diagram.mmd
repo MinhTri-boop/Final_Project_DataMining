@@ -1,0 +1,73 @@
+graph TD
+    %% Define Styles
+    classDef datasource fill:#fcd34d,stroke:#b45309,stroke-width:2px,color:#000
+    classDef process fill:#60a5fa,stroke:#1d4ed8,stroke-width:2px,color:#fff
+    classDef storage fill:#34d399,stroke:#047857,stroke-width:2px,color:#fff
+    classDef model fill:#f472b6,stroke:#be185d,stroke-width:2px,color:#fff
+    classDef userUI fill:#c084fc,stroke:#7e22ce,stroke-width:2px,color:#fff
+
+    %% 1. Data Source
+    RawData[/"📄 Raw Data\n(GTD .xlsx / .csv)"/]:::datasource
+
+    %% 2. ETL Processes
+    subgraph ETL [ETL Pipeline - Data Engineering]
+        CleanProcess["🧹 Tiền xử lý dữ liệu\n(Lọc cột, điền khuyết, rời rạc hóa)"]:::process
+        StarProcess["⭐ Build Star Schema"]:::process
+        CubeProcess["🧊 Build Iceberg Cube\n(min_sup > 100)"]:::process
+    end
+
+    %% 3. Data Storage
+    subgraph DB [Data Warehouse - PostgreSQL]
+        StarDB[("🗄️ Star Schema\n(Fact & Dims)")]:::storage
+        CubeDB[("🗄️ Iceberg Cube\n(Aggregated Tables)")]:::storage
+    end
+
+    %% 4. Data Mining / Machine Learning
+    subgraph ML [Data Mining - Machine Learning]
+        FPGrowth["🔍 FP-Growth\n(Tìm luật Lift > 1.5)"]:::process
+        TrainClass["🤖 Train XGBoost\n(Xử lý Class Imbalance)"]:::process
+        TrainClust["🎯 Train COP-KMeans\n(Với Must-link Rules)"]:::process
+        
+        Rules[/"📋 Association Rules\n(Must-Link Constraints)"/]:::model
+        Models[/"📦 ML Models\n(.pkl files)"/]:::model
+    end
+
+    %% 5. Application Layer
+    subgraph Application [Application & User Layer]
+        Backend["⚙️ Java Spring Boot API"]:::process
+        MLInference["🧠 Python ML Service\n(Inference API)"]:::process
+        Dashboard["📊 React Dashboard\n(Historical Insights)"]:::userUI
+        Simulator["🔮 Risk Simulator\n(Predictive UI)"]:::userUI
+    end
+
+    %% Flow Connections
+    
+    %% ETL Flow
+    RawData --> CleanProcess
+    CleanProcess -->|"Cleaned CSV"| StarProcess
+    CleanProcess -->|"Cleaned CSV"| CubeProcess
+    
+    StarProcess -->|"Insert"| StarDB
+    CubeProcess -->|"Insert"| CubeDB
+    
+    %% ML Flow
+    CleanProcess -->|"Training Data"| FPGrowth
+    CleanProcess -->|"Training Data"| TrainClass
+    CleanProcess -->|"Training Data"| TrainClust
+    
+    FPGrowth -->|"Export Rules"| Rules
+    Rules -.->|"Apply Must-Link"| TrainClust
+    
+    TrainClass -->|"Export Model"| Models
+    TrainClust -->|"Export Model"| Models
+
+    %% App Flow
+    StarDB -->|"Query Data"| Backend
+    CubeDB -->|"Query Aggregates"| Backend
+    
+    Models -->|"Load Model"| MLInference
+    
+    Dashboard -->|"GET Stats"| Backend
+    Simulator -->|"POST Scenario"| Backend
+    
+    Backend <-->|"HTTP Predict Request"| MLInference

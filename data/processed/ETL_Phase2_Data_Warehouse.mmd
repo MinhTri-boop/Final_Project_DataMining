@@ -1,0 +1,35 @@
+flowchart TD
+    %% Define Styles
+    classDef input fill:#fcd34d,stroke:#b45309,stroke-width:2px,color:#000
+    classDef dim fill:#818cf8,stroke:#4338ca,stroke-width:2px,color:#fff
+    classDef fact fill:#f472b6,stroke:#be185d,stroke-width:2px,color:#fff
+    classDef process fill:#60a5fa,stroke:#1d4ed8,stroke-width:2px,color:#fff
+    classDef db fill:#34d399,stroke:#047857,stroke-width:2px,color:#fff
+
+    Cleaned[/"gtd_cleaned.csv"/]:::input --> ExtDim["1. Trích xuất các giá trị Unique cho Bảng chiều"]:::process
+    
+    ExtDim --> DateDim["dim_date\n(date_id, year, month, quarter...)"]:::dim
+    ExtDim --> LocDim["dim_location\n(location_id, country, region, lat_bin...)"]:::dim
+    ExtDim --> AttDim["dim_attack\n(attack_id, attacktype, weaptype...)"]:::dim
+    ExtDim --> ActDim["dim_actor\n(actor_id, gname, individual)"]:::dim
+    ExtDim --> OutDim["dim_outcome\n(outcome_id, success, suicide...)"]:::dim
+    
+    DateDim --> GenSK["2. Tạo Surrogate Keys (Khóa thay thế)\n(ID tự tăng kiểu Integer)"]:::process
+    LocDim --> GenSK
+    AttDim --> GenSK
+    ActDim --> GenSK
+    OutDim --> GenSK
+    
+    GenSK --> MapFact["3. Map Keys vào Bảng Fact (Fact Table)"]:::process
+    Cleaned --> MapFact
+    
+    MapFact -.-> Join["Left Join dữ liệu gốc với\nBảng chiều thông qua các cột Text"]
+    
+    Join --> FactTable["fact_events\n(Foreign Keys + Measures: nkill, nwound)"]:::fact
+    
+    DateDim --> Postgres[("gtd_dw\n(Kho dữ liệu dạng Sao - PostgreSQL)")]:::db
+    LocDim --> Postgres
+    AttDim --> Postgres
+    ActDim --> Postgres
+    OutDim --> Postgres
+    FactTable --> Postgres

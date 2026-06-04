@@ -1,0 +1,33 @@
+flowchart TD
+    %% Define Styles
+    classDef input fill:#fcd34d,stroke:#b45309,stroke-width:2px,color:#000
+    classDef process fill:#60a5fa,stroke:#1d4ed8,stroke-width:2px,color:#fff
+    classDef decision fill:#fbbf24,stroke:#d97706,stroke-width:2px,color:#000
+    classDef drop fill:#ef4444,stroke:#991b1b,stroke-width:2px,color:#fff
+    classDef keep fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
+    classDef output fill:#34d399,stroke:#047857,stroke-width:2px,color:#fff
+
+    Cleaned[/"gtd_cleaned.csv"/]:::input --> FilterCols["1. Chọn các Chiều (Dimensions) và Độ đo (Measures)"]:::process
+    
+    FilterCols -.-> Dims["Dimensions:\nyear, region, country, attacktype,\ntargtype, weaptype, casualty_level, gname"]
+    FilterCols -.-> Meas["Measures:\nnkill, nwound, total_casualties"]
+    
+    Dims --> AllRow["2. Tạo khối gốc Apex (ALL)\n(Mức tập hợp 0-D)"]:::process
+    Meas --> AllRow
+    
+    AllRow --> Loop["3. Sinh tổ hợp lặp (Iterative Combinations)"]:::process
+    
+    Loop --> Level1["Mức 1 (1 Chiều)"]
+    Loop --> LevelN["Mức N (N Chiều)"]
+    
+    Level1 --> GroupBy["4. GroupBy & Aggregate\n(Hàm COUNT, SUM)"]:::process
+    LevelN --> GroupBy
+    
+    GroupBy --> FilterSup{"5. Kiểm tra Min Support\n(count >= 20?)"}:::decision
+    
+    FilterSup -- "Yes" --> Store["Giữ lại tổ hợp"]:::keep
+    FilterSup -- "No" --> Prune["Tỉa cành (Prune)\nNgăn chặn Curse of Dimensionality"]:::drop
+    
+    Store --> Merge["6. Hợp nhất các Cuboid hợp lệ"]:::process
+    Merge --> IcebergCube[/"iceberg_cube.csv\n(Aggregated Data Cube)"/]:::output
+    IcebergCube --> SQLite[("Đẩy vào Database cho Backend query")]:::db

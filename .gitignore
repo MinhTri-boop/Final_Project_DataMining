@@ -1,7 +1,8 @@
-# Ignore virtual environments
+# Ignore virtual environments & secrets
 venv/
 .env
 .env.local
+*.pem
 
 # Ignore Python cache
 __pycache__/
@@ -15,11 +16,8 @@ build/
 # Data and models (large files might be tracked by LFS or ignored)
 data/raw/*
 !data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
 
 # Generated data outputs
-*.csv
 *.xlsx
 *.xls
 *.sqlite

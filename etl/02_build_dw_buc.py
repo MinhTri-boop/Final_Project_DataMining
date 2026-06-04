@@ -28,7 +28,7 @@ FACT_MEASURES = [
     "nkill_missing", "nwound_missing", "nkillter_missing", "nwoundte_missing",
 ]
 
-CUBE_DIMS = ["decade", "region_txt", "country_txt", "attacktype1_txt", "targtype1_txt", "weaptype1_txt", "casualty_level"]
+CUBE_DIMS = ["iyear", "region_txt", "country_txt", "attacktype1_txt", "targtype1_txt", "weaptype1_txt", "casualty_level", "gname"]
 CUBE_MEASURES = ["nkill", "nwound", "total_casualties"]
 
 

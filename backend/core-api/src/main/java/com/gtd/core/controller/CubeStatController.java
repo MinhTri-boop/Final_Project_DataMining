@@ -20,12 +20,20 @@ public class CubeStatController {
     public ResponseEntity<ApiResponse<Page<CubeStat>>> getCubeStats(
             @RequestParam(required = false) String regionTxt,
             @RequestParam(required = false) String countryTxt,
+            @RequestParam(required = false) String iyear,
+            @RequestParam(required = false) String gname,
+            @RequestParam(required = false) String attacktype1Txt,
+            @RequestParam(required = false) String targtype1Txt,
+            @RequestParam(required = false) String weaptype1Txt,
+            @RequestParam(required = false) String casualtyLevel,
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "100") int size) {
         
         long startTime = System.currentTimeMillis();
         
-        Page<CubeStat> result = cubeStatService.getCubeStats(regionTxt, countryTxt, PageRequest.of(page, size));
+        Page<CubeStat> result = cubeStatService.getCubeStats(
+                regionTxt, countryTxt, iyear, gname, attacktype1Txt, targtype1Txt, weaptype1Txt, casualtyLevel, 
+                PageRequest.of(page, size));
         
         long duration = System.currentTimeMillis() - startTime;
         System.out.println("Query /api/v1/cube-stats took " + duration + " ms");

@@ -1,0 +1,31 @@
+flowchart TD
+    %% Define Styles
+    classDef input fill:#fcd34d,stroke:#b45309,stroke-width:2px,color:#000
+    classDef fpgrowth fill:#818cf8,stroke:#4338ca,stroke-width:2px,color:#fff
+    classDef classif fill:#f472b6,stroke:#be185d,stroke-width:2px,color:#fff
+    classDef cluster fill:#34d399,stroke:#047857,stroke-width:2px,color:#fff
+    classDef output fill:#6b7280,stroke:#374151,stroke-width:2px,color:#fff
+
+    Cleaned[/"gtd_cleaned.csv"/]:::input --> PrepFP["1. Chuẩn bị cho Pattern Mining"]:::fpgrowth
+    
+    PrepFP --> OneHot["One-Hot Encoding\n(Tạo Boolean Basket)"]:::fpgrowth
+    OneHot --> FPAlgo["2. Chạy FP-Growth\n(min_support=0.01)"]:::fpgrowth
+    FPAlgo --> Rules["Sinh luật kết hợp\n(Lift > 1.5)"]:::fpgrowth
+    
+    Rules --> TopRule["Trích xuất Top Rule\n(Làm điểm mỏ neo Must-Link)"]:::fpgrowth
+    
+    Cleaned --> PrepClass["1. Chuẩn bị cho Phân lớp (Classification)"]:::classif
+    PrepClass --> ClassImb["Xử lý mất cân bằng class\n(Tính scale_pos_weight)"]:::classif
+    ClassImb --> XGB["2. Huấn luyện XGBoost Classifier"]:::classif
+    XGB --> Eval["Đánh giá Model (ROC-AUC, F1-Score)"]:::classif
+    
+    Cleaned --> PrepClust["1. Chuẩn bị cho Phân cụm (Clustering)"]:::cluster
+    PrepClust --> Scaler["Chuẩn hóa (StandardScaler)"]:::cluster
+    Scaler --> Anchor["3. Áp dụng Must-Link\n(Tăng trọng số cho các điểm thỏa mãn luật)"]:::cluster
+    TopRule -.->|"Constraint"| Anchor
+    
+    Anchor --> KMeans["Huấn luyện COP-KMeans Clustering"]:::cluster
+    
+    Rules --> ExportRule[/"fp_growth_rules.csv"/]:::output
+    Eval --> ExportClass[/"xgboost_classifier.pkl"/]:::output
+    KMeans --> ExportClust[/"cop_kmeans_scaler.pkl"/]:::output

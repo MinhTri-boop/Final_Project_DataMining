@@ -1,0 +1,53 @@
+graph TD
+    %% Define Styles
+    classDef comp fill:#3b82f6,stroke:#1d4ed8,stroke-width:2px,color:#fff
+    classDef service fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
+    classDef api fill:#f59e0b,stroke:#b45309,stroke-width:2px,color:#fff
+    classDef ext fill:#64748b,stroke:#475569,stroke-width:2px,color:#fff
+    classDef vendor fill:#ec4899,stroke:#be185d,stroke-width:2px,color:#fff
+
+    User((User Interaction)):::ext
+    
+    subgraph FrontendApp [React Application - Vite and TailwindCSS]
+        
+        %% Components
+        subgraph Components [UI Components]
+            Dashboard["📊 Dashboard.jsx<br/>(Charts, Maps, Interconnected Filters)"]:::comp
+            Simulator["🔮 RiskSimulator.jsx<br/>(Prediction Form & Results)"]:::comp
+        end
+        
+        %% Services
+        subgraph Services [Service Layer]
+            DashService["⚙️ dashboardService.js<br/>(Fetches BUC Cube Data)"]:::service
+            PredService["⚙️ predictionService.js<br/>(Fetches ML Predictions)"]:::service
+        end
+        
+        %% API / Axios
+        subgraph APIClient [API Client]
+            Axios["🌐 axiosInstance.js<br/>(Base URL, Interceptors)"]:::api
+        end
+        
+        %% UI Libraries
+        subgraph ThirdParty [Third-Party Libraries]
+            Recharts["📈 Recharts (Graphs)"]:::vendor
+            SimpleMaps["🗺️ react-simple-maps"]:::vendor
+        end
+        
+    end
+
+    Backend[("Java Spring Boot API<br/>(localhost:8080)")]:::ext
+
+    %% Interactions
+    User -->|"Interacts with UI"| Dashboard
+    User -->|"Inputs features"| Simulator
+    
+    Dashboard -->|"Renders UI"| Recharts
+    Dashboard -->|"Renders UI"| SimpleMaps
+    
+    Dashboard -->|"1. Request Data"| DashService
+    Simulator -->|"1. Request Prediction"| PredService
+    
+    DashService -->|"2. Call API"| Axios
+    PredService -->|"2. Call API"| Axios
+    
+    Axios <-->|"3. HTTP GET/POST"| Backend

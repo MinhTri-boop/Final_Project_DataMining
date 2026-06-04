@@ -52,7 +52,7 @@ class PostgresManager:
             fact.to_sql("fact_events", con=connection, if_exists="replace", index=False)
 
             # Insert Cube
-            cube_table_name = f"iceberg_cube_min_sup_{min_sup}"
+            cube_table_name = "iceberg_cube"
             print(f"  Inserting {cube_table_name} ({len(cube):,} rows)...")
             cube.to_sql(cube_table_name, con=connection, if_exists="replace", index=False)
             

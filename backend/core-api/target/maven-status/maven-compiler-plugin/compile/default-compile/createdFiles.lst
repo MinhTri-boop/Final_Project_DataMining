@@ -1,0 +1,14 @@
+com\gtd\core\controller\PredictionController.class
+com\gtd\core\config\CorsConfig$1.class
+com\gtd\core\config\CorsConfig.class
+com\gtd\core\filter\LoggingFilter.class
+com\gtd\core\dto\PredictionResponseDTO.class
+com\gtd\core\service\PredictionService$1.class
+com\gtd\core\entity\CubeStat.class
+com\gtd\core\CoreApiApplication.class
+com\gtd\core\service\PredictionService.class
+com\gtd\core\dto\PredictionRequestDTO.class
+com\gtd\core\service\CubeStatService.class
+com\gtd\core\repository\CubeStatRepository.class
+com\gtd\core\dto\ApiResponse.class
+com\gtd\core\controller\CubeStatController.class

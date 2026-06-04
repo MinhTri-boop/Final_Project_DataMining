@@ -1,0 +1,28 @@
+Tôi đã rà soát toàn bộ dự án từ Backend (Java), ML Service (Python) cho đến Frontend. Nhìn chung, kiến trúc của bạn đã được thiết kế khá tốt, nhưng **hiện tại CHƯA THỂ LÊN CLOUD NGAY LẬP TỨC** vì đang vướng 2 lỗi chí mạng có thể làm sập hệ thống hoặc lộ bảo mật.
+
+Dưới đây là báo cáo chi tiết:
+
+### ✅ NHỮNG ĐIỂM RẤT TỐT (Chuẩn Cloud-native)
+1. **Quản lý đường dẫn thông minh:** Trong `ml_service/main.py`, bạn đã dùng `Path(__file__).resolve().parent.parent` để load file model `.pkl`. Đây là *Best Practice*! Nhờ vậy, khi mang code lên máy Linux của Azure nó sẽ không bị lỗi do khác hệ điều hành (không bị dính mấy đường dẫn cứng kiểu `C:/Users/...`).
+2. **Sử dụng Biến môi trường:** Cấu hình `application.properties` của Java đã linh hoạt đọc thông qua `${DB_URL}`, `${DB_USER}`. Rất chuẩn chỉnh cho việc DevOps sau này.
+
+---
+
+### 🚨 CÁC LỖI NGHIÊM TRỌNG (Bắt buộc sửa trước khi lên Cloud)
+
+**1. Rò rỉ mật khẩu Database thật vào mã nguồn (Rất nguy hiểm)**
+- Tôi thấy trong file `backend/core-api/src/main/resources/application.properties` (dòng 6) bạn đang để:
+  `spring.datasource.password=${DB_PASSWORD:Tri10032005173$}`
+- **Vấn đề:** Cái chuỗi `Tri...` kia là mật khẩu thực tế của bạn! Việc để nó làm giá trị mặc định (fallback) sẽ khiến mật khẩu này dính thẳng vào Git. Khi push lên GitHub (dù là Private repo) cũng là tối kỵ về bảo mật.
+- **Cách sửa:** Hãy xóa ngay mật khẩu đó đi, sửa thành `spring.datasource.password=${DB_PASSWORD:postgres}` (hoặc mật khẩu giả nào đó). Mật khẩu thật bạn chỉ được cấu hình bên trong máy ảo Azure.
+
+**2. Hoàn toàn chưa cấu hình CORS (Chặn mọi kết nối từ Frontend)**
+- Tôi đã quét toàn bộ source code Java nhưng không thấy annotation `@CrossOrigin` hay file cấu hình `CorsRegistry` nào cả.
+- **Vấn đề:** Khi lên Cloud, Frontend của bạn nằm ở Azure Blob Storage (có một đường link domain riêng). Còn Java nằm ở máy ảo (có IP riêng). Khi Web gọi API, trình duyệt sẽ báo lỗi **CORS Policy Blocked** màu đỏ chót vì khác Domain, và Web của bạn sẽ hoàn toàn tê liệt, không lấy được Data.
+- **Cách sửa:** Bạn phải code thêm một Class Configuration trong Spring Boot để cho phép (`Allow-Origins`) đường link của Blob Storage được quyền gọi API.
+
+**3. Frontend đang trỏ cứng về localhost**
+- File `frontend/.env` đang để `VITE_API_BASE_URL=http://localhost:8080/api/v1`.
+- **Lưu ý:** Cái này thì hiện tại để test ở máy tính là đúng. Nhưng TRƯỚC KHI bạn chạy lệnh `npm run build` để quăng lên Blob Storage, bạn **phải nhớ** sửa chữ `localhost` thành địa chỉ IP Public của máy chủ Bastion (máy đã cài Nginx proxy như thảo luận ở trên). Nếu quên bước này, Web lên Cloud vẫn sẽ tự lấy API ở localhost của người truy cập.
+
+**Tóm lại:** Bạn cần tôi viết luôn đoạn code Java cấu hình CORS để dán vào dự án không? Và nhớ đổi luôn cái password trong file properties đi nhé!
