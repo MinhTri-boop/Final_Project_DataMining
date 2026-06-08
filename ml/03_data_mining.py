@@ -69,7 +69,7 @@ def run_fp_growth(df: pd.DataFrame):
             print(f"   {rule_data['antecedents']} -> {rule_data['consequents']} (Lift: {rule_data['lift']:.2f})")
             
             print(f"FP-Growth completed in {time.time() - start:.1f}s\n")
-return rule_data
+    return rule_data
             
     print("No strong simple rules found.")
     return None
